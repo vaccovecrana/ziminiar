@@ -1,0 +1,2 @@
+# ziminiar
+Superminhash for Java

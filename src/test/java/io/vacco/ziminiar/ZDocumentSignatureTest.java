@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 @DefinedOrder
 @RunWith(J8SpecRunner.class)
-public class ZnStringShinglerTest {
+public class ZDocumentSignatureTest {
 
   public static final String d0 = "How are you? I Am fine. ablar ablar xyz blar blar blar blar blar blar blar Thanks.";
   public static final String d1 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar than";

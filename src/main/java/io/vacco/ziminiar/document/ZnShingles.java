@@ -1,4 +1,4 @@
-package io.vacco.ziminiar.transform;
+package io.vacco.ziminiar.document;
 
 import io.vacco.ziminiar.superminhash.*;
 import java.util.List;

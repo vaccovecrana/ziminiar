@@ -1,4 +1,4 @@
-package io.vacco.ziminiar.transform;
+package io.vacco.ziminiar.document;
 
 import java.util.Objects;
 
@@ -21,4 +21,5 @@ public class ZShingle implements Comparable<ZShingle> {
   @Override public String toString() {
     return String.format("[%s -> %d]", token, weight);
   }
+
 }

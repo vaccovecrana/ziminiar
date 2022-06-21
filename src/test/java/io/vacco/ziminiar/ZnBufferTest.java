@@ -1,7 +1,7 @@
 package io.vacco.ziminiar;
 
+import io.vacco.ziminiar.document.*;
 import io.vacco.ziminiar.superminhash.ZnBuffers;
-import io.vacco.ziminiar.transform.*;
 import j8spec.annotation.DefinedOrder;
 import j8spec.junit.J8SpecRunner;
 import org.junit.runner.RunWith;

@@ -27,11 +27,11 @@ public class ZnShingles {
                                       int shingleLength, int signatureLength,
                                       Function<ZShingle, Long> hashFn) {
     var shl = ZnShingles.apply(document, shingleLength);
-    var sig = new ZnBuffer().init(signatureLength);
+    var buf = new ZnBuffer().init(signatureLength);
     for (int i = 0; i < shl.size(); i++) {
-      ZnBuffers.update(hashFn.apply(shl.get(i)), sig.h, sig.b, sig.q, sig.p, sig.a, sig.m, i);
+      ZnBuffers.update(hashFn.apply(shl.get(i)), i, buf);
     }
-    return sig.fill();
+    return buf.fill();
   }
 
 }

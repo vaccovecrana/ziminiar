@@ -49,6 +49,10 @@ public class ZnBuffers {
     }
   }
 
+  public static void update(long seed, int i, ZnBuffer buf) {
+    update(seed, buf.h, buf.b, buf.q, buf.p, buf.a, buf.m, i);
+  }
+
   public static double similarity(ZnBuffer b0, ZnBuffer b1) {
     int[] a = b0.hi, b = b1.hi;
     double sim = 0;

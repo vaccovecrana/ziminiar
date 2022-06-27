@@ -2,6 +2,7 @@ package io.vacco.ziminiar.document;
 
 import io.vacco.ziminiar.superminhash.*;
 import java.util.List;
+import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.stream.*;
 
@@ -25,13 +26,23 @@ public class ZnShingles {
 
   public static ZnBuffer fromDocument(String document,
                                       int shingleLength, int signatureLength,
-                                      Function<ZShingle, Long> hashFn) {
+                                      Function<ZShingle, Long> hashFn,
+                                      Consumer<ZnBuffer> onBufferUpdate) {
     var shl = ZnShingles.apply(document, shingleLength);
     var buf = new ZnBuffer().init(signatureLength);
     for (int i = 0; i < shl.size(); i++) {
       ZnBuffers.update(hashFn.apply(shl.get(i)), i, buf);
+      if (onBufferUpdate != null) {
+        onBufferUpdate.accept(buf);
+      }
     }
     return buf.fill();
+  }
+
+  public static ZnBuffer fromDocument(String document,
+                                      int shingleLength, int signatureLength,
+                                      Function<ZShingle, Long> hashFn) {
+    return fromDocument(document, shingleLength, signatureLength, hashFn, null);
   }
 
 }

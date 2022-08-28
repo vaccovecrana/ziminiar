@@ -1,16 +1,15 @@
 package io.vacco.ziminiar;
 
 import io.vacco.ziminiar.document.*;
-import io.vacco.ziminiar.superminhash.ZnBuffer;
-import io.vacco.ziminiar.superminhash.ZnBuffers;
+import io.vacco.ziminiar.superminhash.*;
 import j8spec.annotation.DefinedOrder;
 import j8spec.junit.J8SpecRunner;
 import org.junit.runner.RunWith;
-
-import java.util.Arrays;
+import java.util.*;
 import java.util.function.Function;
 
 import static j8spec.J8Spec.*;
+import static org.junit.Assert.*;
 
 @DefinedOrder
 @RunWith(J8SpecRunner.class)
@@ -29,6 +28,8 @@ public class ZnBufferTest {
       String d1 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar than";
       String d2 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar thank";
 
+      var docPairs = new ArrayList<ZnTestPair>();
+
       for (int i = 1; i < 8; i++) {
         System.out.println(d0);
         var sig0 = ZnShingles.fromDocument(d0, i, sigLength, hashFn, ZnBufferTest::logBuffer);
@@ -43,10 +44,20 @@ public class ZnBufferTest {
         System.out.println("-----------------------------");
         System.out.printf("[sl: %d, d0-d2: %.4f]%n", i, sim02);
         System.out.printf("[sl: %d, d1-d2: %.4f]%n", i, sim12);
+
+        docPairs.add(ZnTestPair.from(d0, d2).withSimilarity(sim02));
+        docPairs.add(ZnTestPair.from(d1, d2).withSimilarity(sim12));
       }
 
+      assertTrue(docPairs.get(0).similarity > 0.77);
+      assertTrue(docPairs.get(1).similarity > 0.95);
+      assertTrue(docPairs.get(12).similarity > 0.42);
+      assertTrue(docPairs.get(13).similarity > 0.98);
+
       var shingleLength = 1;
-      for (ZnTestPair p : new ZnTestPair[]{
+      var textPairs = new ArrayList<ZnTestPair>();
+
+      for (ZnTestPair p : new ZnTestPair[] {
           ZnTestPair.from("abc", ""),
           ZnTestPair.from("", "abc"),
           ZnTestPair.from("", ""),
@@ -63,8 +74,19 @@ public class ZnBufferTest {
         var sim = ZnBuffers.similarity(b0, b1);
         System.out.println("-----------------------------");
         System.out.printf("[sl: %d, d0: %s, d1: %s, sim: %.4f]%n", shingleLength, p.d0, p.d1, sim);
+        textPairs.add(p.withSimilarity(sim));
       }
       System.out.println("-----------------------------");
+
+      assertEquals(0.0, textPairs.get(0).similarity, 0.0);
+      assertEquals(0.0, textPairs.get(1).similarity, 0.0);
+      assertEquals(1.0, textPairs.get(2).similarity, 0.0);
+      assertEquals(1.0, textPairs.get(3).similarity, 0.0);
+
+      assertTrue(textPairs.get(4).similarity < 0.025);
+      assertTrue(textPairs.get(5).similarity > 0.4);
+      assertTrue(textPairs.get(6).similarity > 0.57);
+      assertTrue(textPairs.get(7).similarity > 0.35);
     });
   }
 }

@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 @DefinedOrder
 @RunWith(J8SpecRunner.class)
-public class ZnBufferTest {
+public class ZnDocumentTest {
 
   public static void logBuffer(ZnBuffer b) {
     System.out.println(Arrays.toString(b.fill().hi));
@@ -35,11 +35,11 @@ public class ZnBufferTest {
 
       for (int i = 1; i < 8; i++) {
         System.out.println(d0);
-        b0 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d0, b0);
+        b0 = new ZnDocument(i, hashFn, ZnDocumentTest::logBuffer).update(d0, b0);
         System.out.println(d1);
-        b1 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d1, b1);
+        b1 = new ZnDocument(i, hashFn, ZnDocumentTest::logBuffer).update(d1, b1);
         System.out.println(d2);
-        b2 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d2, b2);
+        b2 = new ZnDocument(i, hashFn, ZnDocumentTest::logBuffer).update(d2, b2);
 
         var sim02 = ZnBuffers.similarity(b0, b2);
         var sim12 = ZnBuffers.similarity(b1, b2);
@@ -80,9 +80,9 @@ public class ZnBufferTest {
           ZnTestPair.from("ht", "nacht"),
       }) {
         System.out.println(p.d0);
-        b0 = new ZnDocument(shingleLength, hashFn, ZnBufferTest::logBuffer).update(p.d0, b0);
+        b0 = new ZnDocument(shingleLength, hashFn, ZnDocumentTest::logBuffer).update(p.d0, b0);
         System.out.println(p.d1);
-        b1 = new ZnDocument(shingleLength, hashFn, ZnBufferTest::logBuffer).update(p.d1, b1);
+        b1 = new ZnDocument(shingleLength, hashFn, ZnDocumentTest::logBuffer).update(p.d1, b1);
         var sim = ZnBuffers.similarity(b0, b1);
         System.out.println("-----------------------------");
         System.out.printf("[sl: %d, d0: %s, d1: %s, sim: %.4f]%n", shingleLength, p.d0, p.d1, sim);

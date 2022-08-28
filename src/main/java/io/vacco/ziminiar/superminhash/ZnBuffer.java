@@ -10,7 +10,7 @@ public class ZnBuffer {
   public int[] b, p, q;
   public int a, m;
 
-  public ZnBuffer reset() {
+  public ZnBuffer clear() {
     Arrays.fill(hi, 0);
     Arrays.fill(h, m + 1);
     Arrays.fill(b, 0);
@@ -28,7 +28,7 @@ public class ZnBuffer {
     this.q = new int[length];
     this.p = new int[length];
     this.a = m - 1;
-    return this.reset();
+    return this.clear();
   }
 
   public ZnBuffer fill() {

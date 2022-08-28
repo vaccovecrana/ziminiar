@@ -39,10 +39,4 @@ public class ZnShingles {
     return buf.fill();
   }
 
-  public static ZnBuffer fromDocument(String document,
-                                      int shingleLength, int signatureLength,
-                                      Function<ZShingle, Long> hashFn) {
-    return fromDocument(document, shingleLength, signatureLength, hashFn, null);
-  }
-
 }

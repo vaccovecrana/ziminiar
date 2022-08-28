@@ -20,26 +20,29 @@ public class ZnBufferTest {
   }
 
   static {
-    it("Converts tokens into weighted shingles", () -> {
-      var sigLength = 128;
+    var sigLength = 128;
+    Function<ZnShingle, Long> hashFn = sh -> (long) sh.token.hashCode();
 
-      Function<ZShingle, Long> hashFn = sh -> (long) sh.token.hashCode();
+    it("Computes long document similarities", () -> {
       String d0 = "How are you? I Am fine. ablar ablar xyz blar blar blar blar blar blar blar Thanks.";
       String d1 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar than";
       String d2 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar thank";
 
       var docPairs = new ArrayList<ZnTestPair>();
+      var b0 = new ZnBuffer().init(sigLength);
+      var b1 = new ZnBuffer().init(sigLength);
+      var b2 = new ZnBuffer().init(sigLength);
 
       for (int i = 1; i < 8; i++) {
         System.out.println(d0);
-        var sig0 = ZnShingles.fromDocument(d0, i, sigLength, hashFn, ZnBufferTest::logBuffer);
+        b0 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d0, b0);
         System.out.println(d1);
-        var sig1 = ZnShingles.fromDocument(d1, i, sigLength, hashFn, ZnBufferTest::logBuffer);
+        b1 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d1, b1);
         System.out.println(d2);
-        var sig2 = ZnShingles.fromDocument(d2, i, sigLength, hashFn, ZnBufferTest::logBuffer);
+        b2 = new ZnDocument(i, hashFn, ZnBufferTest::logBuffer).update(d2, b2);
 
-        var sim02 = ZnBuffers.similarity(sig0, sig2);
-        var sim12 = ZnBuffers.similarity(sig1, sig2);
+        var sim02 = ZnBuffers.similarity(b0, b2);
+        var sim12 = ZnBuffers.similarity(b1, b2);
 
         System.out.println("-----------------------------");
         System.out.printf("[sl: %d, d0-d2: %.4f]%n", i, sim02);
@@ -47,15 +50,24 @@ public class ZnBufferTest {
 
         docPairs.add(ZnTestPair.from(d0, d2).withSimilarity(sim02));
         docPairs.add(ZnTestPair.from(d1, d2).withSimilarity(sim12));
+
+        b0.clear();
+        b1.clear();
+        b2.clear();
       }
 
       assertTrue(docPairs.get(0).similarity > 0.77);
       assertTrue(docPairs.get(1).similarity > 0.95);
       assertTrue(docPairs.get(12).similarity > 0.42);
       assertTrue(docPairs.get(13).similarity > 0.98);
+    });
 
+    it("Computes short document similarities", () -> {
       var shingleLength = 1;
       var textPairs = new ArrayList<ZnTestPair>();
+
+      var b0 = new ZnBuffer().init(sigLength);
+      var b1 = new ZnBuffer().init(sigLength);
 
       for (ZnTestPair p : new ZnTestPair[] {
           ZnTestPair.from("abc", ""),
@@ -68,13 +80,16 @@ public class ZnBufferTest {
           ZnTestPair.from("ht", "nacht"),
       }) {
         System.out.println(p.d0);
-        var b0 = ZnShingles.fromDocument(p.d0, shingleLength, sigLength, hashFn, ZnBufferTest::logBuffer);
+        b0 = new ZnDocument(shingleLength, hashFn, ZnBufferTest::logBuffer).update(p.d0, b0);
         System.out.println(p.d1);
-        var b1 = ZnShingles.fromDocument(p.d1, shingleLength, sigLength, hashFn, ZnBufferTest::logBuffer);
+        b1 = new ZnDocument(shingleLength, hashFn, ZnBufferTest::logBuffer).update(p.d1, b1);
         var sim = ZnBuffers.similarity(b0, b1);
         System.out.println("-----------------------------");
         System.out.printf("[sl: %d, d0: %s, d1: %s, sim: %.4f]%n", shingleLength, p.d0, p.d1, sim);
+
         textPairs.add(p.withSimilarity(sim));
+        b0.clear();
+        b1.clear();
       }
       System.out.println("-----------------------------");
 

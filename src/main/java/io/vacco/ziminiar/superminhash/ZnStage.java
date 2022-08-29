@@ -1,7 +1,7 @@
 package io.vacco.ziminiar.superminhash;
 
-public interface ZnStage<T> {
+public interface ZnStage<V> {
 
-  ZnBuffer update(T in, ZnBuffer b);
+  ZnBuffer update(V in, ZnBuffer b);
 
 }

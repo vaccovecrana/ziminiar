@@ -1,0 +1,6913 @@
+[{
+  "id": 1,
+  "name": "",
+  "addr": "435 s. la cienega blv.",
+  "city": "los angeles",
+  "phone": "",
+  "type": "american",
+  "rClass": " '0'"
+}, {
+  "id": 2,
+  "name": "arnie morton's of chicago",
+  "addr": "435 s. la cienega blvd.",
+  "city": "los angeles",
+  "phone": "310-246-1501",
+  "type": "steakhouses",
+  "rClass": " '0'"
+}, {
+  "id": 3,
+  "name": "",
+  "addr": "12224 ventura blvd.",
+  "city": "studio city",
+  "phone": "818/762-1221",
+  "type": "american",
+  "rClass": " '1'"
+}, {
+  "id": 4,
+  "name": "art's deli",
+  "addr": "12224 ventura blvd.",
+  "city": "studio city",
+  "phone": "818-762-1221",
+  "type": "delis",
+  "rClass": " '1'"
+}, {
+  "id": 21,
+  "name": "restaurant katsu",
+  "addr": "1972 n. hillhurst ave.",
+  "city": "los angeles",
+  "phone": "213/665-1891",
+  "type": "asian",
+  "rClass": " '10'"
+}, {
+  "id": 22,
+  "name": "katsu",
+  "addr": "1972 hillhurst ave.",
+  "city": "los feliz",
+  "phone": "213-665-1891000",
+  "type": "japanese",
+  "rClass": " '10'"
+}, {
+  "id": 201,
+  "name": "Fleur de lys",
+  "addr": "777 sutter st.",
+  "city": "san francisco",
+  "phone": "415/673-7779",
+  "type": "french",
+  "rClass": " '100'"
+}, {
+  "id": 202,
+  "name": "fleur de lys",
+  "addr": "777 sutter st.",
+  "city": "san francisco",
+  "phone": "",
+  "type": "french (new)",
+  "rClass": " '100'"
+}, {
+  "id": 203,
+  "name": "fringale",
+  "addr": "570 4th st.",
+  "city": "san francisco",
+  "phone": "415/543-0573",
+  "type": "french",
+  "rClass": " '101'"
+}, {
+  "id": 204,
+  "name": "fringale",
+  "addr": "",
+  "city": "san francisco",
+  "phone": "",
+  "type": "",
+  "rClass": ""
+}, {
+  "id": 205,
+  "name": "hawthorne lane",
+  "addr": "22 hawthorne st.",
+  "city": "san francisco",
+  "phone": "415/777-9779",
+  "type": "american",
+  "rClass": " '102'"
+}, {
+  "id": 206,
+  "name": "hawthorne lane",
+  "addr": "22 hawthorne st.",
+  "city": "san francisco",
+  "phone": "415-777-9779",
+  "type": "californian",
+  "rClass": " '102'"
+}, {
+  "id": 207,
+  "name": "khan toke thai house",
+  "addr": "5937 geary blvd.",
+  "city": "san francisco",
+  "phone": "415/668-6654",
+  "type": "",
+  "rClass": " '103'"
+}, {
+  "id": 208,
+  "name": "khan toke thai house",
+  "addr": "",
+  "city": "san francisco",
+  "phone": "415/668-6654",
+  "type": "thai",
+  "rClass": " '103'"
+}, {
+  "id": 209,
+  "name": "la folie",
+  "addr": "2316 polk st.",
+  "city": "san francisco",
+  "phone": "415/776-5577",
+  "type": "french",
+  "rClass": " '104'"
+}, {
+  "id": 210,
+  "name": "",
+  "addr": "2316 polk st.",
+  "city": "san francisco",
+  "phone": "415-776-5577",
+  "type": "french (new)",
+  "rClass": " '104'"
+}, {
+  "id": 211,
+  "name": "lulu",
+  "addr": "816 folsom st.",
+  "city": "san francisco",
+  "phone": "415/495-5775",
+  "type": "mediterranean",
+  "rClass": ""
+}, {
+  "id": 212,
+  "name": "lulu restaurant-bis-cafe",
+  "addr": "816 folsom st.",
+  "city": "san francisco",
+  "phone": "415-495-5775",
+  "type": "mediterranean",
+  "rClass": " '105'"
+}, {
+  "id": 213,
+  "name": "masa's",
+  "addr": "648 bush st.",
+  "city": "san francisco",
+  "phone": "415/989-7154",
+  "type": "french",
+  "rClass": ""
+}, {
+  "id": 214,
+  "name": "masa's",
+  "addr": "648 bush st.",
+  "city": "san francisco",
+  "phone": "",
+  "type": "french (new)",
+  "rClass": " '106'"
+}, {
+  "id": 215,
+  "name": "mifune japan center  kintetsu building",
+  "addr": "1737 post st.",
+  "city": "san francisco",
+  "phone": "415/922-0337",
+  "type": "asian",
+  "rClass": " '107'"
+}, {
+  "id": 216,
+  "name": "mifune",
+  "addr": "1737 post st.",
+  "city": "san francisco",
+  "phone": "415-922-0337",
+  "type": "japanese",
+  "rClass": " '107'"
+}, {
+  "id": 218,
+  "name": "plumpjack cafe",
+  "addr": "3127 fillmore st.",
+  "city": "san francisco",
+  "phone": "415-563-4755",
+  "type": "american (new)",
+  "rClass": " '108'"
+}, {
+  "id": 217,
+  "name": "plumpjack cafe",
+  "addr": "3201 fillmore st.",
+  "city": "san francisco",
+  "phone": "415/563-4755",
+  "type": "mediterranean",
+  "rClass": " '108'"
+}, {
+  "id": 219,
+  "name": "postrio",
+  "addr": "545 post st.",
+  "city": "san francisco",
+  "phone": "415/776-7825",
+  "type": "american",
+  "rClass": " '109'"
+}, {
+  "id": 220,
+  "name": "postrio",
+  "addr": "545 post st.",
+  "city": "san francisco",
+  "phone": "",
+  "type": "californian",
+  "rClass": ""
+}, {
+  "id": 23,
+  "name": "l'orangerie",
+  "addr": "903 n. la cienega blvd.",
+  "city": "los angeles",
+  "phone": "310/652-9770",
+  "type": "french",
+  "rClass": " '11'"
+}, {
+  "id": 24,
+  "name": "l'orangerie",
+  "addr": "903 n. la cienega blvd.",
+  "city": "w. hollywood",
+  "phone": "310-652-9770",
+  "type": "french (classic)",
+  "rClass": " '11'"
+}, {
+  "id": 221,
+  "name": "ritz-carlton restaurant and dining room",
+  "addr": "600 stockton st.",
+  "city": "san francisco",
+  "phone": "415/296-7465",
+  "type": "american",
+  "rClass": " '110'"
+}, {
+  "id": 222,
+  "name": "ritz-carlton dining room (san francisco)",
+  "addr": "",
+  "city": "san francisco",
+  "phone": "415-296-7465",
+  "type": "french (new)",
+  "rClass": " '110'"
+}, {
+  "id": 223,
+  "name": "rose pistola",
+  "addr": "532 columbus ave.",
+  "city": "san francisco",
+  "phone": "415/399-0499",
+  "type": "",
+  "rClass": " '111'"
+}, {
+  "id": 224,
+  "name": "rose pistola",
+  "addr": "532 columbus ave.",
+  "city": "san francisco",
+  "phone": "415-399-0499",
+  "type": "italian",
+  "rClass": " '111'"
+}, {
+  "id": 225,
+  "name": "adriano's ristorante",
+  "addr": "2930 beverly glen circle",
+  "city": "los angeles",
+  "phone": "310/475-9807",
+  "type": "italian",
+  "rClass": " '112'"
+}, {
+  "id": 226,
+  "name": "barney greengrass",
+  "addr": "9570 wilshire blvd.",
+  "city": "beverly hills",
+  "phone": "310/777-5877",
+  "type": "american",
+  "rClass": " '113'"
+}, {
+  "id": 227,
+  "name": "beaurivage",
+  "addr": "26025 pacific coast hwy.",
+  "city": "malibu",
+  "phone": "310/456-5733",
+  "type": "french",
+  "rClass": " '114'"
+}, {
+  "id": 228,
+  "name": "bistro garden",
+  "addr": "176 n. canon dr.",
+  "city": "los angeles",
+  "phone": "310/550-3900",
+  "type": "californian",
+  "rClass": " '115'"
+}, {
+  "id": 229,
+  "name": "border grill",
+  "addr": "4th st.",
+  "city": "los angeles",
+  "phone": "310/451-1655",
+  "type": "mexican",
+  "rClass": " '116'"
+}, {
+  "id": 230,
+  "name": "broadway deli",
+  "addr": "3rd st. promenade",
+  "city": "santa monica",
+  "phone": "310/451-0616",
+  "type": "american",
+  "rClass": " '117'"
+}, {
+  "id": 231,
+  "name": "ca'brea",
+  "addr": "346 s. la brea ave.",
+  "city": "los angeles",
+  "phone": "213/938-2863",
+  "type": "italian",
+  "rClass": " '118'"
+}, {
+  "id": 232,
+  "name": "ca'del sol",
+  "addr": "4100 cahuenga blvd.",
+  "city": "los angeles",
+  "phone": "818/985-4669",
+  "type": "italian",
+  "rClass": " '119'"
+}, {
+  "id": 25,
+  "name": "le chardonnay",
+  "addr": "8284 melrose ave.",
+  "city": "los angeles",
+  "phone": "213/655-8880",
+  "type": "french",
+  "rClass": " '12'"
+}, {
+  "id": 26,
+  "name": "le chardonnay (los angeles)",
+  "addr": "8284 melrose ave.",
+  "city": "los angeles",
+  "phone": "213-655-8880",
+  "type": "french bistro",
+  "rClass": " '12'"
+}, {
+  "id": 233,
+  "name": "cafe pinot",
+  "addr": "700 w. fifth st.",
+  "city": "los angeles",
+  "phone": "213/239-6500",
+  "type": "californian",
+  "rClass": " '120'"
+}, {
+  "id": 234,
+  "name": "california pizza kitchen",
+  "addr": "207 s. beverly dr.",
+  "city": "los angeles",
+  "phone": "310/275-1101",
+  "type": "californian",
+  "rClass": " '121'"
+}, {
+  "id": 235,
+  "name": "canter's",
+  "addr": "419 n. fairfax ave.",
+  "city": "los angeles",
+  "phone": "213/651-2030.",
+  "type": "american",
+  "rClass": ""
+}, {
+  "id": 236,
+  "name": "cava",
+  "addr": "3rd st.",
+  "city": "los angeles",
+  "phone": "213/658-8898",
+  "type": "mediterranean",
+  "rClass": " '123'"
+}, {
+  "id": 237,
+  "name": "cha cha cha",
+  "addr": "656 n. virgil ave.",
+  "city": "los angeles",
+  "phone": "213/664-7723",
+  "type": "caribbean",
+  "rClass": " '124'"
+}, {
+  "id": 238,
+  "name": "chan dara",
+  "addr": "310 n. larchmont blvd.",
+  "city": "los angeles",
+  "phone": "213/467-1052",
+  "type": "asian",
+  "rClass": " '125'"
+}, {
+  "id": 239,
+  "name": "clearwater cafe",
+  "addr": "168 w. colorado blvd.",
+  "city": "los angeles",
+  "phone": "818/356-0959",
+  "type": "health food",
+  "rClass": " '126'"
+}, {
+  "id": 240,
+  "name": "dining room",
+  "addr": "9500 wilshire blvd.",
+  "city": "los angeles",
+  "phone": "310/275-5200",
+  "type": "californian",
+  "rClass": " '127'"
+}, {
+  "id": 241,
+  "name": "dive!",
+  "addr": "10250 santa monica blvd.",
+  "city": "los angeles",
+  "phone": "310/788-",
+  "type": "dive american",
+  "rClass": " '128'"
+}, {
+  "id": 242,
+  "name": "drago",
+  "addr": "2628 wilshire blvd.",
+  "city": "santa monica",
+  "phone": "310/828-1585",
+  "type": "italian",
+  "rClass": " '129'"
+}, {
+  "id": 27,
+  "name": "locanda veneta",
+  "addr": "3rd st.",
+  "city": "los angeles",
+  "phone": "310/274-1893",
+  "type": "italian",
+  "rClass": " '13'"
+}, {
+  "id": 28,
+  "name": "locanda veneta",
+  "addr": "",
+  "city": "los angeles",
+  "phone": "310-274-1893",
+  "type": "italian",
+  "rClass": " '13'"
+}, {
+  "id": 243,
+  "name": "drai's",
+  "addr": "730 n. la cienega blvd.",
+  "city": "los angeles",
+  "phone": "310/358-8585",
+  "type": "french",
+  "rClass": " '130'"
+}, {
+  "id": 244,
+  "name": "dynasty room",
+  "addr": "930 hilgard ave.",
+  "city": "los angeles",
+  "phone": "310/208-8765",
+  "type": "continental",
+  "rClass": " '131'"
+}, {
+  "id": 245,
+  "name": "eclipse",
+  "addr": "8800 melrose ave.",
+  "city": "los angeles",
+  "phone": "310/724-5959",
+  "type": "californian",
+  "rClass": ""
+}, {
+  "id": 246,
+  "name": "ed debevic's",
+  "addr": "134 n. la cienega",
+  "city": "los angeles",
+  "phone": "310/659-1952",
+  "type": "american",
+  "rClass": " '133'"
+}, {
+  "id": 247,
+  "name": "el cholo",
+  "addr": "1121 s. western ave.",
+  "city": "los angeles",
+  "phone": "213/734-2773",
+  "type": "mexican",
+  "rClass": " '134'"
+}, {
+  "id": 248,
+  "name": "gilliland's",
+  "addr": "2424 main st.",
+  "city": "santa monica",
+  "phone": "310/392-3901",
+  "type": "american",
+  "rClass": " '135'"
+}, {
+  "id": 249,
+  "name": "gladstone's",
+  "addr": "4 fish 17300 pacific coast hwy. at sunset blvd.",
+  "city": "pacific palisades",
+  "phone": "310/454-3474",
+  "type": "american",
+  "rClass": " '136'"
+}, {
+  "id": 250,
+  "name": "hard rock cafe",
+  "addr": "8600 beverly blvd.",
+  "city": "los angeles",
+  "phone": "310/276-7605",
+  "type": "american",
+  "rClass": " '137'"
+}, {
+  "id": 251,
+  "name": "harry's bar & american grill",
+  "addr": "2020 ave. of the stars",
+  "city": "los angeles",
+  "phone": "310/277-2333",
+  "type": "italian",
+  "rClass": " '138'"
+}, {
+  "id": 252,
+  "name": "il fornaio cucina italiana",
+  "addr": "301 n. beverly dr.",
+  "city": "los angeles",
+  "phone": "310/550-8330",
+  "type": "italian",
+  "rClass": " '139'"
+}, {
+  "id": 29,
+  "name": "matsuhisa",
+  "addr": "129 n. la cienega blvd.",
+  "city": "beverly hills",
+  "phone": "310/659-9639",
+  "type": "asian",
+  "rClass": " '14'"
+}, {
+  "id": 30,
+  "name": "",
+  "addr": "129 n. la cienega blvd.",
+  "city": "beverly hills",
+  "phone": "310-659-9639",
+  "type": "seafood",
+  "rClass": " '14'"
+}, {
+  "id": 253,
+  "name": "jack sprat's grill",
+  "addr": "10668 w. pico blvd.",
+  "city": "los angeles",
+  "phone": "310/837-6662",
+  "type": "health food",
+  "rClass": " '140'"
+}, {
+  "id": 254,
+  "name": "jackson's farm",
+  "addr": "439 n. beverly drive",
+  "city": "los angeles",
+  "phone": "310/273-5578",
+  "type": "californian",
+  "rClass": " '141'"
+}, {
+  "id": 255,
+  "name": "jimmy's",
+  "addr": "201 moreno dr.",
+  "city": "los angeles",
+  "phone": "310/552-2394",
+  "type": "continental",
+  "rClass": " '142'"
+}, {
+  "id": 256,
+  "name": "joss",
+  "addr": "9255 sunset blvd.",
+  "city": "los angeles",
+  "phone": "310/276-1886",
+  "type": "asian",
+  "rClass": " '143'"
+}, {
+  "id": 257,
+  "name": "le colonial",
+  "addr": "8783 beverly blvd.",
+  "city": "los angeles",
+  "phone": "310/289-0660",
+  "type": "asian",
+  "rClass": " '144'"
+}, {
+  "id": 258,
+  "name": "le dome",
+  "addr": "8720 sunset blvd.",
+  "city": "los angeles",
+  "phone": "310/659-6919",
+  "type": "french",
+  "rClass": " '145'"
+}, {
+  "id": 259,
+  "name": "louise's trattoria",
+  "addr": "4500 los feliz blvd.",
+  "city": "los angeles",
+  "phone": "213/667-0777",
+  "type": "italian",
+  "rClass": " '146'"
+}, {
+  "id": 260,
+  "name": "mon kee seafood restaurant",
+  "addr": "679 n. spring st.",
+  "city": "los angeles",
+  "phone": "213/628-6717",
+  "type": "asian",
+  "rClass": " '147'"
+}, {
+  "id": 261,
+  "name": "morton's",
+  "addr": "8764 melrose ave.",
+  "city": "los angeles",
+  "phone": "310/276-5205",
+  "type": "american",
+  "rClass": " '148'"
+}, {
+  "id": 262,
+  "name": "nate 'n' al's",
+  "addr": "414 n. beverly dr.",
+  "city": "los angeles",
+  "phone": "310/274-0101",
+  "type": "american",
+  "rClass": " '149'"
+}, {
+  "id": 31,
+  "name": "the palm",
+  "addr": "9001 santa monica blvd.",
+  "city": "los angeles",
+  "phone": "310/550-8811",
+  "type": "american",
+  "rClass": ""
+}, {
+  "id": 32,
+  "name": "palm  the (los angeles)",
+  "addr": "9001 santa monica blvd.",
+  "city": "w. hollywood",
+  "phone": "310-550-8811",
+  "type": "steakhouses",
+  "rClass": " '15'"
+}, {
+  "id": 263,
+  "name": "nicola",
+  "addr": "601 s. figueroa st.",
+  "city": "los angeles",
+  "phone": "213/485-0927",
+  "type": "american",
+  "rClass": " '150'"
+}, {
+  "id": 264,
+  "name": "ocean avenue",
+  "addr": "1401 ocean ave.",
+  "city": "santa monica",
+  "phone": "310/394-5669",
+  "type": "american",
+  "rClass": " '151'"
+}, {
+  "id": 265,
+  "name": "orleans",
+  "addr": "11705 national blvd.",
+  "city": "los angeles",
+  "phone": "310/479-4187",
+  "type": "cajun",
+  "rClass": ""
+}, {
+  "id": 266,
+  "name": "pacific dining car",
+  "addr": "6th st.",
+  "city": "los angeles",
+  "phone": "213/483-6000",
+  "type": "american",
+  "rClass": " '153'"
+}, {
+  "id": 267,
+  "name": "paty's",
+  "addr": "10001 riverside dr.",
+  "city": "toluca lake",
+  "phone": "818/761-9126",
+  "type": "american",
+  "rClass": " '154'"
+}, {
+  "id": 268,
+  "name": "pinot hollywood",
+  "addr": "1448 n. gower st.",
+  "city": "los angeles",
+  "phone": "213/461-8800",
+  "type": "californian",
+  "rClass": " '155'"
+}, {
+  "id": 269,
+  "name": "posto",
+  "addr": "14928 ventura blvd.",
+  "city": "sherman oaks",
+  "phone": "818/784-4400",
+  "type": "italian",
+  "rClass": " '156'"
+}, {
+  "id": 270,
+  "name": "prego",
+  "addr": "362 n. camden dr.",
+  "city": "los angeles",
+  "phone": "310/277-7346",
+  "type": "italian",
+  "rClass": " '157'"
+}, {
+  "id": 271,
+  "name": "rj's the rib joint",
+  "addr": "252 n. beverly dr.",
+  "city": "los angeles",
+  "phone": "310/274-7427",
+  "type": "american",
+  "rClass": " '158'"
+}, {
+  "id": 272,
+  "name": "remi",
+  "addr": "3rd st. promenade",
+  "city": "santa monica",
+  "phone": "310/393-6545",
+  "type": "italian",
+  "rClass": " '159'"
+}, {
+  "id": 33,
+  "name": "",
+  "addr": "5955 melrose ave.",
+  "city": "los angeles",
+  "phone": "213/467-1108",
+  "type": "californian",
+  "rClass": " '16'"
+}, {
+  "id": 34,
+  "name": "patina",
+  "addr": "5955 melrose ave.",
+  "city": "los angeles",
+  "phone": "213-467-1108",
+  "type": "californian",
+  "rClass": " '16'"
+}, {
+  "id": 273,
+  "name": "restaurant horikawa",
+  "addr": "111 s. san pedro st.",
+  "city": "los angeles",
+  "phone": "213/680-9355",
+  "type": "asian",
+  "rClass": " '160'"
+}, {
+  "id": 274,
+  "name": "roscoe's house of chicken 'n' waffles",
+  "addr": "",
+  "city": "los angeles",
+  "phone": "213/466-9329",
+  "type": "american",
+  "rClass": " '161'"
+}, {
+  "id": 275,
+  "name": "schatzi on main",
+  "addr": "3110 main st.",
+  "city": "los angeles",
+  "phone": "310/399-4800",
+  "type": "continental",
+  "rClass": " '162'"
+}, {
+  "id": 276,
+  "name": "sofi",
+  "addr": "3rd st.",
+  "city": "los angeles",
+  "phone": "213/651-0346",
+  "type": "mediterranean",
+  "rClass": " '163'"
+}, {
+  "id": 277,
+  "name": "swingers",
+  "addr": "8020 beverly blvd.",
+  "city": "los angeles",
+  "phone": "213/653-5858",
+  "type": "american",
+  "rClass": " '164'"
+}, {
+  "id": 278,
+  "name": "tavola calda",
+  "addr": "7371 melrose ave.",
+  "city": "los angeles",
+  "phone": "213/658-6340",
+  "type": "italian",
+  "rClass": " '165'"
+}, {
+  "id": 279,
+  "name": "the mandarin",
+  "addr": "430 n. camden dr.",
+  "city": "los angeles",
+  "phone": "310/859-0926",
+  "type": "asian",
+  "rClass": " '166'"
+}, {
+  "id": 280,
+  "name": "tommy tang's",
+  "addr": "7313 melrose ave.",
+  "city": "los angeles",
+  "phone": "213/937-5733",
+  "type": "asian",
+  "rClass": " '167'"
+}, {
+  "id": 281,
+  "name": "tra di noi",
+  "addr": "3835 cross creek rd.",
+  "city": "los angeles",
+  "phone": "310/456-0169",
+  "type": "italian",
+  "rClass": " '168'"
+}, {
+  "id": 282,
+  "name": "trader vic's",
+  "addr": "9876 wilshire blvd.",
+  "city": "los angeles",
+  "phone": "310/276-6345",
+  "type": "asian",
+  "rClass": " '169'"
+}, {
+  "id": 35,
+  "name": "philippe's the original",
+  "addr": "1001 n. alameda st.",
+  "city": "los angeles",
+  "phone": "213/628-3781",
+  "type": "american",
+  "rClass": " '17'"
+}, {
+  "id": 36,
+  "name": "philippe the original",
+  "addr": "1001 n. alameda st.",
+  "city": "chinatown",
+  "phone": "213-628-3781",
+  "type": "cafeterias",
+  "rClass": " '17'"
+}, {
+  "id": 283,
+  "name": "vida",
+  "addr": "1930 north hillhurst ave.",
+  "city": "los feliz",
+  "phone": "213/660-4446",
+  "type": "american",
+  "rClass": " '170'"
+}, {
+  "id": 284,
+  "name": "west beach cafe",
+  "addr": "60 n. venice blvd.",
+  "city": "los angeles",
+  "phone": "310/823-5396",
+  "type": "american",
+  "rClass": " '171'"
+}, {
+  "id": 285,
+  "name": "20 mott",
+  "addr": "20 mott st.  between bowery and pell st.",
+  "city": "new york",
+  "phone": "212/964-0380",
+  "type": "asian",
+  "rClass": " '172'"
+}, {
+  "id": 286,
+  "name": "9 jones street",
+  "addr": "9 jones st.",
+  "city": "new york",
+  "phone": "212/989-1220",
+  "type": "american",
+  "rClass": " '173'"
+}, {
+  "id": 287,
+  "name": "adrienne",
+  "addr": "700 5th ave. at 55th st.",
+  "city": "new york",
+  "phone": "212/903-3918",
+  "type": "french",
+  "rClass": " '174'"
+}, {
+  "id": 288,
+  "name": "agrotikon",
+  "addr": "322 e. 14 st.  between 1st and 2nd aves.",
+  "city": "new york",
+  "phone": "212/473-2602",
+  "type": "mediterranean",
+  "rClass": " '175'"
+}, {
+  "id": 289,
+  "name": "aja",
+  "addr": "937 broadway at 22nd st.",
+  "city": "new york",
+  "phone": "212/473-8388",
+  "type": "american",
+  "rClass": " '176'"
+}, {
+  "id": 290,
+  "name": "alamo",
+  "addr": "304 e. 48th st.",
+  "city": "new york",
+  "phone": "212/ 759-0590",
+  "type": "mexican",
+  "rClass": " '177'"
+}, {
+  "id": 291,
+  "name": "alley's end",
+  "addr": "311 w. 17th st.",
+  "city": "new york",
+  "phone": "212/627-8899",
+  "type": "american",
+  "rClass": " '178'"
+}, {
+  "id": 292,
+  "name": "ambassador grill",
+  "addr": "1 united nations plaza at 44th st.",
+  "city": "new york",
+  "phone": "212/702-5014",
+  "type": "american",
+  "rClass": " '179'"
+}, {
+  "id": 37,
+  "name": "pinot bistro",
+  "addr": "12969 ventura blvd.",
+  "city": "los angeles",
+  "phone": "818/990-0500",
+  "type": "french",
+  "rClass": ""
+}, {
+  "id": 38,
+  "name": "pinot bistro",
+  "addr": "12969 ventura blvd.",
+  "city": "studio city",
+  "phone": "818-990-0500",
+  "type": "french bistro",
+  "rClass": " '18'"
+}, {
+  "id": 293,
+  "name": "american place",
+  "addr": "2 park ave. at 32nd st.",
+  "city": "new york",
+  "phone": "212/684-2122",
+  "type": "american",
+  "rClass": " '180'"
+}, {
+  "id": 294,
+  "name": "anche vivolo",
+  "addr": "222 e. 58th st.  between 2nd and 3rd aves.",
+  "city": "new york",
+  "phone": "212/308-0112",
+  "type": "italian",
+  "rClass": " '181'"
+}, {
+  "id": 295,
+  "name": "arizona",
+  "addr": "206 206 e. 60th st.",
+  "city": "new york",
+  "phone": "212/838-0440",
+  "type": "american",
+  "rClass": " '182'"
+}, {
+  "id": 296,
+  "name": "arturo's",
+  "addr": "106 w. houston st.  off thompson st.",
+  "city": "new york",
+  "phone": "212/677-3820",
+  "type": "italian",
+  "rClass": " '183'"
+}, {
+  "id": 297,
+  "name": "au mandarin",
+  "addr": "200-250 vesey st. world financial center",
+  "city": "new york",
+  "phone": "212/385-0313",
+  "type": "asian",
+  "rClass": " '184'"
+}, {
+  "id": 298,
+  "name": "bar anise",
+  "addr": "1022 3rd ave.  between 60th and 61st sts.",
+  "city": "new york",
+  "phone": "212/355-1112",
+  "type": "mediterranean",
+  "rClass": " '185'"
+}, {
+  "id": 299,
+  "name": "barbetta",
+  "addr": "321 w. 46th st.",
+  "city": "new york",
+  "phone": "212/246-9171",
+  "type": "italian",
+  "rClass": " '186'"
+}, {
+  "id": 300,
+  "name": "ben benson's",
+  "addr": "123 w. 52nd st.",
+  "city": "new york",
+  "phone": "212/581-8888",
+  "type": "american",
+  "rClass": " '187'"
+}, {
+  "id": 301,
+  "name": "big cup",
+  "addr": "228 8th ave.  between 21st and 22nd sts.",
+  "city": "new york",
+  "phone": "212/206-0059",
+  "type": "coffee bar",
+  "rClass": " '188'"
+}, {
+  "id": 302,
+  "name": "billy's",
+  "addr": "948 1st ave.  between 52nd and 53rd sts.",
+  "city": "new york",
+  "phone": "212/753-1870",
+  "type": "american",
+  "rClass": " '189'"
+}, {
+  "id": 39,
+  "name": "rex il ristorante",
+  "addr": "617 s. olive st.",
+  "city": "los angeles",
+  "phone": "213/627-2300",
+  "type": "italian",
+  "rClass": " '19'"
+}, {
+  "id": 40,
+  "name": "rex il ristorante",
+  "addr": "617 s. olive st.",
+  "city": "los angeles",
+  "phone": "213-627-2300",
+  "type": "nuova cucina italian",
+  "rClass": " '19'"
+}, {
+  "id": 303,
+  "name": "boca chica",
+  "addr": "13 1st ave.  near 1st st.",
+  "city": "new york",
+  "phone": "212/473-0108",
+  "type": "latin american",
+  "rClass": " '190'"
+}, {
+  "id": 304,
+  "name": "bolo",
+  "addr": "23 e. 22nd st.",
+  "city": "new york",
+  "phone": "212/228-2200",
+  "type": "mediterranean",
+  "rClass": " '191'"
+}, {
+  "id": 305,
+  "name": "boonthai",
+  "addr": "1393a 2nd ave.  between 72nd and 73rd sts.",
+  "city": "new york",
+  "phone": "212/249-8484",
+  "type": "asian",
+  "rClass": " '192'"
+}, {
+  "id": 306,
+  "name": "bouterin",
+  "addr": "420 e. 59th st.  off 1st ave.",
+  "city": "new york",
+  "phone": "212/758-0323",
+  "type": "french",
+  "rClass": " '193'"
+}, {
+  "id": 307,
+  "name": "brothers bar-b-q",
+  "addr": "225 varick st. at clarkston st.",
+  "city": "new york",
+  "phone": "212/727-2775",
+  "type": "american",
+  "rClass": " '194'"
+}, {
+  "id": 308,
+  "name": "bruno",
+  "addr": "240 e. 58th st.",
+  "city": "new york",
+  "phone": "212/688-4190",
+  "type": "italian",
+  "rClass": " '195'"
+}, {
+  "id": 309,
+  "name": "bryant park grill  roof restaurant and bp cafe",
+  "addr": "25 w. 40th st.  between 5th and 6th aves.",
+  "city": "new york",
+  "phone": "212/840-6500",
+  "type": "american",
+  "rClass": " '196'"
+}, {
+  "id": 310,
+  "name": "c3",
+  "addr": "103 waverly pl.  near washington sq.",
+  "city": "new york",
+  "phone": "212/254-1200",
+  "type": "american",
+  "rClass": " '197'"
+}, {
+  "id": 311,
+  "name": "ct",
+  "addr": "111 e. 22nd st.  between park ave. s and lexington ave.",
+  "city": "new york",
+  "phone": "212/995-8500",
+  "type": "french",
+  "rClass": " '198'"
+}, {
+  "id": 312,
+  "name": "cafe bianco",
+  "addr": "1486 2nd ave.  between 77th and 78th sts.",
+  "city": "new york",
+  "phone": "212/988-2655",
+  "type": "coffee bar",
+  "rClass": " '199'"
+}, {
+  "id": 5,
+  "name": "hotel bel-air",
+  "addr": "701 stone canyon rd.",
+  "city": "bel air",
+  "phone": "310/472-1211",
+  "type": "californian",
+  "rClass": " '2'"
+}, {
+  "id": 6,
+  "name": "bel-air hotel",
+  "addr": "701 stone canyon rd.",
+  "city": "bel air",
+  "phone": "310-472-1211",
+  "type": "californian",
+  "rClass": " '2'"
+}, {
+  "id": 41,
+  "name": "spago",
+  "addr": "1114 horn ave.",
+  "city": "los angeles",
+  "phone": "310/652-4025",
+  "type": "californian",
+  "rClass": " '20'"
+}, {
+  "id": 42,
+  "name": "spago (los angeles)",
+  "addr": "8795 sunset blvd.",
+  "city": "w. hollywood",
+  "phone": "310-652-4025",
+  "type": "californian",
+  "rClass": " '20'"
+}, {
+  "id": 313,
+  "name": "cafe botanica",
+  "addr": "160 central park s",
+  "city": "new york",
+  "phone": "212/484-5120",
+  "type": "french",
+  "rClass": " '200'"
+}, {
+  "id": 314,
+  "name": "cafe la fortuna",
+  "addr": "69 w. 71st st.",
+  "city": "new york",
+  "phone": "212/724-5846",
+  "type": "coffee bar",
+  "rClass": " '201'"
+}, {
+  "id": 315,
+  "name": "cafe luxembourg",
+  "addr": "200 w. 70th st.",
+  "city": "new york",
+  "phone": "212/873-7411",
+  "type": "french",
+  "rClass": " '202'"
+}, {
+  "id": 316,
+  "name": "cafe pierre",
+  "addr": "2 e. 61st st.",
+  "city": "new york",
+  "phone": "212/940-8185",
+  "type": "french",
+  "rClass": " '203'"
+}, {
+  "id": 317,
+  "name": "cafe centro",
+  "addr": "200 park ave.  between 45th st. and vanderbilt ave.",
+  "city": "new york",
+  "phone": "212/818-1222",
+  "type": "french",
+  "rClass": " '204'"
+}, {
+  "id": 318,
+  "name": "cafe fes",
+  "addr": "246 w. 4th st. at charles st.",
+  "city": "new york",
+  "phone": "212/924-7653",
+  "type": "mediterranean",
+  "rClass": " '205'"
+}, {
+  "id": 319,
+  "name": "caffe dante",
+  "addr": "81 macdougal st.  between houston and bleeker sts.",
+  "city": "new york",
+  "phone": "212/982-5275",
+  "type": "coffee bar",
+  "rClass": " '206'"
+}, {
+  "id": 320,
+  "name": "caffe dell'artista",
+  "addr": "46 greenwich ave.",
+  "city": "new york",
+  "phone": "212/645-4431",
+  "type": "coffee bar",
+  "rClass": " '207'"
+}, {
+  "id": 321,
+  "name": "caffe lure",
+  "addr": "169 sullivan st.  between houston and bleecker sts.",
+  "city": "new york",
+  "phone": "212/473-2642",
+  "type": "french",
+  "rClass": " '208'"
+}, {
+  "id": 322,
+  "name": "caffe reggio",
+  "addr": "119 macdougal st.  between 3rd and bleecker sts.",
+  "city": "new york",
+  "phone": "212/475-9557",
+  "type": "coffee bar",
+  "rClass": " '209'"
+}, {
+  "id": 43,
+  "name": "valentino",
+  "addr": "3115 pico blvd.",
+  "city": "santa monica",
+  "phone": "310/829-4313",
+  "type": "italian",
+  "rClass": " '21'"
+}, {
+  "id": 44,
+  "name": "valentino",
+  "addr": "3115 pico blvd.",
+  "city": "santa monica",
+  "phone": "310-829-4313",
+  "type": "italian",
+  "rClass": " '21'"
+}, {
+  "id": 323,
+  "name": "caffe roma",
+  "addr": "385 broome st. at mulberry",
+  "city": "new york",
+  "phone": "212/226-8413",
+  "type": "coffee bar",
+  "rClass": " '210'"
+}, {
+  "id": 324,
+  "name": "caffe vivaldi",
+  "addr": "32 jones st. at bleecker st.",
+  "city": "new york",
+  "phone": "212/691-7538",
+  "type": "coffee bar",
+  "rClass": " '211'"
+}, {
+  "id": 325,
+  "name": "caffe bondi ristorante",
+  "addr": "7 w. 20th st.",
+  "city": "new york",
+  "phone": "212/691-8136",
+  "type": "italian",
+  "rClass": " '212'"
+}, {
+  "id": 326,
+  "name": "capsouto freres",
+  "addr": "451 washington st.  near watts st.",
+  "city": "new york",
+  "phone": "212/966-4900",
+  "type": "french",
+  "rClass": " '213'"
+}, {
+  "id": 327,
+  "name": "captain's table",
+  "addr": "860 2nd ave. at 46th st.",
+  "city": "new york",
+  "phone": "212/697-9538",
+  "type": "seafood",
+  "rClass": " '214'"
+}, {
+  "id": 328,
+  "name": "casa la femme",
+  "addr": "150 wooster st.  between houston and prince sts.",
+  "city": "new york",
+  "phone": "212/505-0005",
+  "type": "middle eastern",
+  "rClass": " '215'"
+}, {
+  "id": 329,
+  "name": "cendrillon asian grill & marimba bar",
+  "addr": "45 mercer st.  between broome and grand sts.",
+  "city": "new york",
+  "phone": "212/343-9012",
+  "type": "asian",
+  "rClass": " '216'"
+}, {
+  "id": 330,
+  "name": "chez jacqueline",
+  "addr": "72 macdougal st.  between w. houston and bleecker sts.",
+  "city": "new york",
+  "phone": "212/505-0727",
+  "type": "french",
+  "rClass": " '217'"
+}, {
+  "id": 331,
+  "name": "chiam",
+  "addr": "160 e. 48th st.",
+  "city": "new york",
+  "phone": "212/371-2323",
+  "type": "asian",
+  "rClass": " '218'"
+}, {
+  "id": 332,
+  "name": "china grill",
+  "addr": "60 w. 53rd st.",
+  "city": "new york",
+  "phone": "212/333-7788",
+  "type": "american",
+  "rClass": " '219'"
+}, {
+  "id": 45,
+  "name": "yujean kang's gourmet chinese cuisine",
+  "addr": "67 n. raymond ave.",
+  "city": "los angeles",
+  "phone": "818/585-0855",
+  "type": "asian",
+  "rClass": " '22'"
+}, {
+  "id": 46,
+  "name": "yujean kang's",
+  "addr": "67 n. raymond ave.",
+  "city": "pasadena",
+  "phone": "818-585-0855",
+  "type": "chinese",
+  "rClass": " '22'"
+}, {
+  "id": 333,
+  "name": "cite",
+  "addr": "120 w. 51st st.",
+  "city": "new york",
+  "phone": "212/956-7100",
+  "type": "french",
+  "rClass": " '220'"
+}, {
+  "id": 334,
+  "name": "coco pazzo",
+  "addr": "23 e. 74th st.",
+  "city": "new york",
+  "phone": "212/794-0205",
+  "type": "italian",
+  "rClass": " '221'"
+}, {
+  "id": 335,
+  "name": "columbus bakery",
+  "addr": "53rd sts.",
+  "city": "new york",
+  "phone": "212/421-0334",
+  "type": "coffee bar",
+  "rClass": " '222'"
+}, {
+  "id": 336,
+  "name": "corrado cafe",
+  "addr": "1013 3rd ave.  between 60th and 61st sts.",
+  "city": "new york",
+  "phone": "212/753-5100",
+  "type": "coffee bar",
+  "rClass": " '223'"
+}, {
+  "id": 337,
+  "name": "cupcake cafe",
+  "addr": "522 9th ave. at 39th st.",
+  "city": "new york",
+  "phone": "212/465-1530",
+  "type": "coffee bar",
+  "rClass": " '224'"
+}, {
+  "id": 338,
+  "name": "da nico",
+  "addr": "164 mulberry st.  between grand and broome sts.",
+  "city": "new york",
+  "phone": "212/343-1212",
+  "type": "italian",
+  "rClass": " '225'"
+}, {
+  "id": 339,
+  "name": "dean & deluca",
+  "addr": "121 prince st.",
+  "city": "new york",
+  "phone": "212/254-8776",
+  "type": "coffee bar",
+  "rClass": " '226'"
+}, {
+  "id": 340,
+  "name": "diva",
+  "addr": "341 w. broadway  near grand st.",
+  "city": "new york",
+  "phone": "212/941-9024",
+  "type": "italian",
+  "rClass": " '227'"
+}, {
+  "id": 341,
+  "name": "dix et sept",
+  "addr": "181 w. 10th st.",
+  "city": "new york",
+  "phone": "212/645-8023",
+  "type": "french",
+  "rClass": " '228'"
+}, {
+  "id": 342,
+  "name": "docks",
+  "addr": "633 3rd ave. at 40th st.",
+  "city": "new york",
+  "phone": "212/ 986-8080",
+  "type": "seafood",
+  "rClass": " '229'"
+}, {
+  "id": 47,
+  "name": "21 club",
+  "addr": "21 w. 52nd st.",
+  "city": "new york",
+  "phone": "212/582-7200",
+  "type": "american",
+  "rClass": " '23'"
+}, {
+  "id": 48,
+  "name": "",
+  "addr": "21 w. 52nd st.",
+  "city": "new york city",
+  "phone": "212/582-7200",
+  "type": "american (new)",
+  "rClass": " '23'"
+}, {
+  "id": 343,
+  "name": "duane park cafe",
+  "addr": "157 duane st.  between w. broadway and hudson st.",
+  "city": "new york",
+  "phone": "212/732-5555",
+  "type": "american",
+  "rClass": " '230'"
+}, {
+  "id": 344,
+  "name": "el teddy's",
+  "addr": "219 w. broadway  between franklin and white sts.",
+  "city": "new york",
+  "phone": "212/941-7070",
+  "type": "mexican",
+  "rClass": " '231'"
+}, {
+  "id": 345,
+  "name": "emily's",
+  "addr": "1325 5th ave. at 111th st.",
+  "city": "new york",
+  "phone": "212/996-1212",
+  "type": "american",
+  "rClass": " '232'"
+}, {
+  "id": 346,
+  "name": "empire korea",
+  "addr": "6 e. 32nd st.",
+  "city": "new york",
+  "phone": "212/725-1333",
+  "type": "asian",
+  "rClass": " '233'"
+}, {
+  "id": 347,
+  "name": "ernie's",
+  "addr": "2150 broadway  between 75th and 76th sts.",
+  "city": "new york",
+  "phone": "212/496-1588",
+  "type": "american",
+  "rClass": " '234'"
+}, {
+  "id": 348,
+  "name": "evergreen cafe",
+  "addr": "1288 1st ave. at 69th st.",
+  "city": "new york",
+  "phone": "212/744-3266",
+  "type": "asian",
+  "rClass": " '235'"
+}, {
+  "id": 349,
+  "name": "f. ille ponte ristorante",
+  "addr": "39 desbrosses st.  near west st.",
+  "city": "new york",
+  "phone": "212/226-4621",
+  "type": "italian",
+  "rClass": " '236'"
+}, {
+  "id": 350,
+  "name": "felix",
+  "addr": "340 w. broadway at grand st.",
+  "city": "new york",
+  "phone": "212/431-0021",
+  "type": "french",
+  "rClass": " '237'"
+}, {
+  "id": 351,
+  "name": "ferrier",
+  "addr": "29 e. 65th st.",
+  "city": "new york",
+  "phone": "212/772-9000",
+  "type": "french",
+  "rClass": " '238'"
+}, {
+  "id": 352,
+  "name": "fifty seven fifty seven",
+  "addr": "57 e. 57th st.",
+  "city": "new york",
+  "phone": "212/758-5757",
+  "type": "american",
+  "rClass": " '239'"
+}, {
+  "id": 49,
+  "name": "aquavit",
+  "addr": "13 w. 54th st.",
+  "city": "new york",
+  "phone": "212/307-7311",
+  "type": "continental",
+  "rClass": " '24'"
+}, {
+  "id": 50,
+  "name": "aquavit",
+  "addr": "13 w. 54th st.",
+  "city": "new york city",
+  "phone": "212-307-7311",
+  "type": "scandinavian",
+  "rClass": " '24'"
+}, {
+  "id": 353,
+  "name": "film center cafe",
+  "addr": "635 9th ave.  between 44th and 45th sts.",
+  "city": "new york",
+  "phone": "212/ 262-2525",
+  "type": "american",
+  "rClass": " '240'"
+}, {
+  "id": 354,
+  "name": "fiorello's roman cafe",
+  "addr": "1900 broadway  between 63rd and 64th sts.",
+  "city": "new york",
+  "phone": "212/595-5330",
+  "type": "italian",
+  "rClass": " '241'"
+}, {
+  "id": 355,
+  "name": "firehouse",
+  "addr": "522 columbus ave.  between 85th and 86th sts.",
+  "city": "new york",
+  "phone": "212/595-3139",
+  "type": "american",
+  "rClass": " '242'"
+}, {
+  "id": 356,
+  "name": "first",
+  "addr": "87 1st ave.  between 5th and 6th sts.",
+  "city": "new york",
+  "phone": "212/674-3823",
+  "type": "american",
+  "rClass": " '243'"
+}, {
+  "id": 357,
+  "name": "fishin eddie",
+  "addr": "73 w. 71st st.",
+  "city": "new york",
+  "phone": "212/874-3474",
+  "type": "seafood",
+  "rClass": " '244'"
+}, {
+  "id": 358,
+  "name": "fleur de jour",
+  "addr": "348 e. 62nd st.",
+  "city": "new york",
+  "phone": "212/355-2020",
+  "type": "coffee bar",
+  "rClass": " '245'"
+}, {
+  "id": 359,
+  "name": "flowers",
+  "addr": "21 west 17th st.  between 5th and 6th aves.",
+  "city": "new york",
+  "phone": "212/691-8888",
+  "type": "american",
+  "rClass": " '246'"
+}, {
+  "id": 360,
+  "name": "follonico",
+  "addr": "6 w. 24th st.",
+  "city": "new york",
+  "phone": "212/691-6359",
+  "type": "italian",
+  "rClass": " '247'"
+}, {
+  "id": 361,
+  "name": "fraunces tavern",
+  "addr": "54 pearl st. at broad st.",
+  "city": "new york",
+  "phone": "212/269-0144",
+  "type": "american",
+  "rClass": " '248'"
+}, {
+  "id": 362,
+  "name": "french roast",
+  "addr": "458 6th ave. at 11th st.",
+  "city": "new york",
+  "phone": "212/533-2233",
+  "type": "french",
+  "rClass": " '249'"
+}, {
+  "id": 51,
+  "name": "aureole",
+  "addr": "34 e. 61st st.",
+  "city": "new york",
+  "phone": "212/ 319-1660",
+  "type": "american",
+  "rClass": " '25'"
+}, {
+  "id": 52,
+  "name": "aureole",
+  "addr": "34 e. 61st st.",
+  "city": "new york city",
+  "phone": "212-319-1660",
+  "type": "american (new)",
+  "rClass": " '25'"
+}, {
+  "id": 363,
+  "name": "french roast cafe",
+  "addr": "2340 broadway at 85th st.",
+  "city": "new york",
+  "phone": "212/799-1533",
+  "type": "coffee bar",
+  "rClass": " '250'"
+}, {
+  "id": 364,
+  "name": "frico bar",
+  "addr": "402 w. 43rd st.  off 9th ave.",
+  "city": "new york",
+  "phone": "212/564-7272",
+  "type": "italian",
+  "rClass": " '251'"
+}, {
+  "id": 365,
+  "name": "fujiyama mama",
+  "addr": "467 columbus ave.  between 82nd and 83rd sts.",
+  "city": "new york",
+  "phone": "212/769-1144",
+  "type": "asian",
+  "rClass": " '252'"
+}, {
+  "id": 366,
+  "name": "gabriela's",
+  "addr": "685 amsterdam ave. at 93rd st.",
+  "city": "new york",
+  "phone": "212/961-0574",
+  "type": "mexican",
+  "rClass": " '253'"
+}, {
+  "id": 367,
+  "name": "gallagher's",
+  "addr": "228 w. 52nd st.",
+  "city": "new york",
+  "phone": "212/245-5336",
+  "type": "american",
+  "rClass": " '254'"
+}, {
+  "id": 368,
+  "name": "gianni's",
+  "addr": "15 fulton st.",
+  "city": "new york",
+  "phone": "212/608-7300",
+  "type": "seafood",
+  "rClass": " '255'"
+}, {
+  "id": 369,
+  "name": "girafe",
+  "addr": "208 e. 58th st.  between 2nd and 3rd aves.",
+  "city": "new york",
+  "phone": "212/752-3054",
+  "type": "italian",
+  "rClass": " '256'"
+}, {
+  "id": 370,
+  "name": "global",
+  "addr": "33 93 2nd ave.  between 5th and 6th sts.",
+  "city": "new york",
+  "phone": "212/477-8427",
+  "type": "american",
+  "rClass": " '257'"
+}, {
+  "id": 371,
+  "name": "golden unicorn",
+  "addr": "18 e. broadway at catherine st.",
+  "city": "new york",
+  "phone": "212/ 941-0911",
+  "type": "asian",
+  "rClass": " '258'"
+}, {
+  "id": 372,
+  "name": "grand ticino",
+  "addr": "228 thompson st.  between w. 3rd and bleecker sts.",
+  "city": "new york",
+  "phone": "212/777-5922",
+  "type": "italian",
+  "rClass": " '259'"
+}, {
+  "id": 53,
+  "name": "cafe lalo",
+  "addr": "201 w. 83rd st.",
+  "city": "new york",
+  "phone": "212/496-6031",
+  "type": "coffee bar",
+  "rClass": " '26'"
+}, {
+  "id": 54,
+  "name": "cafe lalo",
+  "addr": "201 w. 83rd st.",
+  "city": "new york city",
+  "phone": "212-496-6031",
+  "type": "coffeehouses",
+  "rClass": " '26'"
+}, {
+  "id": 373,
+  "name": "halcyon",
+  "addr": "151 w. 54th st.  in the rihga royal hotel",
+  "city": "new york",
+  "phone": "212/468-8888",
+  "type": "american",
+  "rClass": " '260'"
+}, {
+  "id": 374,
+  "name": "hard rock cafe",
+  "addr": "221 w. 57th st.",
+  "city": "new york",
+  "phone": "212/489-6565",
+  "type": "american",
+  "rClass": " '261'"
+}, {
+  "id": 375,
+  "name": "hi-life restaurant and lounge",
+  "addr": "1340 1st ave. at 72nd st.",
+  "city": "new york",
+  "phone": "212/249-3600",
+  "type": "american",
+  "rClass": " '262'"
+}, {
+  "id": 376,
+  "name": "home",
+  "addr": "20 cornelia st.  between bleecker and w. 4th st.",
+  "city": "new york",
+  "phone": "212/243-9579",
+  "type": "american",
+  "rClass": " '263'"
+}, {
+  "id": 377,
+  "name": "hudson river club",
+  "addr": "4 world financial center",
+  "city": "new york",
+  "phone": "212/786-1500",
+  "type": "american",
+  "rClass": " '264'"
+}, {
+  "id": 378,
+  "name": "i trulli",
+  "addr": "122 e. 27th st.  between lexington and park aves.",
+  "city": "new york",
+  "phone": "212/481-7372",
+  "type": "italian",
+  "rClass": " '265'"
+}, {
+  "id": 379,
+  "name": "il cortile",
+  "addr": "125 mulberry st.  between canal and hester sts.",
+  "city": "new york",
+  "phone": "212/226-6060",
+  "type": "italian",
+  "rClass": " '266'"
+}, {
+  "id": 380,
+  "name": "il nido",
+  "addr": "251 e. 53rd st.",
+  "city": "new york",
+  "phone": "212/753-8450",
+  "type": "italian",
+  "rClass": " '267'"
+}, {
+  "id": 381,
+  "name": "inca grill",
+  "addr": "492 broome st.  near w. broadway",
+  "city": "new york",
+  "phone": "212/966-3371",
+  "type": "latin american",
+  "rClass": " '268'"
+}, {
+  "id": 382,
+  "name": "indochine",
+  "addr": "430 lafayette st.  between 4th st. and astor pl.",
+  "city": "new york",
+  "phone": "212/505-5111",
+  "type": "asian",
+  "rClass": " '269'"
+}, {
+  "id": 55,
+  "name": "cafe des artistes",
+  "addr": "1 w. 67th st.",
+  "city": "new york",
+  "phone": "212/877-3500",
+  "type": "continental",
+  "rClass": " '27'"
+}, {
+  "id": 56,
+  "name": "cafe des artistes",
+  "addr": "1 w. 67th st.",
+  "city": "new york city",
+  "phone": "212-877-3500",
+  "type": "french (classic)",
+  "rClass": " '27'"
+}, {
+  "id": 383,
+  "name": "internet cafe",
+  "addr": "82 e. 3rd st.  between 1st and 2nd aves.",
+  "city": "new york",
+  "phone": "212/ 614-0747",
+  "type": "coffee bar",
+  "rClass": " '270'"
+}, {
+  "id": 384,
+  "name": "ipanema",
+  "addr": "13 w. 46th st.",
+  "city": "new york",
+  "phone": "212/730-5848",
+  "type": "latin american",
+  "rClass": " '271'"
+}, {
+  "id": 385,
+  "name": "jean lafitte",
+  "addr": "68 w. 58th st.",
+  "city": "new york",
+  "phone": "212/751-2323",
+  "type": "french",
+  "rClass": " '272'"
+}, {
+  "id": 386,
+  "name": "jewel of india",
+  "addr": "15 w. 44th st.",
+  "city": "new york",
+  "phone": "212/869-5544",
+  "type": "asian",
+  "rClass": " '273'"
+}, {
+  "id": 387,
+  "name": "jimmy sung's",
+  "addr": "219 e. 44th st.  between 2nd and 3rd aves.",
+  "city": "new york",
+  "phone": "212/682-5678",
+  "type": "asian",
+  "rClass": " '274'"
+}, {
+  "id": 388,
+  "name": "joe allen",
+  "addr": "326 w. 46th st.",
+  "city": "new york",
+  "phone": "212/581-6464",
+  "type": "american",
+  "rClass": " '275'"
+}, {
+  "id": 389,
+  "name": "judson grill",
+  "addr": "152 w. 52nd st.",
+  "city": "new york",
+  "phone": "212/582-5252",
+  "type": "american",
+  "rClass": " '276'"
+}, {
+  "id": 390,
+  "name": "l'absinthe",
+  "addr": "227 e. 67th st.",
+  "city": "new york",
+  "phone": "212/794-4950",
+  "type": "french",
+  "rClass": " '277'"
+}, {
+  "id": 391,
+  "name": "l'auberge",
+  "addr": "1191 1st ave.  between 64th and 65th sts.",
+  "city": "new york",
+  "phone": "212/288-8791",
+  "type": "middle eastern",
+  "rClass": " '278'"
+}, {
+  "id": 392,
+  "name": "l'auberge du midi",
+  "addr": "310 w. 4th st.  between w. 12th and bank sts.",
+  "city": "new york",
+  "phone": "212/242-4705",
+  "type": "french",
+  "rClass": " '279'"
+}, {
+  "id": 57,
+  "name": "carmine's",
+  "addr": "2450 broadway  between 90th and 91st sts.",
+  "city": "new york",
+  "phone": "212/362-2200",
+  "type": "italian",
+  "rClass": " '28'"
+}, {
+  "id": 58,
+  "name": "carmine's",
+  "addr": "2450 broadway",
+  "city": "new york city",
+  "phone": "212-362-2200",
+  "type": "italian",
+  "rClass": " '28'"
+}, {
+  "id": 393,
+  "name": "l'udo",
+  "addr": "432 lafayette st.  near astor pl.",
+  "city": "new york",
+  "phone": "212/388-0978",
+  "type": "french",
+  "rClass": " '280'"
+}, {
+  "id": 394,
+  "name": "la reserve",
+  "addr": "4 w. 49th st.",
+  "city": "new york",
+  "phone": "212/247-2993",
+  "type": "french",
+  "rClass": " '281'"
+}, {
+  "id": 395,
+  "name": "lanza restaurant",
+  "addr": "168 1st ave.  between 10th and 11th sts.",
+  "city": "new york",
+  "phone": "212/674-7014",
+  "type": "italian",
+  "rClass": " '282'"
+}, {
+  "id": 396,
+  "name": "lattanzi ristorante",
+  "addr": "361 w. 46th st.",
+  "city": "new york",
+  "phone": "212/315-0980",
+  "type": "italian",
+  "rClass": " '283'"
+}, {
+  "id": 397,
+  "name": "layla",
+  "addr": "211 w. broadway at franklin st.",
+  "city": "new york",
+  "phone": "212/431-0700",
+  "type": "middle eastern",
+  "rClass": " '284'"
+}, {
+  "id": 398,
+  "name": "le chantilly",
+  "addr": "106 e. 57th st.",
+  "city": "new york",
+  "phone": "212/751-2931",
+  "type": "french",
+  "rClass": " '285'"
+}, {
+  "id": 399,
+  "name": "le colonial",
+  "addr": "149 e. 57th st.",
+  "city": "new york",
+  "phone": "212/ 752-0808",
+  "type": "asian",
+  "rClass": " '286'"
+}, {
+  "id": 400,
+  "name": "le gamin",
+  "addr": "50 macdougal st.  between houston and prince sts.",
+  "city": "new york",
+  "phone": "212/254-4678",
+  "type": "coffee bar",
+  "rClass": " '287'"
+}, {
+  "id": 401,
+  "name": "le jardin",
+  "addr": "25 cleveland pl.  near spring st.",
+  "city": "new york",
+  "phone": "212/343-9599",
+  "type": "french",
+  "rClass": " '288'"
+}, {
+  "id": 402,
+  "name": "le madri",
+  "addr": "168 w. 18th st.",
+  "city": "new york",
+  "phone": "212/727-8022",
+  "type": "italian",
+  "rClass": " '289'"
+}, {
+  "id": 59,
+  "name": "carnegie deli",
+  "addr": "854 7th ave.  between 54th and 55th sts.",
+  "city": "new york",
+  "phone": "212/757-2245",
+  "type": "delicatessen",
+  "rClass": " '29'"
+}, {
+  "id": 60,
+  "name": "carnegie deli",
+  "addr": "854 seventh ave.",
+  "city": "new york city",
+  "phone": "212-757-2245",
+  "type": "delis",
+  "rClass": " '29'"
+}, {
+  "id": 403,
+  "name": "le marais",
+  "addr": "150 w. 46th st.",
+  "city": "new york",
+  "phone": "212/869-0900",
+  "type": "american",
+  "rClass": " '290'"
+}, {
+  "id": 404,
+  "name": "le perigord",
+  "addr": "405 e. 52nd st.",
+  "city": "new york",
+  "phone": "212/755-6244",
+  "type": "french",
+  "rClass": " '291'"
+}, {
+  "id": 405,
+  "name": "le select",
+  "addr": "507 columbus ave.  between 84th and 85th sts.",
+  "city": "new york",
+  "phone": "212/875-1993",
+  "type": "american",
+  "rClass": " '292'"
+}, {
+  "id": 406,
+  "name": "les halles",
+  "addr": "411 park ave. s  between 28th and 29th sts.",
+  "city": "new york",
+  "phone": "212/679-4111",
+  "type": "french",
+  "rClass": " '293'"
+}, {
+  "id": 407,
+  "name": "lincoln tavern",
+  "addr": "51 w. 64th st.",
+  "city": "new york",
+  "phone": "212/721-8271",
+  "type": "american",
+  "rClass": " '294'"
+}, {
+  "id": 408,
+  "name": "lola",
+  "addr": "30 west 22nd st.  between 5th and 6th ave.",
+  "city": "new york",
+  "phone": "212/675-6700",
+  "type": "american",
+  "rClass": " '295'"
+}, {
+  "id": 409,
+  "name": "lucky strike",
+  "addr": "59 grand st.  between wooster st. and w. broadway",
+  "city": "new york",
+  "phone": "212/941-0479",
+  "type": "or 212/941-0772 american",
+  "rClass": " '296'"
+}, {
+  "id": 410,
+  "name": "mad fish",
+  "addr": "2182 broadway  between 77th and 78th sts.",
+  "city": "new york",
+  "phone": "212/787-0202",
+  "type": "seafood",
+  "rClass": " '297'"
+}, {
+  "id": 411,
+  "name": "main street",
+  "addr": "446 columbus ave.  between 81st and 82nd sts.",
+  "city": "new york",
+  "phone": "212/873-5025",
+  "type": "american",
+  "rClass": " '298'"
+}, {
+  "id": 412,
+  "name": "mangia e bevi",
+  "addr": "800 9th ave. at 53rd st.",
+  "city": "new york",
+  "phone": "212/956-3976",
+  "type": "italian",
+  "rClass": " '299'"
+}, {
+  "id": 7,
+  "name": "cafe bizou",
+  "addr": "14016 ventura blvd.",
+  "city": "sherman oaks",
+  "phone": "818/788-3536",
+  "type": "french",
+  "rClass": " '3'"
+}, {
+  "id": 8,
+  "name": "cafe bizou",
+  "addr": "14016 ventura blvd.",
+  "city": "sherman oaks",
+  "phone": "818-788-3536",
+  "type": "french bistro",
+  "rClass": " '3'"
+}, {
+  "id": 61,
+  "name": "chanterelle",
+  "addr": "2 harrison st.  near hudson st.",
+  "city": "new york",
+  "phone": "212/966-6960",
+  "type": "american",
+  "rClass": " '30'"
+}, {
+  "id": 62,
+  "name": "chanterelle",
+  "addr": "2 harrison st.",
+  "city": "new york city",
+  "phone": "212-966-6960",
+  "type": "french (new)",
+  "rClass": " '30'"
+}, {
+  "id": 413,
+  "name": "manhattan cafe",
+  "addr": "1161 1st ave.  between 63rd and 64th sts.",
+  "city": "new york",
+  "phone": "212/888-6556",
+  "type": "american",
+  "rClass": " '300'"
+}, {
+  "id": 414,
+  "name": "manila garden",
+  "addr": "325 e. 14th st.  between 1st and 2nd aves.",
+  "city": "new york",
+  "phone": "212/777-6314",
+  "type": "asian",
+  "rClass": " '301'"
+}, {
+  "id": 415,
+  "name": "marichu",
+  "addr": "342 e. 46th st.  between 1st and 2nd aves.",
+  "city": "new york",
+  "phone": "212/370-1866",
+  "type": "french",
+  "rClass": " '302'"
+}, {
+  "id": 416,
+  "name": "marquet patisserie",
+  "addr": "15 e. 12th st.  between 5th ave. and university pl.",
+  "city": "new york",
+  "phone": "212/229-9313",
+  "type": "coffee bar",
+  "rClass": " '303'"
+}, {
+  "id": 417,
+  "name": "match",
+  "addr": "160 mercer st.  between houston and prince sts.",
+  "city": "new york",
+  "phone": "212/906-9173",
+  "type": "american",
+  "rClass": " '304'"
+}, {
+  "id": 418,
+  "name": "matthew's",
+  "addr": "1030 3rd ave. at 61st st.",
+  "city": "new york",
+  "phone": "212/838-4343",
+  "type": "american",
+  "rClass": " '305'"
+}, {
+  "id": 419,
+  "name": "mavalli palace",
+  "addr": "46 e. 29th st.",
+  "city": "new york",
+  "phone": "212/679-5535",
+  "type": "asian",
+  "rClass": " '306'"
+}, {
+  "id": 420,
+  "name": "milan cafe and coffee bar",
+  "addr": "120 w. 23rd st.",
+  "city": "new york",
+  "phone": "212/807-1801",
+  "type": "coffee bar",
+  "rClass": " '307'"
+}, {
+  "id": 421,
+  "name": "monkey bar",
+  "addr": "60 e. 54th st.",
+  "city": "new york",
+  "phone": "212/838-2600",
+  "type": "american",
+  "rClass": " '308'"
+}, {
+  "id": 422,
+  "name": "montien",
+  "addr": "1134 1st ave.   between 62nd and 63rd sts.",
+  "city": "new york",
+  "phone": "212/421-4433",
+  "type": "asian",
+  "rClass": " '309'"
+}, {
+  "id": 63,
+  "name": "danile",
+  "addr": "20 e. 76th st.",
+  "city": "new york",
+  "phone": "212/288-0033",
+  "type": "french",
+  "rClass": " '31'"
+}, {
+  "id": 64,
+  "name": "daniel",
+  "addr": "20 e. 76th st.",
+  "city": "new york city",
+  "phone": "212-288-0033",
+  "type": "french (new)",
+  "rClass": " '31'"
+}, {
+  "id": 423,
+  "name": "morton's",
+  "addr": "551 5th ave. at 45th st.",
+  "city": "new york",
+  "phone": "212/972-3315",
+  "type": "american",
+  "rClass": " '310'"
+}, {
+  "id": 424,
+  "name": "motown cafe",
+  "addr": "104 w. 57th st.  near 6th ave.",
+  "city": "new york",
+  "phone": "212/581-8030",
+  "type": "american",
+  "rClass": " '311'"
+}, {
+  "id": 425,
+  "name": "new york kom tang soot bul house",
+  "addr": "32 w. 32nd st.",
+  "city": "new york",
+  "phone": "212/ 947-8482",
+  "type": "asian",
+  "rClass": " '312'"
+}, {
+  "id": 426,
+  "name": "new york noodletown",
+  "addr": "28 1/2 bowery at bayard st.",
+  "city": "new york",
+  "phone": "212/349-0923",
+  "type": "asian",
+  "rClass": " '313'"
+}, {
+  "id": 427,
+  "name": "newsbar",
+  "addr": "2 w. 19th st.",
+  "city": "new york",
+  "phone": "212/255-3996",
+  "type": "coffee bar",
+  "rClass": " '314'"
+}, {
+  "id": 428,
+  "name": "odeon",
+  "addr": "145 w. broadway at thomas st.",
+  "city": "new york",
+  "phone": "212/233-0507",
+  "type": "american",
+  "rClass": " '315'"
+}, {
+  "id": 429,
+  "name": "orso",
+  "addr": "322 w. 46th st.",
+  "city": "new york",
+  "phone": "212/489-7212",
+  "type": "italian",
+  "rClass": " '316'"
+}, {
+  "id": 430,
+  "name": "osteria al droge",
+  "addr": "142 w. 44th st.",
+  "city": "new york",
+  "phone": "212/944-3643",
+  "type": "italian",
+  "rClass": " '317'"
+}, {
+  "id": 431,
+  "name": "otabe",
+  "addr": "68 e. 56th st.",
+  "city": "new york",
+  "phone": "212/223-7575",
+  "type": "asian",
+  "rClass": " '318'"
+}, {
+  "id": 432,
+  "name": "pacifica",
+  "addr": "138 lafayette st.  between canal and howard sts.",
+  "city": "new york",
+  "phone": "212/941-4168",
+  "type": "asian",
+  "rClass": " '319'"
+}, {
+  "id": 65,
+  "name": "dawat",
+  "addr": "210 e. 58th st.",
+  "city": "new york",
+  "phone": "212/355-7555",
+  "type": "asian",
+  "rClass": " '32'"
+}, {
+  "id": 66,
+  "name": "dawat",
+  "addr": "210 e. 58th st.",
+  "city": "new york city",
+  "phone": "212-355-7555",
+  "type": "indian",
+  "rClass": " '32'"
+}, {
+  "id": 433,
+  "name": "palio",
+  "addr": "151 w. 51st. st.",
+  "city": "new york",
+  "phone": "212/245-4850",
+  "type": "italian",
+  "rClass": " '320'"
+}, {
+  "id": 434,
+  "name": "pamir",
+  "addr": "1065 1st ave.  at 58th st.",
+  "city": "new york",
+  "phone": "212/644-9258",
+  "type": "middle eastern",
+  "rClass": " '321'"
+}, {
+  "id": 435,
+  "name": "parioli romanissimo",
+  "addr": "24 e. 81st st.",
+  "city": "new york",
+  "phone": "212/288-2391",
+  "type": "italian",
+  "rClass": " '322'"
+}, {
+  "id": 436,
+  "name": "patria",
+  "addr": "250 park ave. s at 20th st.",
+  "city": "new york",
+  "phone": "212/777-6211",
+  "type": "latin american",
+  "rClass": " '323'"
+}, {
+  "id": 437,
+  "name": "peacock alley",
+  "addr": "301 park ave.  between 49th and 50th sts.",
+  "city": "new york",
+  "phone": "212/872-4895",
+  "type": "french",
+  "rClass": " '324'"
+}, {
+  "id": 438,
+  "name": "pen & pencil",
+  "addr": "205 e. 45th st.",
+  "city": "new york",
+  "phone": "212/682-8660",
+  "type": "american",
+  "rClass": " '325'"
+}, {
+  "id": 439,
+  "name": "penang soho",
+  "addr": "109 spring st.  between greene and mercer sts.",
+  "city": "new york",
+  "phone": "212/274-8883",
+  "type": "asian",
+  "rClass": " '326'"
+}, {
+  "id": 440,
+  "name": "persepolis",
+  "addr": "1423 2nd ave.  between 74th and 75th sts.",
+  "city": "new york",
+  "phone": "212/535-1100",
+  "type": "middle eastern",
+  "rClass": " '327'"
+}, {
+  "id": 441,
+  "name": "planet hollywood",
+  "addr": "140 w. 57th st.",
+  "city": "new york",
+  "phone": "212/333-7827",
+  "type": "american",
+  "rClass": " '328'"
+}, {
+  "id": 442,
+  "name": "pomaire",
+  "addr": "371 w. 46th st.  off 9th ave.",
+  "city": "new york",
+  "phone": "212/ 956-3055",
+  "type": "latin american",
+  "rClass": " '329'"
+}, {
+  "id": 67,
+  "name": "felidia",
+  "addr": "243 e. 58th st.",
+  "city": "new york",
+  "phone": "212/758-1479",
+  "type": "italian",
+  "rClass": " '33'"
+}, {
+  "id": 68,
+  "name": "felidia",
+  "addr": "243 e. 58th st.",
+  "city": "new york city",
+  "phone": "212-758-1479",
+  "type": "italian",
+  "rClass": " '33'"
+}, {
+  "id": 443,
+  "name": "popover cafe",
+  "addr": "551 amsterdam ave.  between 86th and 87th sts.",
+  "city": "new york",
+  "phone": "212/595-8555",
+  "type": "american",
+  "rClass": " '330'"
+}, {
+  "id": 444,
+  "name": "post house",
+  "addr": "28 e. 63rd st.",
+  "city": "new york",
+  "phone": "212/935-2888",
+  "type": "american",
+  "rClass": " '331'"
+}, {
+  "id": 445,
+  "name": "rain",
+  "addr": "100 w. 82nd st.",
+  "city": "new york",
+  "phone": "212/501-0776",
+  "type": "asian",
+  "rClass": " '332'"
+}, {
+  "id": 446,
+  "name": "red tulip",
+  "addr": "439 e. 75th st.",
+  "city": "new york",
+  "phone": "212/734-4893",
+  "type": "eastern european",
+  "rClass": " '333'"
+}, {
+  "id": 447,
+  "name": "remi",
+  "addr": "145 w. 53rd st.",
+  "city": "new york",
+  "phone": "212/581-4242",
+  "type": "italian",
+  "rClass": " '334'"
+}, {
+  "id": 448,
+  "name": "republic",
+  "addr": "37a union sq. w  between 16th and 17th sts.",
+  "city": "new york",
+  "phone": "212/627-7172",
+  "type": "asian",
+  "rClass": " '335'"
+}, {
+  "id": 449,
+  "name": "roettelle a. g",
+  "addr": "126 e. 7th st.  between 1st ave. and ave. a",
+  "city": "new york",
+  "phone": "212/674-4140",
+  "type": "continental",
+  "rClass": " '336'"
+}, {
+  "id": 450,
+  "name": "rosa mexicano",
+  "addr": "1063 1st ave. at 58th st.",
+  "city": "new york",
+  "phone": "212/753-7407",
+  "type": "mexican",
+  "rClass": " '337'"
+}, {
+  "id": 451,
+  "name": "ruth's chris",
+  "addr": "148 w. 51st st.",
+  "city": "new york",
+  "phone": "212/245-9600",
+  "type": "american",
+  "rClass": " '338'"
+}, {
+  "id": 452,
+  "name": "s.p.q.r",
+  "addr": "133 mulberry st.  between hester and grand sts.",
+  "city": "new york",
+  "phone": "212/925-3120",
+  "type": "italian",
+  "rClass": " '339'"
+}, {
+  "id": 69,
+  "name": "four seasons grill room",
+  "addr": "99 e. 52nd st.",
+  "city": "new york",
+  "phone": "212/754-9494",
+  "type": "american",
+  "rClass": " '34'"
+}, {
+  "id": 70,
+  "name": "four seasons",
+  "addr": "99 e. 52nd st.",
+  "city": "new york city",
+  "phone": "212-754-9494",
+  "type": "american (new)",
+  "rClass": " '34'"
+}, {
+  "id": 453,
+  "name": "sal anthony's",
+  "addr": "55 irving pl.",
+  "city": "new york",
+  "phone": "212/982-9030",
+  "type": "italian",
+  "rClass": " '340'"
+}, {
+  "id": 454,
+  "name": "sammy's roumanian steak house",
+  "addr": "157 chrystie st. at delancey st.",
+  "city": "new york",
+  "phone": "212/673-0330",
+  "type": "east european",
+  "rClass": " '341'"
+}, {
+  "id": 455,
+  "name": "san pietro",
+  "addr": "18 e. 54th st.",
+  "city": "new york",
+  "phone": "212/753-9015",
+  "type": "italian",
+  "rClass": " '342'"
+}, {
+  "id": 456,
+  "name": "sant ambroeus",
+  "addr": "1000 madison ave.  between 77th and 78th sts.",
+  "city": "new york",
+  "phone": "212/570-2211",
+  "type": "coffee bar",
+  "rClass": " '343'"
+}, {
+  "id": 457,
+  "name": "sarabeth's kitchen",
+  "addr": "423 amsterdam ave.  between 80th and 81st sts.",
+  "city": "new york",
+  "phone": "212/496-6280",
+  "type": "american",
+  "rClass": " '344'"
+}, {
+  "id": 458,
+  "name": "sea grill",
+  "addr": "19 w. 49th st.",
+  "city": "new york",
+  "phone": "212/332-7610",
+  "type": "seafood",
+  "rClass": " '345'"
+}, {
+  "id": 459,
+  "name": "serendipity",
+  "addr": "3 225 e. 60th st.",
+  "city": "new york",
+  "phone": "212/838-3531",
+  "type": "american",
+  "rClass": " '346'"
+}, {
+  "id": 460,
+  "name": "seventh regiment mess and bar",
+  "addr": "643 park ave. at 66th st.",
+  "city": "new york",
+  "phone": "212/744-4107",
+  "type": "american",
+  "rClass": " '347'"
+}, {
+  "id": 461,
+  "name": "sfuzzi",
+  "addr": "58 w. 65th st.",
+  "city": "new york",
+  "phone": "212/873-3700",
+  "type": "american",
+  "rClass": " '348'"
+}, {
+  "id": 462,
+  "name": "shaan",
+  "addr": "57 w. 48th st.",
+  "city": "new york",
+  "phone": "212/ 977-8400",
+  "type": "asian",
+  "rClass": " '349'"
+}, {
+  "id": 71,
+  "name": "gotham bar & grill",
+  "addr": "12 e. 12th st.",
+  "city": "new york",
+  "phone": "212/620-4020",
+  "type": "american",
+  "rClass": " '35'"
+}, {
+  "id": 72,
+  "name": "gotham bar & grill",
+  "addr": "12 e. 12th st.",
+  "city": "new york city",
+  "phone": "212-620-4020",
+  "type": "american (new)",
+  "rClass": " '35'"
+}, {
+  "id": 463,
+  "name": "sofia fabulous pizza",
+  "addr": "1022 madison ave.  near 79th st.",
+  "city": "new york",
+  "phone": "212/734-2676",
+  "type": "italian",
+  "rClass": " '350'"
+}, {
+  "id": 464,
+  "name": "spring street natural restaurant & bar",
+  "addr": "62 spring st. at lafayette st.",
+  "city": "new york",
+  "phone": "212/966-0290",
+  "type": "american",
+  "rClass": " '351'"
+}, {
+  "id": 465,
+  "name": "stage deli",
+  "addr": "834 7th ave.  between 53rd and 54th sts.",
+  "city": "new york",
+  "phone": "212/245-7850",
+  "type": "delicatessen",
+  "rClass": " '352'"
+}, {
+  "id": 466,
+  "name": "stingray",
+  "addr": "428 amsterdam ave.  between 80th and 81st sts.",
+  "city": "new york",
+  "phone": "212/501-7515",
+  "type": "seafood",
+  "rClass": " '353'"
+}, {
+  "id": 467,
+  "name": "sweet'n'tart cafe",
+  "addr": "76 mott st. at canal st.",
+  "city": "new york",
+  "phone": "212/334-8088",
+  "type": "asian",
+  "rClass": " '354'"
+}, {
+  "id": 468,
+  "name": "t salon",
+  "addr": "143 mercer st. at prince st.",
+  "city": "new york",
+  "phone": "212/925-3700",
+  "type": "coffee bar",
+  "rClass": " '355'"
+}, {
+  "id": 469,
+  "name": "tang pavillion",
+  "addr": "65 w. 55th st.",
+  "city": "new york",
+  "phone": "212/956-6888",
+  "type": "asian",
+  "rClass": " '356'"
+}, {
+  "id": 470,
+  "name": "tapika",
+  "addr": "950 8th ave. at 56th st.",
+  "city": "new york",
+  "phone": "212/ 397-3737",
+  "type": "american",
+  "rClass": " '357'"
+}, {
+  "id": 471,
+  "name": "teresa's",
+  "addr": "103 1st ave.  between 6th and 7th sts.",
+  "city": "new york",
+  "phone": "212/228-0604",
+  "type": "east european",
+  "rClass": " '358'"
+}, {
+  "id": 472,
+  "name": "terrace",
+  "addr": "400 w. 119th st.  between amsterdam and morningside aves.",
+  "city": "new york",
+  "phone": "212/666-9490",
+  "type": "continental",
+  "rClass": " '359'"
+}, {
+  "id": 73,
+  "name": "gramercy tavern",
+  "addr": "42 e. 20th st.  between park ave. s and broadway",
+  "city": "new york",
+  "phone": "212/477-0777",
+  "type": "american",
+  "rClass": " '36'"
+}, {
+  "id": 74,
+  "name": "gramercy tavern",
+  "addr": "42 e. 20th st.",
+  "city": "new york city",
+  "phone": "212-477-0777",
+  "type": "american (new)",
+  "rClass": " '36'"
+}, {
+  "id": 473,
+  "name": "the coffee pot",
+  "addr": "350 9th ave. at 49th st.",
+  "city": "new york",
+  "phone": "212/265-3566",
+  "type": "coffee bar",
+  "rClass": " '360'"
+}, {
+  "id": 474,
+  "name": "the savannah club",
+  "addr": "2420 broadway at 89th st.",
+  "city": "new york",
+  "phone": "212/496-1066",
+  "type": "american",
+  "rClass": " '361'"
+}, {
+  "id": 475,
+  "name": "trattoria dell'arte",
+  "addr": "900 7th ave.  between 56th and 57th sts.",
+  "city": "new york",
+  "phone": "212/245-9800",
+  "type": "italian",
+  "rClass": " '362'"
+}, {
+  "id": 476,
+  "name": "triangolo",
+  "addr": "345 e. 83rd st.",
+  "city": "new york",
+  "phone": "212/472-4488",
+  "type": "italian",
+  "rClass": " '363'"
+}, {
+  "id": 477,
+  "name": "tribeca grill",
+  "addr": "375 greenwich st.  near franklin st.",
+  "city": "new york",
+  "phone": "212/941-3900",
+  "type": "american",
+  "rClass": " '364'"
+}, {
+  "id": 478,
+  "name": "trois jean",
+  "addr": "154 e. 79th st.  between lexington and 3rd aves.",
+  "city": "new york",
+  "phone": "212/988-4858",
+  "type": "coffee bar",
+  "rClass": " '365'"
+}, {
+  "id": 479,
+  "name": "tse yang",
+  "addr": "34 e. 51st st.",
+  "city": "new york",
+  "phone": "212/688-5447",
+  "type": "asian",
+  "rClass": " '366'"
+}, {
+  "id": 480,
+  "name": "turkish kitchen",
+  "addr": "386 3rd ave.  between 27th and 28th sts.",
+  "city": "new york",
+  "phone": "212/679-1810",
+  "type": "middle eastern",
+  "rClass": " '367'"
+}, {
+  "id": 481,
+  "name": "two two two",
+  "addr": "222 w. 79th st.",
+  "city": "new york",
+  "phone": "212/799-0400",
+  "type": "american",
+  "rClass": " '368'"
+}, {
+  "id": 482,
+  "name": "veniero's pasticceria",
+  "addr": "342 e. 11th st.  near 1st ave.",
+  "city": "new york",
+  "phone": "212/674-7264",
+  "type": "coffee bar",
+  "rClass": " '369'"
+}, {
+  "id": 76,
+  "name": "island spice",
+  "addr": "402 w. 44th st.",
+  "city": "new york city",
+  "phone": "212-765-1737",
+  "type": "caribbean",
+  "rClass": " '37'"
+}, {
+  "id": 75,
+  "name": "island spice",
+  "addr": "402 w. 44th st.",
+  "city": "new york",
+  "phone": "212/765-1737",
+  "type": "tel caribbean",
+  "rClass": " '37'"
+}, {
+  "id": 483,
+  "name": "verbena",
+  "addr": "54 irving pl. at 17th st.",
+  "city": "new york",
+  "phone": "212/260-5454",
+  "type": "american",
+  "rClass": " '370'"
+}, {
+  "id": 484,
+  "name": "victor's cafe",
+  "addr": "52 236 w. 52nd st.",
+  "city": "new york",
+  "phone": "212/586-7714",
+  "type": "latin american",
+  "rClass": " '371'"
+}, {
+  "id": 485,
+  "name": "vince & eddie's",
+  "addr": "70 w. 68th st.",
+  "city": "new york",
+  "phone": "212/721-0068",
+  "type": "american",
+  "rClass": " '372'"
+}, {
+  "id": 486,
+  "name": "vong",
+  "addr": "200 e. 54th st.",
+  "city": "new york",
+  "phone": "212/486-9592",
+  "type": "american",
+  "rClass": " '373'"
+}, {
+  "id": 487,
+  "name": "water club",
+  "addr": "500 e. 30th st.",
+  "city": "new york",
+  "phone": "212/683-3333",
+  "type": "american",
+  "rClass": " '374'"
+}, {
+  "id": 488,
+  "name": "west",
+  "addr": "63rd street steakhouse 44 w. 63rd st.",
+  "city": "new york",
+  "phone": "212/246-6363",
+  "type": "american",
+  "rClass": " '375'"
+}, {
+  "id": 489,
+  "name": "xunta",
+  "addr": "174 1st ave.  between 10th and 11th sts.",
+  "city": "new york",
+  "phone": "212/614-0620",
+  "type": "mediterranean",
+  "rClass": " '376'"
+}, {
+  "id": 490,
+  "name": "zen palate",
+  "addr": "34 union sq. e at 16th st.",
+  "city": "new york",
+  "phone": "212/614-9291",
+  "type": "and 212/614-9345 asian",
+  "rClass": " '377'"
+}, {
+  "id": 491,
+  "name": "zoe",
+  "addr": "90 prince st.  between broadway and mercer st.",
+  "city": "new york",
+  "phone": "212/966-6722",
+  "type": "american",
+  "rClass": " '378'"
+}, {
+  "id": 492,
+  "name": "abbey",
+  "addr": "163 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404/876-8532",
+  "type": "international",
+  "rClass": " '379'"
+}, {
+  "id": 77,
+  "name": "jo jo",
+  "addr": "160 e. 64th st.",
+  "city": "new york",
+  "phone": "",
+  "type": "american",
+  "rClass": " '38'"
+}, {
+  "id": 78,
+  "name": "jo jo",
+  "addr": "160 e. 64th st.",
+  "city": "new york city",
+  "phone": "212-223-5656",
+  "type": "french bistro",
+  "rClass": " '38'"
+}, {
+  "id": 493,
+  "name": "aleck's barbecue heaven",
+  "addr": "783 martin luther king jr. dr.",
+  "city": "atlanta",
+  "phone": "404/525-2062",
+  "type": "barbecue",
+  "rClass": " '380'"
+}, {
+  "id": 494,
+  "name": "annie's thai castle",
+  "addr": "3195 roswell rd.",
+  "city": "atlanta",
+  "phone": "404/264-9546",
+  "type": "asian",
+  "rClass": " '381'"
+}, {
+  "id": 495,
+  "name": "anthonys",
+  "addr": "3109 piedmont rd.  just south of peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/262-7379",
+  "type": "american",
+  "rClass": " '382'"
+}, {
+  "id": 496,
+  "name": "atlanta fish market",
+  "addr": "265 pharr rd.",
+  "city": "atlanta",
+  "phone": "404/262-3165",
+  "type": "american",
+  "rClass": " '383'"
+}, {
+  "id": 497,
+  "name": "beesley's of buckhead",
+  "addr": "260 e. paces ferry road",
+  "city": "atlanta",
+  "phone": "404/264-1334",
+  "type": "continental",
+  "rClass": " '384'"
+}, {
+  "id": 498,
+  "name": "bertolini's",
+  "addr": "3500 peachtree rd.  phipps plaza",
+  "city": "atlanta",
+  "phone": "404/233-2333",
+  "type": "italian",
+  "rClass": " '385'"
+}, {
+  "id": 499,
+  "name": "bistango",
+  "addr": "1100 peachtree st.",
+  "city": "atlanta",
+  "phone": "404/724-0901",
+  "type": "mediterranean",
+  "rClass": " '386'"
+}, {
+  "id": 500,
+  "name": "cafe renaissance",
+  "addr": "7050 jimmy carter blvd.  norcross",
+  "city": "atlanta",
+  "phone": "770/441--0291",
+  "type": "american",
+  "rClass": " '387'"
+}, {
+  "id": 501,
+  "name": "camille's",
+  "addr": "1186 n. highland ave.",
+  "city": "atlanta",
+  "phone": "404/872-7203",
+  "type": "italian",
+  "rClass": " '388'"
+}, {
+  "id": 502,
+  "name": "cassis",
+  "addr": "3300 peachtree rd.  grand hyatt",
+  "city": "atlanta",
+  "phone": "404/365-8100",
+  "type": "mediterranean",
+  "rClass": " '389'"
+}, {
+  "id": 79,
+  "name": "la caravelle",
+  "addr": "33 w. 55th st.",
+  "city": "new york",
+  "phone": "212/586-4252",
+  "type": "french",
+  "rClass": " '39'"
+}, {
+  "id": 80,
+  "name": "la caravelle",
+  "addr": "33 w. 55th st.",
+  "city": "new york city",
+  "phone": "212-586-4252",
+  "type": "french (classic)",
+  "rClass": " '39'"
+}, {
+  "id": 503,
+  "name": "city grill",
+  "addr": "50 hurt plaza",
+  "city": "atlanta",
+  "phone": "404/524-2489",
+  "type": "international",
+  "rClass": " '390'"
+}, {
+  "id": 504,
+  "name": "coco loco",
+  "addr": "40  buckhead crossing mall on the sidney marcus blvd.",
+  "city": "atlanta",
+  "phone": "404/364-0212",
+  "type": "caribbean",
+  "rClass": " '391'"
+}, {
+  "id": 505,
+  "name": "colonnade restaurant",
+  "addr": "1879 cheshire bridge rd.",
+  "city": "atlanta",
+  "phone": "404/874-5642",
+  "type": "southern",
+  "rClass": " '392'"
+}, {
+  "id": 506,
+  "name": "dante's down the hatch  buckhead",
+  "addr": "3380 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/266-1600",
+  "type": "continental",
+  "rClass": " '393'"
+}, {
+  "id": 507,
+  "name": "dante's down the hatch",
+  "addr": "underground underground mall  underground atlanta",
+  "city": "atlanta",
+  "phone": "404/577-1800",
+  "type": "continental",
+  "rClass": " '394'"
+}, {
+  "id": 508,
+  "name": "fat matt's rib shack",
+  "addr": "1811 piedmont ave.  near cheshire bridge rd.",
+  "city": "atlanta",
+  "phone": "404/607-1622",
+  "type": "barbecue",
+  "rClass": " '395'"
+}, {
+  "id": 509,
+  "name": "french quarter food shop",
+  "addr": "923 peachtree st.  at 8th st.",
+  "city": "atlanta",
+  "phone": "404/875-2489",
+  "type": "southern",
+  "rClass": " '396'"
+}, {
+  "id": 510,
+  "name": "holt bros. bar-b-q",
+  "addr": "6359 jimmy carter blvd.  at buford hwy.  norcross",
+  "city": "atlanta",
+  "phone": "770/242-3984",
+  "type": "barbecue",
+  "rClass": " '397'"
+}, {
+  "id": 511,
+  "name": "horseradish grill",
+  "addr": "4320 powers ferry rd.",
+  "city": "atlanta",
+  "phone": "404/255-7277",
+  "type": "southern",
+  "rClass": " '398'"
+}, {
+  "id": 512,
+  "name": "hsu's gourmet",
+  "addr": "192 peachtree center ave.  at international blvd.",
+  "city": "atlanta",
+  "phone": "404/659-2788",
+  "type": "asian",
+  "rClass": " '399'"
+}, {
+  "id": 9,
+  "name": "campanile",
+  "addr": "624 s. la brea ave.",
+  "city": "los angeles",
+  "phone": "213/938-1447",
+  "type": "american",
+  "rClass": " '4'"
+}, {
+  "id": 10,
+  "name": "campanile",
+  "addr": "624 s. la brea ave.",
+  "city": "los angeles",
+  "phone": "213-938-1447",
+  "type": "californian",
+  "rClass": " '4'"
+}, {
+  "id": 81,
+  "name": "la cote basque",
+  "addr": "60 w. 55th st.  between 5th and 6th ave.",
+  "city": "new york",
+  "phone": "212/688-6525",
+  "type": "french",
+  "rClass": " '40'"
+}, {
+  "id": 82,
+  "name": "la cote basque",
+  "addr": "60 w. 55th st.",
+  "city": "new york city",
+  "phone": "212-688-6525",
+  "type": "french (classic)",
+  "rClass": " '40'"
+}, {
+  "id": 513,
+  "name": "imperial fez",
+  "addr": "2285 peachtree rd.  peachtree battle condominium",
+  "city": "atlanta",
+  "phone": "404/351-0870",
+  "type": "mediterranean",
+  "rClass": " '400'"
+}, {
+  "id": 514,
+  "name": "kamogawa",
+  "addr": "3300 peachtree rd.  grand hyatt",
+  "city": "atlanta",
+  "phone": "404/841-0314",
+  "type": "asian",
+  "rClass": " '401'"
+}, {
+  "id": 515,
+  "name": "la grotta at ravinia dunwoody rd.",
+  "addr": "holiday inn/crowne plaza at ravinia  dunwoody",
+  "city": "atlanta",
+  "phone": "770/395-9925",
+  "type": "italian",
+  "rClass": " '402'"
+}, {
+  "id": 516,
+  "name": "little szechuan",
+  "addr": "c buford hwy.  northwoods plaza  doraville",
+  "city": "atlanta",
+  "phone": "770/451-0192",
+  "type": "asian",
+  "rClass": " '403'"
+}, {
+  "id": 517,
+  "name": "lowcountry barbecue",
+  "addr": "6301 roswell rd.  sandy springs plaza  sandy springs",
+  "city": "atlanta",
+  "phone": "404/255-5160",
+  "type": "barbecue",
+  "rClass": " '404'"
+}, {
+  "id": 518,
+  "name": "luna si",
+  "addr": "1931 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/355-5993",
+  "type": "continental",
+  "rClass": " '405'"
+}, {
+  "id": 519,
+  "name": "mambo restaurante cubano",
+  "addr": "1402 n. highland ave.",
+  "city": "atlanta",
+  "phone": "404/874-2626",
+  "type": "caribbean",
+  "rClass": " '406'"
+}, {
+  "id": 520,
+  "name": "mckinnon's louisiane",
+  "addr": "3209 maple dr.",
+  "city": "atlanta",
+  "phone": "404/237-1313",
+  "type": "southern",
+  "rClass": " '407'"
+}, {
+  "id": 521,
+  "name": "mi spia dunwoody rd.",
+  "addr": "park place  across from perimeter mall  dunwoody",
+  "city": "atlanta",
+  "phone": "770/393-1333",
+  "type": "italian",
+  "rClass": " '408'"
+}, {
+  "id": 522,
+  "name": "nickiemoto's: a sushi bar",
+  "addr": "247 buckhead ave.  east village sq.",
+  "city": "atlanta",
+  "phone": "404/842-0334",
+  "type": "fusion",
+  "rClass": " '409'"
+}, {
+  "id": 83,
+  "name": "le bernardin",
+  "addr": "155 w. 51st st.",
+  "city": "new york",
+  "phone": "212/489-1515",
+  "type": "french",
+  "rClass": " '41'"
+}, {
+  "id": 84,
+  "name": "le bernardin",
+  "addr": "155 w. 51st st.",
+  "city": "new york city",
+  "phone": "212-489-1515",
+  "type": "seafood",
+  "rClass": " '41'"
+}, {
+  "id": 523,
+  "name": "palisades",
+  "addr": "1829 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/350-6755",
+  "type": "continental",
+  "rClass": " '410'"
+}, {
+  "id": 524,
+  "name": "pleasant peasant",
+  "addr": "555 peachtree st.  at linden ave.",
+  "city": "atlanta",
+  "phone": "404/874-3223",
+  "type": "american",
+  "rClass": " '411'"
+}, {
+  "id": 525,
+  "name": "pricci",
+  "addr": "500 pharr rd.",
+  "city": "atlanta",
+  "phone": "404/237-2941",
+  "type": "italian",
+  "rClass": " '412'"
+}, {
+  "id": 526,
+  "name": "r.j.'s uptown kitchen & wine bar",
+  "addr": "870 n. highland ave.",
+  "city": "atlanta",
+  "phone": "404/875-7775",
+  "type": "american",
+  "rClass": " '413'"
+}, {
+  "id": 527,
+  "name": "rib ranch",
+  "addr": "25 irby ave.",
+  "city": "atlanta",
+  "phone": "404/233-7644",
+  "type": "barbecue",
+  "rClass": " '414'"
+}, {
+  "id": 528,
+  "name": "sa tsu ki",
+  "addr": "3043 buford hwy.",
+  "city": "atlanta",
+  "phone": "404/325-5285",
+  "type": "asian",
+  "rClass": " '415'"
+}, {
+  "id": 529,
+  "name": "sato sushi and thai",
+  "addr": "6050 peachtree pkwy.  norcross",
+  "city": "atlanta",
+  "phone": "770/449-0033",
+  "type": "asian",
+  "rClass": " '416'"
+}, {
+  "id": 530,
+  "name": "south city kitchen",
+  "addr": "1144 crescent ave.",
+  "city": "atlanta",
+  "phone": "404/873-7358",
+  "type": "southern",
+  "rClass": " '417'"
+}, {
+  "id": 531,
+  "name": "south of france",
+  "addr": "2345 cheshire bridge rd.",
+  "city": "atlanta",
+  "phone": "404/325-6963",
+  "type": "french",
+  "rClass": " '418'"
+}, {
+  "id": 532,
+  "name": "stringer's fish camp and oyster bar",
+  "addr": "3384 shallowford rd.  chamblee",
+  "city": "atlanta",
+  "phone": "770/458-7145",
+  "type": "southern",
+  "rClass": " '419'"
+}, {
+  "id": 85,
+  "name": "les celebrites",
+  "addr": "160 central park s",
+  "city": "new york",
+  "phone": "212/484-5113",
+  "type": "french",
+  "rClass": " '42'"
+}, {
+  "id": 86,
+  "name": "les celebrites",
+  "addr": "155 w. 58th st.",
+  "city": "new york city",
+  "phone": "212-484-5113",
+  "type": "french (classic)",
+  "rClass": " '42'"
+}, {
+  "id": 533,
+  "name": "sundown cafe",
+  "addr": "2165 cheshire bridge rd.",
+  "city": "atlanta",
+  "phone": "404/321-1118",
+  "type": "american",
+  "rClass": " '420'"
+}, {
+  "id": 534,
+  "name": "taste of new orleans",
+  "addr": "889 w. peachtree st.",
+  "city": "atlanta",
+  "phone": "404/874-5535",
+  "type": "southern",
+  "rClass": " '421'"
+}, {
+  "id": 535,
+  "name": "tomtom",
+  "addr": "3393 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/264-1163",
+  "type": "continental",
+  "rClass": " '422'"
+}, {
+  "id": 536,
+  "name": "antonio's",
+  "addr": "3700 w. flamingo",
+  "city": "las vegas",
+  "phone": "702/252-7737",
+  "type": "italian",
+  "rClass": " '423'"
+}, {
+  "id": 537,
+  "name": "bally's big kitchen",
+  "addr": "3645 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/739-4111",
+  "type": "buffets",
+  "rClass": " '424'"
+}, {
+  "id": 538,
+  "name": "bamboo garden",
+  "addr": "4850 flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/871-3262",
+  "type": "asian",
+  "rClass": " '425'"
+}, {
+  "id": 539,
+  "name": "battista's hole in the wall",
+  "addr": "4041 audrie st. at flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/732-1424",
+  "type": "italian",
+  "rClass": " '426'"
+}, {
+  "id": 540,
+  "name": "bertolini's",
+  "addr": "3570 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/735-4663",
+  "type": "italian",
+  "rClass": " '427'"
+}, {
+  "id": 541,
+  "name": "binion's coffee shop",
+  "addr": "128 fremont st.",
+  "city": "las vegas",
+  "phone": "702/382-1600",
+  "type": "coffee shops/diners",
+  "rClass": " '428'"
+}, {
+  "id": 542,
+  "name": "bistro",
+  "addr": "3400 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/791-7111",
+  "type": "continental",
+  "rClass": " '429'"
+}, {
+  "id": 87,
+  "name": "lespinasse",
+  "addr": "2 e. 55th st.",
+  "city": "new york",
+  "phone": "212/339-6719",
+  "type": "american",
+  "rClass": " '43'"
+}, {
+  "id": 88,
+  "name": "lespinasse (new york city)",
+  "addr": "2 e. 55th st.",
+  "city": "new york city",
+  "phone": "212-339-6719",
+  "type": "asian",
+  "rClass": " '43'"
+}, {
+  "id": 543,
+  "name": "broiler",
+  "addr": "4111 boulder hwy.",
+  "city": "las vegas",
+  "phone": "702/432-7777",
+  "type": "american",
+  "rClass": " '430'"
+}, {
+  "id": 544,
+  "name": "bugsy's diner",
+  "addr": "3555 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/733-3111",
+  "type": "coffee shops/diners",
+  "rClass": " '431'"
+}, {
+  "id": 545,
+  "name": "cafe michelle",
+  "addr": "1350 e. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/735-8686",
+  "type": "american",
+  "rClass": " '432'"
+}, {
+  "id": 546,
+  "name": "cafe roma",
+  "addr": "3570 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/731-7547",
+  "type": "coffee shops/diners",
+  "rClass": " '433'"
+}, {
+  "id": 547,
+  "name": "capozzoli's",
+  "addr": "3333 s. maryland pkwy.",
+  "city": "las vegas",
+  "phone": "702/731-5311",
+  "type": "italian",
+  "rClass": " '434'"
+}, {
+  "id": 548,
+  "name": "carnival world",
+  "addr": "3700 w. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/252-7777",
+  "type": "buffets",
+  "rClass": " '435'"
+}, {
+  "id": 549,
+  "name": "center stage plaza hotel",
+  "addr": "1 main st.",
+  "city": "las vegas",
+  "phone": "702/386-2512",
+  "type": "american",
+  "rClass": " '436'"
+}, {
+  "id": 550,
+  "name": "circus circus",
+  "addr": "2880 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/734-0410",
+  "type": "buffets",
+  "rClass": " '437'"
+}, {
+  "id": 551,
+  "name": "empress court",
+  "addr": "3570 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/731-7888",
+  "type": "asian",
+  "rClass": " '438'"
+}, {
+  "id": 552,
+  "name": "feast",
+  "addr": "2411 w. sahara ave.",
+  "city": "las vegas",
+  "phone": "702/367-2411",
+  "type": "buffets",
+  "rClass": " '439'"
+}, {
+  "id": 89,
+  "name": "lutece",
+  "addr": "249 e. 50th st.",
+  "city": "new york",
+  "phone": "212/752-2225",
+  "type": "french",
+  "rClass": " '44'"
+}, {
+  "id": 90,
+  "name": "lutece",
+  "addr": "249 e. 50th st.",
+  "city": "new york city",
+  "phone": "212-752-2225",
+  "type": "french (classic)",
+  "rClass": " '44'"
+}, {
+  "id": 553,
+  "name": "golden nugget hotel",
+  "addr": "129 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702/385-7111",
+  "type": "buffets",
+  "rClass": " '440'"
+}, {
+  "id": 554,
+  "name": "golden steer",
+  "addr": "308 w. sahara ave.",
+  "city": "las vegas",
+  "phone": "702/384-4470",
+  "type": "steak houses",
+  "rClass": " '441'"
+}, {
+  "id": 555,
+  "name": "lillie langtry's",
+  "addr": "129 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702/385-7111",
+  "type": "asian",
+  "rClass": " '442'"
+}, {
+  "id": 556,
+  "name": "mandarin court",
+  "addr": "1510 e. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/737-1234",
+  "type": "asian",
+  "rClass": " '443'"
+}, {
+  "id": 557,
+  "name": "margarita's mexican cantina",
+  "addr": "3120 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/794-8200",
+  "type": "mexican",
+  "rClass": " '444'"
+}, {
+  "id": 558,
+  "name": "mary's diner",
+  "addr": "5111 w. boulder hwy.",
+  "city": "las vegas",
+  "phone": "702/454-8073",
+  "type": "coffee shops/diners",
+  "rClass": " '445'"
+}, {
+  "id": 559,
+  "name": "mikado",
+  "addr": "3400 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/791-7111",
+  "type": "asian",
+  "rClass": " '446'"
+}, {
+  "id": 560,
+  "name": "pamplemousse",
+  "addr": "400 e. sahara ave.",
+  "city": "las vegas",
+  "phone": "702/733-2066",
+  "type": "continental",
+  "rClass": " '447'"
+}, {
+  "id": 561,
+  "name": "ralph's diner",
+  "addr": "3000 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/732-6330",
+  "type": "coffee shops/diners",
+  "rClass": " '448'"
+}, {
+  "id": 562,
+  "name": "the bacchanal",
+  "addr": "3570 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/731-7525",
+  "type": "only in las vegas",
+  "rClass": " '449'"
+}, {
+  "id": 91,
+  "name": "manhattan ocean club",
+  "addr": "57 w. 58th st.",
+  "city": "new york",
+  "phone": "212/ 371-7777",
+  "type": "seafood",
+  "rClass": " '45'"
+}, {
+  "id": 92,
+  "name": "manhattan ocean club",
+  "addr": "57 w. 58th st.",
+  "city": "new york city",
+  "phone": "212-371-7777",
+  "type": "seafood",
+  "rClass": " '45'"
+}, {
+  "id": 563,
+  "name": "venetian",
+  "addr": "3713 w. sahara ave.",
+  "city": "las vegas",
+  "phone": "702/876-4190",
+  "type": "italian",
+  "rClass": " '450'"
+}, {
+  "id": 564,
+  "name": "viva mercado's",
+  "addr": "6182 w. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/871-8826",
+  "type": "mexican",
+  "rClass": " '451'"
+}, {
+  "id": 565,
+  "name": "yolie's",
+  "addr": "3900 paradise rd.",
+  "city": "las vegas",
+  "phone": "702/794-0700",
+  "type": "steak houses",
+  "rClass": " '452'"
+}, {
+  "id": 566,
+  "name": 2223,
+  "addr": "2223 market st.",
+  "city": "san francisco",
+  "phone": "415/431-0692",
+  "type": "american",
+  "rClass": " '453'"
+}, {
+  "id": 567,
+  "name": "acquarello",
+  "addr": "1722 sacramento st.",
+  "city": "san francisco",
+  "phone": "415/567-5432",
+  "type": "italian",
+  "rClass": " '454'"
+}, {
+  "id": 568,
+  "name": "bardelli's",
+  "addr": "243 o'farrell st.",
+  "city": "san francisco",
+  "phone": "415/982-0243",
+  "type": "old san francisco",
+  "rClass": " '455'"
+}, {
+  "id": 569,
+  "name": "betelnut",
+  "addr": "2030 union st.",
+  "city": "san francisco",
+  "phone": "415/929-8855",
+  "type": "asian",
+  "rClass": " '456'"
+}, {
+  "id": 570,
+  "name": "bistro roti",
+  "addr": "155 steuart st.",
+  "city": "san francisco",
+  "phone": "415/495-6500",
+  "type": "french",
+  "rClass": " '457'"
+}, {
+  "id": 571,
+  "name": "bix",
+  "addr": "56 gold st.",
+  "city": "san francisco",
+  "phone": "415/433-6300",
+  "type": "american",
+  "rClass": " '458'"
+}, {
+  "id": 572,
+  "name": "bizou",
+  "addr": "598 fourth st.",
+  "city": "san francisco",
+  "phone": "415/543-2222",
+  "type": "french",
+  "rClass": " '459'"
+}, {
+  "id": 93,
+  "name": "",
+  "addr": "405 e. 58th st.",
+  "city": "new york",
+  "phone": "212/754-6272",
+  "type": "american",
+  "rClass": " '46'"
+}, {
+  "id": 94,
+  "name": "march",
+  "addr": "405 e. 58th st.",
+  "city": "new york city",
+  "phone": "212/754-6272",
+  "type": "american (new)",
+  "rClass": " '46'"
+}, {
+  "id": 573,
+  "name": "buca giovanni",
+  "addr": "800 greenwich st.",
+  "city": "san francisco",
+  "phone": "415/776-7766",
+  "type": "italian",
+  "rClass": " '460'"
+}, {
+  "id": 574,
+  "name": "cafe adriano",
+  "addr": "3347 fillmore st.",
+  "city": "san francisco",
+  "phone": "415/474-4180",
+  "type": "italian",
+  "rClass": " '461'"
+}, {
+  "id": 575,
+  "name": "cafe marimba",
+  "addr": "2317 chestnut st.",
+  "city": "san francisco",
+  "phone": "415/776-1506",
+  "type": "mexican/latin american/spanish",
+  "rClass": " '462'"
+}, {
+  "id": 576,
+  "name": "california culinary academy",
+  "addr": "625 polk st.",
+  "city": "san francisco",
+  "phone": "415/771-3500",
+  "type": "french",
+  "rClass": " '463'"
+}, {
+  "id": 577,
+  "name": "capp's corner",
+  "addr": "1600 powell st.",
+  "city": "san francisco",
+  "phone": "415/989-2589",
+  "type": "italian",
+  "rClass": " '464'"
+}, {
+  "id": 578,
+  "name": "carta",
+  "addr": "1772 market st.",
+  "city": "san francisco",
+  "phone": "415/863-3516",
+  "type": "american",
+  "rClass": " '465'"
+}, {
+  "id": 579,
+  "name": "chevys",
+  "addr": "4th and howard sts.",
+  "city": "san francisco",
+  "phone": "415/543-8060",
+  "type": "mexican/latin american/spanish",
+  "rClass": " '466'"
+}, {
+  "id": 580,
+  "name": "cypress club",
+  "addr": "500 jackson st.",
+  "city": "san francisco",
+  "phone": "415/296-8555",
+  "type": "american",
+  "rClass": " '467'"
+}, {
+  "id": 581,
+  "name": "des alpes",
+  "addr": "732 broadway",
+  "city": "san francisco",
+  "phone": "415/788-9900",
+  "type": "french",
+  "rClass": " '468'"
+}, {
+  "id": 582,
+  "name": "faz",
+  "addr": "161 sutter st.",
+  "city": "san francisco",
+  "phone": "415/362-0404",
+  "type": "greek and middle eastern",
+  "rClass": " '469'"
+}, {
+  "id": 95,
+  "name": "mesa grill",
+  "addr": "102 5th ave.  between 15th and 16th sts.",
+  "city": "new york",
+  "phone": "212/807-7400",
+  "type": "american",
+  "rClass": " '47'"
+}, {
+  "id": 96,
+  "name": "mesa grill",
+  "addr": "102 fifth ave.",
+  "city": "new york city",
+  "phone": "212-807-7400",
+  "type": "southwestern",
+  "rClass": " '47'"
+}, {
+  "id": 583,
+  "name": "fog city diner",
+  "addr": "1300 battery st.",
+  "city": "san francisco",
+  "phone": "415/982-2000",
+  "type": "american",
+  "rClass": " '470'"
+}, {
+  "id": 584,
+  "name": "garden court",
+  "addr": "market and new montgomery sts.",
+  "city": "san francisco",
+  "phone": "415/546-5011",
+  "type": "old san francisco",
+  "rClass": " '471'"
+}, {
+  "id": 585,
+  "name": "gaylord's",
+  "addr": "ghirardelli sq.",
+  "city": "san francisco",
+  "phone": "415/771-8822",
+  "type": "asian",
+  "rClass": " '472'"
+}, {
+  "id": 586,
+  "name": "grand cafe hotel monaco",
+  "addr": "501 geary st.",
+  "city": "san francisco",
+  "phone": "415/292-0101",
+  "type": "american",
+  "rClass": " '473'"
+}, {
+  "id": 587,
+  "name": "greens",
+  "addr": "bldg. a fort mason",
+  "city": "san francisco",
+  "phone": "415/771-6222",
+  "type": "vegetarian",
+  "rClass": " '474'"
+}, {
+  "id": 588,
+  "name": "harbor village",
+  "addr": "4 embarcadero center",
+  "city": "san francisco",
+  "phone": "415/781-8833",
+  "type": "asian",
+  "rClass": " '475'"
+}, {
+  "id": 589,
+  "name": "harris'",
+  "addr": "2100 van ness ave.",
+  "city": "san francisco",
+  "phone": "415/673-1888",
+  "type": "steak houses",
+  "rClass": " '476'"
+}, {
+  "id": 590,
+  "name": "harry denton's",
+  "addr": "161 steuart st.",
+  "city": "san francisco",
+  "phone": "415/882-1333",
+  "type": "american",
+  "rClass": " '477'"
+}, {
+  "id": 591,
+  "name": "hayes street grill",
+  "addr": "320 hayes st.",
+  "city": "san francisco",
+  "phone": "415/863-5545",
+  "type": "seafood",
+  "rClass": " '478'"
+}, {
+  "id": 592,
+  "name": "helmand",
+  "addr": "430 broadway",
+  "city": "san francisco",
+  "phone": "415/362-0641",
+  "type": "greek and middle eastern",
+  "rClass": " '479'"
+}, {
+  "id": 97,
+  "name": "mi cocina",
+  "addr": "57 jane st.  off hudson st.",
+  "city": "new york",
+  "phone": "212/627-8273",
+  "type": "mexican",
+  "rClass": " '48'"
+}, {
+  "id": 98,
+  "name": "mi cocina",
+  "addr": "57 jane st.",
+  "city": "new york city",
+  "phone": "212-627-8273",
+  "type": "mexican",
+  "rClass": " '48'"
+}, {
+  "id": 593,
+  "name": "hong kong flower lounge",
+  "addr": "5322 geary blvd.",
+  "city": "san francisco",
+  "phone": "415/668-8998",
+  "type": "asian",
+  "rClass": " '480'"
+}, {
+  "id": 594,
+  "name": "hong kong villa",
+  "addr": "2332 clement st.",
+  "city": "san francisco",
+  "phone": "415/752-8833",
+  "type": "asian",
+  "rClass": " '481'"
+}, {
+  "id": 595,
+  "name": "hyde street bistro",
+  "addr": "1521 hyde st.",
+  "city": "san francisco",
+  "phone": "415/441-7778",
+  "type": "italian",
+  "rClass": " '482'"
+}, {
+  "id": 596,
+  "name": "il fornaio levi's plaza",
+  "addr": "1265 battery st.",
+  "city": "san francisco",
+  "phone": "415/986-0100",
+  "type": "italian",
+  "rClass": " '483'"
+}, {
+  "id": 597,
+  "name": "izzy's steak & chop house",
+  "addr": "3345 steiner st.",
+  "city": "san francisco",
+  "phone": "415/563-0487",
+  "type": "steak houses",
+  "rClass": " '484'"
+}, {
+  "id": 598,
+  "name": "jack's",
+  "addr": "615 sacramento st.",
+  "city": "san francisco",
+  "phone": "415/986-9854",
+  "type": "old san francisco",
+  "rClass": " '485'"
+}, {
+  "id": 599,
+  "name": "kabuto sushi",
+  "addr": "5116 geary blvd.",
+  "city": "san francisco",
+  "phone": "415/752-5652",
+  "type": "asian",
+  "rClass": " '486'"
+}, {
+  "id": 600,
+  "name": "katia's",
+  "addr": "600 5th ave.",
+  "city": "san francisco",
+  "phone": "415/668-9292",
+  "type": "",
+  "rClass": " '487'"
+}, {
+  "id": 601,
+  "name": "kuleto's",
+  "addr": "221 powell st.",
+  "city": "san francisco",
+  "phone": "415/397-7720",
+  "type": "italian",
+  "rClass": " '488'"
+}, {
+  "id": 602,
+  "name": "kyo-ya. sheraton palace hotel",
+  "addr": "2 new montgomery st.  at market st.",
+  "city": "san francisco",
+  "phone": "415/546-5000",
+  "type": "asian",
+  "rClass": " '489'"
+}, {
+  "id": 99,
+  "name": "montrachet",
+  "addr": "239 w. broadway  between walker and white sts.",
+  "city": "new york",
+  "phone": "212/ 219-2777",
+  "type": "french",
+  "rClass": " '49'"
+}, {
+  "id": 100,
+  "name": "montrachet",
+  "addr": "239 w. broadway",
+  "city": "new york city",
+  "phone": "212-219-2777",
+  "type": "french bistro",
+  "rClass": " '49'"
+}, {
+  "id": 603,
+  "name": "l'osteria del forno",
+  "addr": "519 columbus ave.",
+  "city": "san francisco",
+  "phone": "415/982-1124",
+  "type": "italian",
+  "rClass": " '490'"
+}, {
+  "id": 604,
+  "name": "le central",
+  "addr": "453 bush st.",
+  "city": "san francisco",
+  "phone": "415/391-2233",
+  "type": "french",
+  "rClass": " '491'"
+}, {
+  "id": 605,
+  "name": "le soleil",
+  "addr": "133 clement st.",
+  "city": "san francisco",
+  "phone": "415/668-4848",
+  "type": "asian",
+  "rClass": " '492'"
+}, {
+  "id": 606,
+  "name": "macarthur park",
+  "addr": "607 front st.",
+  "city": "san francisco",
+  "phone": "415/398-5700",
+  "type": "american",
+  "rClass": " '493'"
+}, {
+  "id": 607,
+  "name": "manora",
+  "addr": "3226 mission st.",
+  "city": "san francisco",
+  "phone": "415/861-6224",
+  "type": "asian",
+  "rClass": " '494'"
+}, {
+  "id": 608,
+  "name": "maykadeh",
+  "addr": "470 green st.",
+  "city": "san francisco",
+  "phone": "415/362-8286",
+  "type": "greek and middle eastern",
+  "rClass": " '495'"
+}, {
+  "id": 609,
+  "name": "mccormick & kuleto's",
+  "addr": "ghirardelli sq.",
+  "city": "san francisco",
+  "phone": "415/929-1730",
+  "type": "seafood",
+  "rClass": " '496'"
+}, {
+  "id": 610,
+  "name": "millennium",
+  "addr": "246 mcallister st.",
+  "city": "san francisco",
+  "phone": "415/487-9800",
+  "type": "vegetarian",
+  "rClass": " '497'"
+}, {
+  "id": 611,
+  "name": "moose's",
+  "addr": "1652 stockton st.",
+  "city": "san francisco",
+  "phone": "415/989-7800",
+  "type": "mediterranean",
+  "rClass": " '498'"
+}, {
+  "id": 612,
+  "name": "north india",
+  "addr": "3131 webster st.",
+  "city": "san francisco",
+  "phone": "415/931-1556",
+  "type": "asian",
+  "rClass": " '499'"
+}, {
+  "id": 11,
+  "name": "chinois on main",
+  "addr": "2709 main st.",
+  "city": "santa monica",
+  "phone": "310/392-9025",
+  "type": "french",
+  "rClass": " '5'"
+}, {
+  "id": 12,
+  "name": "chinois on main",
+  "addr": "2709 main st.",
+  "city": "santa monica",
+  "phone": "310-392-9025",
+  "type": "pacific new wave",
+  "rClass": " '5'"
+}, {
+  "id": 101,
+  "name": "oceana",
+  "addr": "55 e. 54th st.",
+  "city": "new york",
+  "phone": "212/759-5941",
+  "type": "seafood",
+  "rClass": " '50'"
+}, {
+  "id": 102,
+  "name": "oceana",
+  "addr": "55 e. 54th st.",
+  "city": "new york city",
+  "phone": "212-759-5941",
+  "type": "seafood",
+  "rClass": " '50'"
+}, {
+  "id": 613,
+  "name": "one market",
+  "addr": "1 market st.",
+  "city": "san francisco",
+  "phone": "415/777-5577",
+  "type": "american",
+  "rClass": " '500'"
+}, {
+  "id": 614,
+  "name": "oritalia",
+  "addr": "1915 fillmore st.",
+  "city": "san francisco",
+  "phone": "415/346-1333",
+  "type": "italian",
+  "rClass": " '501'"
+}, {
+  "id": 615,
+  "name": "pacific pan pacific hotel",
+  "addr": "500 post st.",
+  "city": "san francisco",
+  "phone": "415/929-2087",
+  "type": "french",
+  "rClass": " '502'"
+}, {
+  "id": 616,
+  "name": "palio d'asti",
+  "addr": "640 sacramento st.",
+  "city": "san francisco",
+  "phone": "415/395-9800",
+  "type": "italian",
+  "rClass": " '503'"
+}, {
+  "id": 617,
+  "name": "pane e vino",
+  "addr": "3011 steiner st.",
+  "city": "san francisco",
+  "phone": "415/346-2111",
+  "type": "italian",
+  "rClass": " '504'"
+}, {
+  "id": 618,
+  "name": "pastis",
+  "addr": "1015 battery st.",
+  "city": "san francisco",
+  "phone": "415/391-2555",
+  "type": "french",
+  "rClass": " '505'"
+}, {
+  "id": 619,
+  "name": "perry's",
+  "addr": "1944 union st.",
+  "city": "san francisco",
+  "phone": "415/922-9022",
+  "type": "american",
+  "rClass": " '506'"
+}, {
+  "id": 620,
+  "name": "r&g lounge",
+  "addr": "631 b kearny st.",
+  "city": "san francisco",
+  "phone": "415/982-7877",
+  "type": "or 415/982-3811 asian",
+  "rClass": " '507'"
+}, {
+  "id": 621,
+  "name": "rubicon",
+  "addr": "558 sacramento st.",
+  "city": "san francisco",
+  "phone": "415/434-4100",
+  "type": "american",
+  "rClass": " '508'"
+}, {
+  "id": 622,
+  "name": "rumpus",
+  "addr": "1 tillman pl.",
+  "city": "san francisco",
+  "phone": "415/421-2300",
+  "type": "american",
+  "rClass": " '509'"
+}, {
+  "id": 103,
+  "name": "park avenue cafe",
+  "addr": "100 e. 63rd st.",
+  "city": "new york",
+  "phone": "212/644-1900",
+  "type": "american",
+  "rClass": " '51'"
+}, {
+  "id": 104,
+  "name": "park avenue cafe (new york city)",
+  "addr": "100 e. 63rd st.",
+  "city": "new york city",
+  "phone": "212-644-1900",
+  "type": "american (new)",
+  "rClass": " '51'"
+}, {
+  "id": 623,
+  "name": "sanppo",
+  "addr": "1702 post st.",
+  "city": "san francisco",
+  "phone": "415/346-3486",
+  "type": "asian",
+  "rClass": " '510'"
+}, {
+  "id": 624,
+  "name": "scala's bistro",
+  "addr": "432 powell st.",
+  "city": "san francisco",
+  "phone": "415/395-8555",
+  "type": "italian",
+  "rClass": " '511'"
+}, {
+  "id": 625,
+  "name": "south park cafe",
+  "addr": "108 south park",
+  "city": "san francisco",
+  "phone": "415/495-7275",
+  "type": "french",
+  "rClass": " '512'"
+}, {
+  "id": 626,
+  "name": "splendido embarcadero",
+  "addr": 4,
+  "city": "san francisco",
+  "phone": "415/986-3222",
+  "type": "mediterranean",
+  "rClass": " '513'"
+}, {
+  "id": 627,
+  "name": "stars",
+  "addr": "150 redwood alley",
+  "city": "san francisco",
+  "phone": "415/861-7827",
+  "type": "american",
+  "rClass": " '514'"
+}, {
+  "id": 628,
+  "name": "stars cafe",
+  "addr": "500 van ness ave.",
+  "city": "san francisco",
+  "phone": "415/861-4344",
+  "type": "american",
+  "rClass": " '515'"
+}, {
+  "id": 629,
+  "name": "stoyanof's cafe",
+  "addr": "1240 9th ave.",
+  "city": "san francisco",
+  "phone": "415/664-3664",
+  "type": "greek and middle eastern",
+  "rClass": " '516'"
+}, {
+  "id": 630,
+  "name": "straits cafe",
+  "addr": "3300 geary blvd.",
+  "city": "san francisco",
+  "phone": "415/668-1783",
+  "type": "asian",
+  "rClass": " '517'"
+}, {
+  "id": 631,
+  "name": "suppenkuche",
+  "addr": "601 hayes st.",
+  "city": "san francisco",
+  "phone": "415/252-9289",
+  "type": "russian/german",
+  "rClass": " '518'"
+}, {
+  "id": 632,
+  "name": "tadich grill",
+  "addr": "240 california st.",
+  "city": "san francisco",
+  "phone": "415/391-2373",
+  "type": "seafood",
+  "rClass": " '519'"
+}, {
+  "id": 105,
+  "name": "petrossian",
+  "addr": "182 w. 58th st.",
+  "city": "new york",
+  "phone": "212/245-2214",
+  "type": "french",
+  "rClass": " '52'"
+}, {
+  "id": 106,
+  "name": "petrossian",
+  "addr": "182 w. 58th st.",
+  "city": "new york city",
+  "phone": "212-245-2214",
+  "type": "russian",
+  "rClass": " '52'"
+}, {
+  "id": 633,
+  "name": "the heights",
+  "addr": "3235 sacramento st.",
+  "city": "san francisco",
+  "phone": "415/474-8890",
+  "type": "french",
+  "rClass": " '520'"
+}, {
+  "id": 634,
+  "name": "thepin",
+  "addr": "298 gough st.",
+  "city": "san francisco",
+  "phone": "415/863-9335",
+  "type": "asian",
+  "rClass": " '521'"
+}, {
+  "id": 635,
+  "name": "ton kiang",
+  "addr": "3148 geary blvd.",
+  "city": "san francisco",
+  "phone": "415/752-4440",
+  "type": "asian",
+  "rClass": " '522'"
+}, {
+  "id": 636,
+  "name": "vertigo",
+  "addr": "600 montgomery st.",
+  "city": "san francisco",
+  "phone": "415/433-7250",
+  "type": "mediterranean",
+  "rClass": " '523'"
+}, {
+  "id": 637,
+  "name": "vivande porta via",
+  "addr": "2125 fillmore st.",
+  "city": "san francisco",
+  "phone": "415/346-4430",
+  "type": "italian",
+  "rClass": " '524'"
+}, {
+  "id": 638,
+  "name": "vivande ristorante",
+  "addr": "670 golden gate ave.",
+  "city": "san francisco",
+  "phone": "415/673-9245",
+  "type": "italian",
+  "rClass": " '525'"
+}, {
+  "id": 639,
+  "name": "world wrapps",
+  "addr": "2257 chestnut st.",
+  "city": "san francisco",
+  "phone": "415/563-9727",
+  "type": "american",
+  "rClass": " '526'"
+}, {
+  "id": 640,
+  "name": "wu kong",
+  "addr": "101 spear st.",
+  "city": "san francisco",
+  "phone": "415/957-9300",
+  "type": "asian",
+  "rClass": " '527'"
+}, {
+  "id": 641,
+  "name": "yank sing",
+  "addr": "427 battery st.",
+  "city": "san francisco",
+  "phone": "415/541-4949",
+  "type": "asian",
+  "rClass": " '528'"
+}, {
+  "id": 642,
+  "name": "yaya cuisine",
+  "addr": "1220 9th ave.",
+  "city": "san francisco",
+  "phone": "415/566-6966",
+  "type": "greek and middle eastern",
+  "rClass": " '529'"
+}, {
+  "id": 107,
+  "name": "picholine",
+  "addr": "35 w. 64th st.",
+  "city": "new york",
+  "phone": "212/724-8585",
+  "type": "mediterranean",
+  "rClass": " '53'"
+}, {
+  "id": 108,
+  "name": "picholine",
+  "addr": "35 w. 64th st.",
+  "city": "new york city",
+  "phone": "212-724-8585",
+  "type": "mediterranean",
+  "rClass": " '53'"
+}, {
+  "id": 643,
+  "name": "yoyo tsumami bistro",
+  "addr": "1611 post st.",
+  "city": "san francisco",
+  "phone": "415/922-7788",
+  "type": "french",
+  "rClass": " '530'"
+}, {
+  "id": 644,
+  "name": "zarzuela",
+  "addr": "2000 hyde st.",
+  "city": "san francisco",
+  "phone": "415/346-0800",
+  "type": "mexican/latin american/spanish",
+  "rClass": " '531'"
+}, {
+  "id": 645,
+  "name": "zuni cafe & grill",
+  "addr": "1658 market st.",
+  "city": "san francisco",
+  "phone": "415/552-2522",
+  "type": "mediterranean",
+  "rClass": " '532'"
+}, {
+  "id": 646,
+  "name": "apple pan  the",
+  "addr": "10801 w. pico blvd.",
+  "city": "west la",
+  "phone": "310-475-3585",
+  "type": "american",
+  "rClass": " '534'"
+}, {
+  "id": 647,
+  "name": "asahi ramen",
+  "addr": "2027 sawtelle blvd.",
+  "city": "west la",
+  "phone": "310-479-2231",
+  "type": "noodle shops",
+  "rClass": " '535'"
+}, {
+  "id": 648,
+  "name": "baja fresh",
+  "addr": "3345 kimber dr.",
+  "city": "westlake village",
+  "phone": "805-498-4049",
+  "type": "mexican",
+  "rClass": " '536'"
+}, {
+  "id": 649,
+  "name": "belvedere  the",
+  "addr": "9882 little santa monica blvd.",
+  "city": "beverly hills",
+  "phone": "310-788-2306",
+  "type": "pacific new wave",
+  "rClass": " '537'"
+}, {
+  "id": 650,
+  "name": "benita's frites",
+  "addr": "1433 third st. promenade",
+  "city": "santa monica",
+  "phone": "310-458-2889",
+  "type": "fast food",
+  "rClass": " '538'"
+}, {
+  "id": 651,
+  "name": "bernard's",
+  "addr": "515 s. olive st.",
+  "city": "los angeles",
+  "phone": "213-612-1580",
+  "type": "continental",
+  "rClass": " '539'"
+}, {
+  "id": 109,
+  "name": "pisces",
+  "addr": "95 ave. a at 6th st.",
+  "city": "new york",
+  "phone": "212/260-6660",
+  "type": "seafood",
+  "rClass": " '54'"
+}, {
+  "id": 110,
+  "name": "pisces",
+  "addr": "95 ave. a",
+  "city": "new york city",
+  "phone": "212-260-6660",
+  "type": "seafood",
+  "rClass": " '54'"
+}, {
+  "id": 652,
+  "name": "bistro 45",
+  "addr": "45 s. mentor ave.",
+  "city": "pasadena",
+  "phone": "818-795-2478",
+  "type": "californian",
+  "rClass": " '540'"
+}, {
+  "id": 653,
+  "name": "brent's deli",
+  "addr": "19565 parthenia ave.",
+  "city": "northridge",
+  "phone": "818-886-5679",
+  "type": "delis",
+  "rClass": " '541'"
+}, {
+  "id": 654,
+  "name": "brighton coffee shop",
+  "addr": "9600 brighton way",
+  "city": "beverly hills",
+  "phone": "310-276-7732",
+  "type": "coffee shops",
+  "rClass": " '542'"
+}, {
+  "id": 655,
+  "name": "bristol farms market cafe",
+  "addr": "1570 rosecrans ave. s.",
+  "city": "pasadena",
+  "phone": "310-643-5229",
+  "type": "californian",
+  "rClass": " '543'"
+}, {
+  "id": 656,
+  "name": "bruno's",
+  "addr": "3838 centinela ave.",
+  "city": "mar vista",
+  "phone": "310-397-5703",
+  "type": "italian",
+  "rClass": " '544'"
+}, {
+  "id": 657,
+  "name": "cafe '50s",
+  "addr": "838 lincoln blvd.",
+  "city": "venice",
+  "phone": "310-399-1955",
+  "type": "american",
+  "rClass": " '545'"
+}, {
+  "id": 658,
+  "name": "cafe blanc",
+  "addr": "9777 little santa monica blvd.",
+  "city": "beverly hills",
+  "phone": "310-888-0108",
+  "type": "pacific new wave",
+  "rClass": " '546'"
+}, {
+  "id": 659,
+  "name": "cassell's",
+  "addr": "3266 w. sixth st.",
+  "city": "la",
+  "phone": "213-480-8668",
+  "type": "hamburgers",
+  "rClass": " '547'"
+}, {
+  "id": 660,
+  "name": "chez melange",
+  "addr": "1716 pch",
+  "city": "redondo beach",
+  "phone": "310-540-1222",
+  "type": "eclectic",
+  "rClass": " '548'"
+}, {
+  "id": 661,
+  "name": "diaghilev",
+  "addr": "1020 n. san vicente blvd.",
+  "city": "w. hollywood",
+  "phone": "310-854-1111",
+  "type": "russian",
+  "rClass": " '549'"
+}, {
+  "id": 112,
+  "name": "rainbow room",
+  "addr": "30 rockefeller plaza",
+  "city": "new york city",
+  "phone": "212-632-5000",
+  "type": "american (new)",
+  "rClass": " '55'"
+}, {
+  "id": 111,
+  "name": "rainbow room",
+  "addr": "30 rockefeller plaza",
+  "city": "new york",
+  "phone": "212/632-5000",
+  "type": "or 212/632-5100 american",
+  "rClass": " '55'"
+}, {
+  "id": 662,
+  "name": "don antonio's",
+  "addr": "1136 westwood blvd.",
+  "city": "westwood",
+  "phone": "310-209-1422",
+  "type": "italian",
+  "rClass": " '550'"
+}, {
+  "id": 663,
+  "name": "duke's",
+  "addr": "8909 sunset blvd.",
+  "city": "w. hollywood",
+  "phone": "310-652-3100",
+  "type": "coffee shops",
+  "rClass": " '551'"
+}, {
+  "id": 664,
+  "name": "falafel king",
+  "addr": "1059 broxton ave.",
+  "city": "westwood",
+  "phone": "310-208-4444",
+  "type": "middle eastern",
+  "rClass": " '552'"
+}, {
+  "id": 665,
+  "name": "feast from the east",
+  "addr": "1949 westwood blvd.",
+  "city": "west la",
+  "phone": "310-475-0400",
+  "type": "chinese",
+  "rClass": " '553'"
+}, {
+  "id": 666,
+  "name": "gumbo pot  the",
+  "addr": "6333 w. third st.",
+  "city": "la",
+  "phone": "213-933-0358",
+  "type": "cajun/creole",
+  "rClass": " '554'"
+}, {
+  "id": 667,
+  "name": "hollywood hills coffee shop",
+  "addr": "6145 franklin ave.",
+  "city": "hollywood",
+  "phone": "213-467-7678",
+  "type": "coffee shops",
+  "rClass": " '555'"
+}, {
+  "id": 668,
+  "name": "indo cafe",
+  "addr": "10428 1/2 national blvd.",
+  "city": "la",
+  "phone": "310-815-1290",
+  "type": "indonesian",
+  "rClass": " '556'"
+}, {
+  "id": 669,
+  "name": "jan's family restaurant",
+  "addr": "8424 beverly blvd.",
+  "city": "la",
+  "phone": "213-651-2866",
+  "type": "coffee shops",
+  "rClass": " '557'"
+}, {
+  "id": 670,
+  "name": "jiraffe",
+  "addr": "502 santa monica blvd",
+  "city": "santa monica",
+  "phone": "310-917-6671",
+  "type": "californian",
+  "rClass": " '558'"
+}, {
+  "id": 671,
+  "name": "jody maroni's sausage kingdom",
+  "addr": "2011 ocean front walk",
+  "city": "venice",
+  "phone": "310-306-1995",
+  "type": "hot dogs",
+  "rClass": " '559'"
+}, {
+  "id": 113,
+  "name": "river cafe",
+  "addr": "1 water st. at the east river",
+  "city": "brooklyn",
+  "phone": "718/522-5200",
+  "type": "american",
+  "rClass": " '56'"
+}, {
+  "id": 114,
+  "name": "river cafe",
+  "addr": "1 water st.",
+  "city": "brooklyn",
+  "phone": "718-522-5200",
+  "type": "american (new)",
+  "rClass": " '56'"
+}, {
+  "id": 672,
+  "name": "joe's",
+  "addr": "1023 abbot kinney blvd.",
+  "city": "venice",
+  "phone": "310-399-5811",
+  "type": "american (new)",
+  "rClass": " '560'"
+}, {
+  "id": 673,
+  "name": "john o'groats",
+  "addr": "10516 w. pico blvd.",
+  "city": "west la",
+  "phone": "310-204-0692",
+  "type": "coffee shops",
+  "rClass": " '561'"
+}, {
+  "id": 674,
+  "name": "johnnie's pastrami",
+  "addr": "4017 s. sepulveda blvd.",
+  "city": "culver city",
+  "phone": "310-397-6654",
+  "type": "delis",
+  "rClass": " '562'"
+}, {
+  "id": 675,
+  "name": "johnny reb's southern smokehouse",
+  "addr": "4663 long beach blvd.",
+  "city": "long beach",
+  "phone": "310-423-7327",
+  "type": "southern/soul",
+  "rClass": " '563'"
+}, {
+  "id": 676,
+  "name": "johnny rockets (la)",
+  "addr": "7507 melrose ave.",
+  "city": "la",
+  "phone": "213-651-3361",
+  "type": "american",
+  "rClass": " '564'"
+}, {
+  "id": 677,
+  "name": "killer shrimp",
+  "addr": "4000 colfax ave.",
+  "city": "studio city",
+  "phone": "818-508-1570",
+  "type": "seafood",
+  "rClass": " '565'"
+}, {
+  "id": 678,
+  "name": "kokomo cafe",
+  "addr": "6333 w. third st.",
+  "city": "la",
+  "phone": "213-933-0773",
+  "type": "american",
+  "rClass": " '566'"
+}, {
+  "id": 679,
+  "name": "koo koo roo",
+  "addr": "8393 w. beverly blvd.",
+  "city": "la",
+  "phone": "213-655-9045",
+  "type": "chicken",
+  "rClass": " '567'"
+}, {
+  "id": 680,
+  "name": "la cachette",
+  "addr": "10506 little santa monica blvd.",
+  "city": "century city",
+  "phone": "310-470-4992",
+  "type": "french (new)",
+  "rClass": " '568'"
+}, {
+  "id": 681,
+  "name": "la salsa (la)",
+  "addr": "22800 pch",
+  "city": "malibu",
+  "phone": "310-456-6299",
+  "type": "mexican",
+  "rClass": " '569'"
+}, {
+  "id": 115,
+  "name": "san domenico",
+  "addr": "240 central park s",
+  "city": "new york",
+  "phone": "212/265-5959",
+  "type": "italian",
+  "rClass": " '57'"
+}, {
+  "id": 116,
+  "name": "san domenico",
+  "addr": "240 central park s.",
+  "city": "new york city",
+  "phone": "212-265-5959",
+  "type": "italian",
+  "rClass": " '57'"
+}, {
+  "id": 682,
+  "name": "la serenata de garibaldi",
+  "addr": "1842 e. first",
+  "city": "st. boyle hts.",
+  "phone": "213-265-2887",
+  "type": "mexican/tex-mex",
+  "rClass": " '570'"
+}, {
+  "id": 683,
+  "name": "langer's",
+  "addr": "704 s. alvarado st.",
+  "city": "la",
+  "phone": "213-483-8050",
+  "type": "delis",
+  "rClass": " '571'"
+}, {
+  "id": 684,
+  "name": "local nochol",
+  "addr": "30869 thousand oaks blvd.",
+  "city": "westlake village",
+  "phone": "818-706-7706",
+  "type": "health food",
+  "rClass": " '572'"
+}, {
+  "id": 685,
+  "name": "main course  the",
+  "addr": "10509 w. pico blvd.",
+  "city": "rancho park",
+  "phone": "310-475-7564",
+  "type": "american",
+  "rClass": " '573'"
+}, {
+  "id": 686,
+  "name": "mani's bakery & espresso bar",
+  "addr": "519 s. fairfax ave.",
+  "city": "la",
+  "phone": "213-938-8800",
+  "type": "desserts",
+  "rClass": " '574'"
+}, {
+  "id": 687,
+  "name": "martha's",
+  "addr": "22nd street grill 25 22nd",
+  "city": "st. hermosa beach",
+  "phone": "310-376-7786",
+  "type": "american",
+  "rClass": " '575'"
+}, {
+  "id": 688,
+  "name": "maxwell's cafe",
+  "addr": "13329 washington blvd.",
+  "city": "marina del rey",
+  "phone": "310-306-7829",
+  "type": "american",
+  "rClass": " '576'"
+}, {
+  "id": 689,
+  "name": "michael's (los angeles)",
+  "addr": "1147 third st.",
+  "city": "santa monica",
+  "phone": "310-451-0843",
+  "type": "californian",
+  "rClass": " '577'"
+}, {
+  "id": 690,
+  "name": "mishima",
+  "addr": "8474 w. third st.",
+  "city": "la",
+  "phone": "213-782-0181",
+  "type": "noodle shops",
+  "rClass": " '578'"
+}, {
+  "id": 691,
+  "name": "mo better meatty meat",
+  "addr": "7261 melrose ave.",
+  "city": "la",
+  "phone": "213-935-5280",
+  "type": "hamburgers",
+  "rClass": " '579'"
+}, {
+  "id": 117,
+  "name": "second avenue deli",
+  "addr": "156 2nd ave. at 10th st.",
+  "city": "new york",
+  "phone": "212/677-0606",
+  "type": "delicatessen",
+  "rClass": " '58'"
+}, {
+  "id": 118,
+  "name": "second avenue deli",
+  "addr": "156 second ave.",
+  "city": "new york city",
+  "phone": "212-677-0606",
+  "type": "delis",
+  "rClass": " '58'"
+}, {
+  "id": 692,
+  "name": "mulberry st.",
+  "addr": "17040 ventura blvd.",
+  "city": "encino",
+  "phone": "818-906-8881",
+  "type": "pizza",
+  "rClass": " '580'"
+}, {
+  "id": 693,
+  "name": "ocean park cafe",
+  "addr": "3117 ocean park blvd.",
+  "city": "santa monica",
+  "phone": "310-452-5728",
+  "type": "american",
+  "rClass": " '581'"
+}, {
+  "id": 694,
+  "name": "ocean star",
+  "addr": "145 n. atlantic blvd.",
+  "city": "monterey park",
+  "phone": "818-308-2128",
+  "type": "seafood",
+  "rClass": " '582'"
+}, {
+  "id": 695,
+  "name": "original pantry bakery",
+  "addr": "875 s. figueroa st. downtown",
+  "city": "la",
+  "phone": "213-627-6879",
+  "type": "diners",
+  "rClass": " '583'"
+}, {
+  "id": 696,
+  "name": "parkway grill",
+  "addr": "510 s. arroyo pkwy.",
+  "city": "pasadena",
+  "phone": "818-795-1001",
+  "type": "californian",
+  "rClass": " '584'"
+}, {
+  "id": 697,
+  "name": "pho hoa",
+  "addr": "642 broadway",
+  "city": "chinatown",
+  "phone": "213-626-5530",
+  "type": "vietnamese",
+  "rClass": " '585'"
+}, {
+  "id": 698,
+  "name": "pink's famous chili dogs",
+  "addr": "709 n. la brea ave.",
+  "city": "la",
+  "phone": "213-931-4223",
+  "type": "hot dogs",
+  "rClass": " '586'"
+}, {
+  "id": 699,
+  "name": "poquito mas",
+  "addr": "2635 w. olive ave.",
+  "city": "burbank",
+  "phone": "818-563-2252",
+  "type": "mexican",
+  "rClass": " '587'"
+}, {
+  "id": 700,
+  "name": "r-23",
+  "addr": "923 e. third st.",
+  "city": "los angeles",
+  "phone": "213-687-7178",
+  "type": "japanese",
+  "rClass": " '588'"
+}, {
+  "id": 701,
+  "name": "rae's",
+  "addr": "2901 pico blvd.",
+  "city": "santa monica",
+  "phone": "310-828-7937",
+  "type": "diners",
+  "rClass": " '589'"
+}, {
+  "id": 119,
+  "name": "seryna",
+  "addr": "11 e. 53rd st.",
+  "city": "new york",
+  "phone": "212/980-9393",
+  "type": "asian",
+  "rClass": " '59'"
+}, {
+  "id": 120,
+  "name": "seryna",
+  "addr": "11 e. 53rd st.",
+  "city": "new york city",
+  "phone": "212-980-9393",
+  "type": "japanese",
+  "rClass": " '59'"
+}, {
+  "id": 702,
+  "name": "rubin's red hots",
+  "addr": "15322 ventura blvd.",
+  "city": "encino",
+  "phone": "818-905-6515",
+  "type": "hot dogs",
+  "rClass": " '590'"
+}, {
+  "id": 703,
+  "name": "ruby's (la)",
+  "addr": "45 s. fair oaks ave.",
+  "city": "pasadena",
+  "phone": "818-796-7829",
+  "type": "diners",
+  "rClass": " '591'"
+}, {
+  "id": 704,
+  "name": "russell's burgers",
+  "addr": "1198 pch",
+  "city": "seal beach",
+  "phone": "310-596-9556",
+  "type": "hamburgers",
+  "rClass": " '592'"
+}, {
+  "id": 705,
+  "name": "ruth's chris steak house (los angeles)",
+  "addr": "224 s. beverly dr.",
+  "city": "beverly hills",
+  "phone": "310-859-8744",
+  "type": "steakhouses",
+  "rClass": " '593'"
+}, {
+  "id": 706,
+  "name": "shiro",
+  "addr": "1505 mission st. s.",
+  "city": "pasadena",
+  "phone": "818-799-4774",
+  "type": "pacific new wave",
+  "rClass": " '594'"
+}, {
+  "id": 707,
+  "name": "sushi nozawa",
+  "addr": "11288 ventura blvd.",
+  "city": "studio city",
+  "phone": "818-508-7017",
+  "type": "japanese",
+  "rClass": " '595'"
+}, {
+  "id": 708,
+  "name": "sweet lady jane",
+  "addr": "8360 melrose ave.",
+  "city": "la",
+  "phone": "213-653-7145",
+  "type": "desserts",
+  "rClass": " '596'"
+}, {
+  "id": 709,
+  "name": "taiko",
+  "addr": "11677 san vicente blvd.",
+  "city": "brentwood",
+  "phone": "310-207-7782",
+  "type": "noodle shops",
+  "rClass": " '597'"
+}, {
+  "id": 710,
+  "name": "tommy's",
+  "addr": "2575 beverly blvd.",
+  "city": "la",
+  "phone": "213-389-9060",
+  "type": "hamburgers",
+  "rClass": " '598'"
+}, {
+  "id": 711,
+  "name": "uncle bill's pancake house",
+  "addr": "1305 highland ave.",
+  "city": "manhattan beach",
+  "phone": "310-545-5177",
+  "type": "diners",
+  "rClass": " '599'"
+}, {
+  "id": 13,
+  "name": "citrus",
+  "addr": "6703 melrose ave.",
+  "city": "los angeles",
+  "phone": "213/857-0034",
+  "type": "californian",
+  "rClass": " '6'"
+}, {
+  "id": 14,
+  "name": "citrus",
+  "addr": "6703 melrose ave.",
+  "city": "los angeles",
+  "phone": "213-857-0034",
+  "type": "californian",
+  "rClass": " '6'"
+}, {
+  "id": 121,
+  "name": "shun lee west",
+  "addr": "43 w. 65th st.",
+  "city": "new york",
+  "phone": "212/371-8844",
+  "type": "asian",
+  "rClass": " '60'"
+}, {
+  "id": 122,
+  "name": "shun lee palace",
+  "addr": "155 e. 55th st.",
+  "city": "new york city",
+  "phone": "212-371-8844",
+  "type": "chinese",
+  "rClass": " '60'"
+}, {
+  "id": 712,
+  "name": "water grill",
+  "addr": "544 s. grand ave.",
+  "city": "los angeles",
+  "phone": "213-891-0900",
+  "type": "seafood",
+  "rClass": " '600'"
+}, {
+  "id": 713,
+  "name": "zankou chicken",
+  "addr": "1415 e. colorado st.",
+  "city": "glendale",
+  "phone": "818-244-1937",
+  "type": "middle eastern",
+  "rClass": " '601'"
+}, {
+  "id": 714,
+  "name": "",
+  "addr": "764 ninth ave.",
+  "city": "new york city",
+  "phone": "212-307-1612",
+  "type": "afghan",
+  "rClass": " '602'"
+}, {
+  "id": 715,
+  "name": "arcadia",
+  "addr": "21 e. 62nd st.",
+  "city": "new york city",
+  "phone": "212-223-2900",
+  "type": "american (new)",
+  "rClass": " '603'"
+}, {
+  "id": 716,
+  "name": "benny's burritos",
+  "addr": "93 ave. a",
+  "city": "new york city",
+  "phone": "212-254-2054",
+  "type": "mexican",
+  "rClass": " '604'"
+}, {
+  "id": 717,
+  "name": "cafe con leche",
+  "addr": "424 amsterdam ave.",
+  "city": "new york city",
+  "phone": "212-595-7000",
+  "type": "cuban",
+  "rClass": " '605'"
+}, {
+  "id": 718,
+  "name": "corner bistro",
+  "addr": "331 w. fourth st.",
+  "city": "new york city",
+  "phone": "212-242-9502",
+  "type": "hamburgers",
+  "rClass": " '606'"
+}, {
+  "id": 719,
+  "name": "cucina della fontana",
+  "addr": "368 bleecker st.",
+  "city": "new york city",
+  "phone": "212-242-0636",
+  "type": "italian",
+  "rClass": " '607'"
+}, {
+  "id": 720,
+  "name": "cucina di pesce",
+  "addr": "87 e. fourth st.",
+  "city": "new york city",
+  "phone": "212-260-6800",
+  "type": "seafood",
+  "rClass": " '608'"
+}, {
+  "id": 721,
+  "name": "darbar",
+  "addr": "44 w. 56th st.",
+  "city": "new york city",
+  "phone": "212-432-7227",
+  "type": "indian",
+  "rClass": " '609'"
+}, {
+  "id": 123,
+  "name": "sign of the dove",
+  "addr": "1110 3rd ave. at 65th st.",
+  "city": "new york",
+  "phone": "212/861-8080",
+  "type": "american",
+  "rClass": " '61'"
+}, {
+  "id": 124,
+  "name": "sign of the dove",
+  "addr": "1110 third ave.",
+  "city": "new york city",
+  "phone": "212-861-8080",
+  "type": "american (new)",
+  "rClass": " '61'"
+}, {
+  "id": 722,
+  "name": "ej's luncheonette",
+  "addr": "432 sixth ave.",
+  "city": "new york city",
+  "phone": "212-473-5555",
+  "type": "diners",
+  "rClass": " '610'"
+}, {
+  "id": 723,
+  "name": "edison cafe",
+  "addr": "228 w. 47th st.",
+  "city": "new york city",
+  "phone": "212-840-5000",
+  "type": "diners",
+  "rClass": " '611'"
+}, {
+  "id": 724,
+  "name": "elias corner",
+  "addr": "24-02 31st st.",
+  "city": "queens",
+  "phone": "718-932-1510",
+  "type": "greek",
+  "rClass": " '612'"
+}, {
+  "id": 725,
+  "name": "good enough to eat",
+  "addr": "483 amsterdam ave.",
+  "city": "new york city",
+  "phone": "212-496-0163",
+  "type": "american",
+  "rClass": " '613'"
+}, {
+  "id": 726,
+  "name": "gray's papaya",
+  "addr": "2090 broadway",
+  "city": "new york city",
+  "phone": "212-799-0243",
+  "type": "hot dogs",
+  "rClass": " '614'"
+}, {
+  "id": 727,
+  "name": "il mulino",
+  "addr": "86 w. third st.",
+  "city": "new york city",
+  "phone": "212-673-3783",
+  "type": "italian",
+  "rClass": " '615'"
+}, {
+  "id": 728,
+  "name": "jackson diner",
+  "addr": "37-03 74th st.",
+  "city": "queens",
+  "phone": "718-672-1232",
+  "type": "indian",
+  "rClass": " '616'"
+}, {
+  "id": 729,
+  "name": "joe's shanghai",
+  "addr": "9 pell st.",
+  "city": "queens",
+  "phone": "718-539-3838",
+  "type": "chinese",
+  "rClass": " '617'"
+}, {
+  "id": 730,
+  "name": "john's pizzeria",
+  "addr": "48 w. 65th st.",
+  "city": "new york city",
+  "phone": "212-721-7001",
+  "type": "pizza",
+  "rClass": " '618'"
+}, {
+  "id": 731,
+  "name": "kelley & ping",
+  "addr": "127 greene st.",
+  "city": "new york city",
+  "phone": "212-228-1212",
+  "type": "pan-asian",
+  "rClass": " '619'"
+}, {
+  "id": 125,
+  "name": "smith & wollensky",
+  "addr": "201 e. 49th st.",
+  "city": "new york",
+  "phone": "212/753-1530",
+  "type": "american",
+  "rClass": " '62'"
+}, {
+  "id": 126,
+  "name": "smith & wollensky",
+  "addr": "797 third ave.",
+  "city": "new york city",
+  "phone": "212-753-1530",
+  "type": "steakhouses",
+  "rClass": " '62'"
+}, {
+  "id": 732,
+  "name": "kiev",
+  "addr": "117 second ave.",
+  "city": "new york city",
+  "phone": "212-674-4040",
+  "type": "ukrainian",
+  "rClass": " '620'"
+}, {
+  "id": 733,
+  "name": "kuruma zushi",
+  "addr": "2nd fl.",
+  "city": "new york city",
+  "phone": "212-317-2802",
+  "type": "japanese",
+  "rClass": " '621'"
+}, {
+  "id": 734,
+  "name": "la caridad",
+  "addr": "2199 broadway",
+  "city": "new york city",
+  "phone": "212-874-2780",
+  "type": "cuban",
+  "rClass": " '622'"
+}, {
+  "id": 735,
+  "name": "la grenouille",
+  "addr": "3 e. 52nd st.",
+  "city": "new york city",
+  "phone": "212-752-1495",
+  "type": "french (classic)",
+  "rClass": " '623'"
+}, {
+  "id": 736,
+  "name": "lemongrass grill",
+  "addr": "61a seventh ave.",
+  "city": "brooklyn",
+  "phone": "718-399-7100",
+  "type": "thai",
+  "rClass": " '624'"
+}, {
+  "id": 737,
+  "name": "lombardi's",
+  "addr": "32 spring st.",
+  "city": "new york city",
+  "phone": "212-941-7994",
+  "type": "pizza",
+  "rClass": " '625'"
+}, {
+  "id": 738,
+  "name": "marnie's noodle shop",
+  "addr": "466 hudson st.",
+  "city": "new york city",
+  "phone": "212-741-3214",
+  "type": "asian",
+  "rClass": " '626'"
+}, {
+  "id": 739,
+  "name": "menchanko-tei",
+  "addr": "39 w. 55th st.",
+  "city": "new york city",
+  "phone": "212-247-1585",
+  "type": "japanese",
+  "rClass": " '627'"
+}, {
+  "id": 740,
+  "name": "mitali east-west",
+  "addr": "296 bleecker st.",
+  "city": "new york city",
+  "phone": "212-989-1367",
+  "type": "indian",
+  "rClass": " '628'"
+}, {
+  "id": 741,
+  "name": "monsoon (ny)",
+  "addr": "435 amsterdam ave.",
+  "city": "new york city",
+  "phone": "212-580-8686",
+  "type": "thai",
+  "rClass": " '629'"
+}, {
+  "id": 127,
+  "name": "tavern on the green",
+  "addr": "in central park at 67th st.",
+  "city": "new york",
+  "phone": "212/873-3200",
+  "type": "american",
+  "rClass": " '63'"
+}, {
+  "id": 128,
+  "name": "tavern on the green",
+  "addr": "central park west",
+  "city": "new york city",
+  "phone": "212-873-3200",
+  "type": "american (new)",
+  "rClass": " '63'"
+}, {
+  "id": 742,
+  "name": "moustache",
+  "addr": "405 atlantic ave.",
+  "city": "brooklyn",
+  "phone": "718-852-5555",
+  "type": "middle eastern",
+  "rClass": " '630'"
+}, {
+  "id": 743,
+  "name": "nobu",
+  "addr": "105 hudson st.",
+  "city": "new york city",
+  "phone": "212-219-0500",
+  "type": "japanese",
+  "rClass": " '631'"
+}, {
+  "id": 744,
+  "name": "one if by land  tibs",
+  "addr": "17 barrow st.",
+  "city": "new york city",
+  "phone": "212-228-0822",
+  "type": "continental",
+  "rClass": " '632'"
+}, {
+  "id": 745,
+  "name": "oyster bar",
+  "addr": "lower level",
+  "city": "new york city",
+  "phone": "212-490-6650",
+  "type": "seafood",
+  "rClass": " '633'"
+}, {
+  "id": 746,
+  "name": "palm",
+  "addr": "837 second ave.",
+  "city": "new york city",
+  "phone": "212-687-2953",
+  "type": "steakhouses",
+  "rClass": " '634'"
+}, {
+  "id": 747,
+  "name": "palm too",
+  "addr": "840 second ave.",
+  "city": "new york city",
+  "phone": "212-697-5198",
+  "type": "steakhouses",
+  "rClass": " '635'"
+}, {
+  "id": 748,
+  "name": "patsy's pizza",
+  "addr": "19 old fulton st.",
+  "city": "brooklyn",
+  "phone": "718-858-4300",
+  "type": "pizza",
+  "rClass": " '636'"
+}, {
+  "id": 749,
+  "name": "peter luger steak house",
+  "addr": "178 broadway",
+  "city": "brooklyn",
+  "phone": "718-387-7400",
+  "type": "steakhouses",
+  "rClass": " '637'"
+}, {
+  "id": 750,
+  "name": "rose of india",
+  "addr": "308 e. sixth st.",
+  "city": "new york city",
+  "phone": "212-533-5011",
+  "type": "indian",
+  "rClass": " '638'"
+}, {
+  "id": 751,
+  "name": "sam's noodle shop",
+  "addr": "411 third ave.",
+  "city": "new york city",
+  "phone": "212-213-2288",
+  "type": "chinese",
+  "rClass": " '639'"
+}, {
+  "id": 130,
+  "name": "uncle nick's",
+  "addr": "747 ninth ave.",
+  "city": "new york city",
+  "phone": "212-245-7992",
+  "type": "greek",
+  "rClass": " '64'"
+}, {
+  "id": 129,
+  "name": "uncle nick's",
+  "addr": "747 9th ave.  between 50th and 51st sts.",
+  "city": "new york",
+  "phone": "212/315-1726",
+  "type": "mediterranean",
+  "rClass": " '64'"
+}, {
+  "id": 752,
+  "name": "sarabeth's",
+  "addr": "1295 madison ave.",
+  "city": "new york city",
+  "phone": "212-410-7335",
+  "type": "american",
+  "rClass": " '640'"
+}, {
+  "id": 753,
+  "name": "sparks steak house",
+  "addr": "210 e. 46th st.",
+  "city": "new york city",
+  "phone": "212-687-4855",
+  "type": "steakhouses",
+  "rClass": " '641'"
+}, {
+  "id": 754,
+  "name": "stick to your ribs",
+  "addr": "5-16 51st ave.",
+  "city": "queens",
+  "phone": "718-937-3030",
+  "type": "bbq",
+  "rClass": " '642'"
+}, {
+  "id": 755,
+  "name": "sushisay",
+  "addr": "38 e. 51st st.",
+  "city": "new york city",
+  "phone": "212-755-1780",
+  "type": "japanese",
+  "rClass": " '643'"
+}, {
+  "id": 756,
+  "name": "sylvia's",
+  "addr": "328 lenox ave.",
+  "city": "new york city",
+  "phone": "212-996-0660",
+  "type": "southern/soul",
+  "rClass": " '644'"
+}, {
+  "id": 757,
+  "name": "szechuan hunan cottage",
+  "addr": "1588 york ave.",
+  "city": "new york city",
+  "phone": "212-535-5223",
+  "type": "chinese",
+  "rClass": " '645'"
+}, {
+  "id": 758,
+  "name": "szechuan kitchen",
+  "addr": "1460 first ave.",
+  "city": "new york city",
+  "phone": "212-249-4615",
+  "type": "chinese",
+  "rClass": " '646'"
+}, {
+  "id": 759,
+  "name": "teresa's",
+  "addr": "80 montague st.",
+  "city": "queens",
+  "phone": "718-520-2910",
+  "type": "polish",
+  "rClass": " '647'"
+}, {
+  "id": 760,
+  "name": "thai house cafe",
+  "addr": "151 hudson st.",
+  "city": "new york city",
+  "phone": "212-334-1085",
+  "type": "thai",
+  "rClass": " '648'"
+}, {
+  "id": 761,
+  "name": "thailand restaurant",
+  "addr": "106 bayard st.",
+  "city": "new york city",
+  "phone": "212-349-3132",
+  "type": "thai",
+  "rClass": " '649'"
+}, {
+  "id": 131,
+  "name": "union square cafe",
+  "addr": "21 e. 16th st.",
+  "city": "new york",
+  "phone": "212/243-4020",
+  "type": "american",
+  "rClass": " '65'"
+}, {
+  "id": 132,
+  "name": "union square cafe",
+  "addr": "21 e. 16th st.",
+  "city": "new york city",
+  "phone": "212-243-4020",
+  "type": "american (new)",
+  "rClass": " '65'"
+}, {
+  "id": 762,
+  "name": "veselka",
+  "addr": "",
+  "city": "new york city",
+  "phone": "212-228-9682",
+  "type": "ukrainian",
+  "rClass": " '650'"
+}, {
+  "id": 763,
+  "name": "westside cottage",
+  "addr": "689 ninth ave.",
+  "city": "new york city",
+  "phone": "212-245-0800",
+  "type": "chinese",
+  "rClass": " '651'"
+}, {
+  "id": 764,
+  "name": "windows on the world",
+  "addr": "107th fl.",
+  "city": "new york city",
+  "phone": "212-524-7000",
+  "type": "eclectic",
+  "rClass": " '652'"
+}, {
+  "id": 765,
+  "name": "wollensky's grill",
+  "addr": "205 e. 49th st.",
+  "city": "new york city",
+  "phone": "212-753-0444",
+  "type": "steakhouses",
+  "rClass": " '653'"
+}, {
+  "id": 766,
+  "name": "yama",
+  "addr": "122 e. 17th st.",
+  "city": "new york city",
+  "phone": "212-475-0969",
+  "type": "japanese",
+  "rClass": " '654'"
+}, {
+  "id": 767,
+  "name": "zarela",
+  "addr": "953 second ave.",
+  "city": "new york city",
+  "phone": "212-644-6740",
+  "type": "mexican",
+  "rClass": " '655'"
+}, {
+  "id": 768,
+  "name": "andre's french restaurant",
+  "addr": "401 s. 6th st.",
+  "city": "las vegas",
+  "phone": "702-385-5016",
+  "type": "french (classic)",
+  "rClass": " '656'"
+}, {
+  "id": 769,
+  "name": "buccaneer bay club",
+  "addr": "3300 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-894-7350",
+  "type": "continental",
+  "rClass": " '657'"
+}, {
+  "id": 770,
+  "name": "buzio's in the rio",
+  "addr": "3700 w. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702-252-7697",
+  "type": "seafood",
+  "rClass": " '658'"
+}, {
+  "id": 771,
+  "name": "emeril's new orleans fish house",
+  "addr": "3799 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-891-7374",
+  "type": "seafood",
+  "rClass": " '659'"
+}, {
+  "id": 133,
+  "name": "virgil's",
+  "addr": "152 w. 44th st.",
+  "city": "new york",
+  "phone": "212/ 921-9494",
+  "type": "american",
+  "rClass": " '66'"
+}, {
+  "id": 134,
+  "name": "virgil's real bbq",
+  "addr": "152 w. 44th st.",
+  "city": "new york city",
+  "phone": "212-921-9494",
+  "type": "bbq",
+  "rClass": " '66'"
+}, {
+  "id": 772,
+  "name": "fiore rotisserie & grille",
+  "addr": "3700 w. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702-252-7702",
+  "type": "italian",
+  "rClass": " '660'"
+}, {
+  "id": 773,
+  "name": "hugo's cellar",
+  "addr": "202 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702-385-4011",
+  "type": "continental",
+  "rClass": " '661'"
+}, {
+  "id": 774,
+  "name": "madame ching's",
+  "addr": "3300 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-894-7111",
+  "type": "asian",
+  "rClass": " '662'"
+}, {
+  "id": 775,
+  "name": "mayflower cuisinier",
+  "addr": "4750 w. sahara ave.",
+  "city": "las vegas",
+  "phone": "702-870-8432",
+  "type": "chinese",
+  "rClass": " '663'"
+}, {
+  "id": 776,
+  "name": "michael's (las vegas)",
+  "addr": "3595 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-737-7111",
+  "type": "continental",
+  "rClass": " '664'"
+}, {
+  "id": 777,
+  "name": "monte carlo",
+  "addr": "3145 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-733-4524",
+  "type": "french (new)",
+  "rClass": " '665'"
+}, {
+  "id": 778,
+  "name": "moongate",
+  "addr": "3400 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-791-7352",
+  "type": "chinese",
+  "rClass": " '666'"
+}, {
+  "id": 779,
+  "name": "morton's of chicago (las vegas)",
+  "addr": "3200 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-893-0703",
+  "type": "steakhouses",
+  "rClass": " '667'"
+}, {
+  "id": 780,
+  "name": "nicky blair's",
+  "addr": "3925 paradise rd.",
+  "city": "las vegas",
+  "phone": "702-792-9900",
+  "type": "italian",
+  "rClass": " '668'"
+}, {
+  "id": 781,
+  "name": "piero's restaurant",
+  "addr": "355 convention center dr.",
+  "city": "las vegas",
+  "phone": "702-369-2305",
+  "type": "italian",
+  "rClass": " '669'"
+}, {
+  "id": 135,
+  "name": "chin's",
+  "addr": "3200 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/733-8899",
+  "type": "asian",
+  "rClass": " '67'"
+}, {
+  "id": 136,
+  "name": "chin's",
+  "addr": "3200 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-733-8899",
+  "type": "chinese",
+  "rClass": " '67'"
+}, {
+  "id": 782,
+  "name": "spago (las vegas)",
+  "addr": "3500 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-369-6300",
+  "type": "californian",
+  "rClass": " '670'"
+}, {
+  "id": 783,
+  "name": "steakhouse  the",
+  "addr": "128 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702-382-1600",
+  "type": "steakhouses",
+  "rClass": " '671'"
+}, {
+  "id": 784,
+  "name": "stefano's",
+  "addr": "129 fremont st.",
+  "city": "las vegas",
+  "phone": "702-385-7111",
+  "type": "italian",
+  "rClass": " '672'"
+}, {
+  "id": 785,
+  "name": "sterling brunch",
+  "addr": "3645 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-739-4651",
+  "type": "eclectic",
+  "rClass": " '673'"
+}, {
+  "id": 786,
+  "name": "tre visi",
+  "addr": "3799 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-891-7331",
+  "type": "italian",
+  "rClass": " '674'"
+}, {
+  "id": 787,
+  "name": "103 west",
+  "addr": "103 w. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404-233-5993",
+  "type": "continental",
+  "rClass": " '675'"
+}, {
+  "id": 788,
+  "name": "alon's at the terrace",
+  "addr": "659 peachtree st.",
+  "city": "atlanta",
+  "phone": "404-724-0444",
+  "type": "sandwiches",
+  "rClass": " '676'"
+}, {
+  "id": 789,
+  "name": "baker's cajun cafe",
+  "addr": "1134 euclid ave.",
+  "city": "atlanta",
+  "phone": "404-223-5039",
+  "type": "cajun/creole",
+  "rClass": " '677'"
+}, {
+  "id": 790,
+  "name": "barbecue kitchen",
+  "addr": "1437 virginia ave.",
+  "city": "atlanta",
+  "phone": "404-766-9906",
+  "type": "bbq",
+  "rClass": " '678'"
+}, {
+  "id": 791,
+  "name": "bistro  the",
+  "addr": "56 e. andrews dr. nw",
+  "city": "atlanta",
+  "phone": "404-231-5733",
+  "type": "french bistro",
+  "rClass": " '679'"
+}, {
+  "id": 137,
+  "name": "coyote cafe",
+  "addr": "3799 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/891-7349",
+  "type": "southwestern",
+  "rClass": " '68'"
+}, {
+  "id": 138,
+  "name": "coyote cafe (las vegas)",
+  "addr": "3799 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-891-7349",
+  "type": "southwestern",
+  "rClass": " '68'"
+}, {
+  "id": 792,
+  "name": "bobby & june's kountry kitchen",
+  "addr": "375 14th st.",
+  "city": "atlanta",
+  "phone": "404-876-3872",
+  "type": "southern/soul",
+  "rClass": " '680'"
+}, {
+  "id": 793,
+  "name": "bradshaw's restaurant",
+  "addr": "2911 s. pharr court",
+  "city": "atlanta",
+  "phone": "404-261-7015",
+  "type": "southern/soul",
+  "rClass": " '681'"
+}, {
+  "id": 794,
+  "name": "brookhaven cafe",
+  "addr": "4274 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-231-5907",
+  "type": "vegetarian",
+  "rClass": " '682'"
+}, {
+  "id": 795,
+  "name": "cafe sunflower",
+  "addr": "5975 roswell rd.",
+  "city": "atlanta",
+  "phone": "404-256-1675",
+  "type": "health food",
+  "rClass": " '683'"
+}, {
+  "id": 796,
+  "name": "canoe",
+  "addr": "4199 paces ferry rd.",
+  "city": "atlanta",
+  "phone": "770-432-2663",
+  "type": "american (new)",
+  "rClass": " '684'"
+}, {
+  "id": 797,
+  "name": "carey's",
+  "addr": "1021 cobb pkwy. se",
+  "city": "marietta",
+  "phone": "770-422-8042",
+  "type": "hamburgers",
+  "rClass": " '685'"
+}, {
+  "id": 798,
+  "name": "carey's corner",
+  "addr": "1215 powers ferry rd.",
+  "city": "marietta",
+  "phone": "770-933-0909",
+  "type": "hamburgers",
+  "rClass": " '686'"
+}, {
+  "id": 799,
+  "name": "chops",
+  "addr": "70 w. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404-262-2675",
+  "type": "steakhouses",
+  "rClass": " '687'"
+}, {
+  "id": 800,
+  "name": "chopstix",
+  "addr": "4279 roswell rd.",
+  "city": "atlanta",
+  "phone": "404-255-4868",
+  "type": "chinese",
+  "rClass": " '688'"
+}, {
+  "id": 801,
+  "name": "deacon burton's soulfood restaurant",
+  "addr": "1029 edgewood ave. se",
+  "city": "atlanta",
+  "phone": "404-523-1929",
+  "type": "southern/soul",
+  "rClass": " '689'"
+}, {
+  "id": 139,
+  "name": "le montrachet",
+  "addr": "3000 w. paradise rd.",
+  "city": "las vegas",
+  "phone": "702/732-5111",
+  "type": "continental",
+  "rClass": " '69'"
+}, {
+  "id": 140,
+  "name": "le montrachet bistro",
+  "addr": "3000 paradise rd.",
+  "city": "las vegas",
+  "phone": "702-732-5651",
+  "type": "french bistro",
+  "rClass": " '69'"
+}, {
+  "id": 802,
+  "name": "eats",
+  "addr": "600 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404-888-9149",
+  "type": "italian",
+  "rClass": " '690'"
+}, {
+  "id": 803,
+  "name": "flying biscuit  the",
+  "addr": "1655 mclendon ave.",
+  "city": "atlanta",
+  "phone": "404-687-8888",
+  "type": "eclectic",
+  "rClass": " '691'"
+}, {
+  "id": 804,
+  "name": "frijoleros",
+  "addr": "1031 peachtree st. ne",
+  "city": "atlanta",
+  "phone": "404-892-8226",
+  "type": "tex-mex",
+  "rClass": " '692'"
+}, {
+  "id": 805,
+  "name": "greenwood's",
+  "addr": "1087 green st.",
+  "city": "roswell",
+  "phone": "770-992-5383",
+  "type": "southern/soul",
+  "rClass": " '693'"
+}, {
+  "id": 806,
+  "name": "harold's barbecue",
+  "addr": "171 mcdonough blvd.",
+  "city": "atlanta",
+  "phone": "404-627-9268",
+  "type": "bbq",
+  "rClass": " '694'"
+}, {
+  "id": 807,
+  "name": "havana sandwich shop",
+  "addr": "2905 buford hwy.",
+  "city": "atlanta",
+  "phone": "404-636-4094",
+  "type": "cuban",
+  "rClass": " '695'"
+}, {
+  "id": 808,
+  "name": "house of chan",
+  "addr": "2469 cobb pkwy.",
+  "city": "smyrna",
+  "phone": "770-955-9444",
+  "type": "chinese",
+  "rClass": " '696'"
+}, {
+  "id": 809,
+  "name": "indian delights",
+  "addr": "3675 satellite blvd.",
+  "city": "duluth",
+  "phone": "100-813-8212",
+  "type": "indian",
+  "rClass": " '697'"
+}, {
+  "id": 810,
+  "name": "java jive",
+  "addr": "790 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404-876-6161",
+  "type": "coffee shops",
+  "rClass": " '698'"
+}, {
+  "id": 811,
+  "name": "johnny rockets (at)",
+  "addr": "2970 cobb pkwy.",
+  "city": "atlanta",
+  "phone": "770-955-6068",
+  "type": "american",
+  "rClass": " '699'"
+}, {
+  "id": 15,
+  "name": "fenix",
+  "addr": "8358 sunset blvd. west",
+  "city": "hollywood",
+  "phone": "213/848-6677",
+  "type": "american",
+  "rClass": " '7'"
+}, {
+  "id": 16,
+  "name": "fenix at the argyle",
+  "addr": "8358 sunset blvd.",
+  "city": "w. hollywood",
+  "phone": "213-848-6677",
+  "type": "french (new)",
+  "rClass": " '7'"
+}, {
+  "id": 141,
+  "name": "palace court",
+  "addr": "3570 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/731-7547",
+  "type": "continental",
+  "rClass": " '70'"
+}, {
+  "id": 142,
+  "name": "palace court",
+  "addr": "3570 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-731-7110",
+  "type": "french (new)",
+  "rClass": " '70'"
+}, {
+  "id": 812,
+  "name": "kalo's coffee house",
+  "addr": "1248 clairmont rd.",
+  "city": "decatur",
+  "phone": "404-325-3733",
+  "type": "coffeehouses",
+  "rClass": " '700'"
+}, {
+  "id": 813,
+  "name": "la fonda latina",
+  "addr": "4427 roswell rd.",
+  "city": "atlanta",
+  "phone": "404-303-8201",
+  "type": "spanish",
+  "rClass": " '701'"
+}, {
+  "id": 814,
+  "name": "lettuce souprise you (at)",
+  "addr": "3525 mall blvd.",
+  "city": "duluth",
+  "phone": "770-418-9969",
+  "type": "cafeterias",
+  "rClass": " '702'"
+}, {
+  "id": 815,
+  "name": "majestic",
+  "addr": "1031 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404-875-0276",
+  "type": "diners",
+  "rClass": " '703'"
+}, {
+  "id": 816,
+  "name": "morton's of chicago (atlanta)",
+  "addr": "303 peachtree st. ne",
+  "city": "atlanta",
+  "phone": "404-577-4366",
+  "type": "steakhouses",
+  "rClass": " '704'"
+}, {
+  "id": 817,
+  "name": "my thai",
+  "addr": "1248 clairmont rd.",
+  "city": "atlanta",
+  "phone": "404-636-4280",
+  "type": "thai",
+  "rClass": " '705'"
+}, {
+  "id": 818,
+  "name": "nava",
+  "addr": "3060 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-240-1984",
+  "type": "southwestern",
+  "rClass": " '706'"
+}, {
+  "id": 819,
+  "name": "nuevo laredo cantina",
+  "addr": "1495 chattahoochee ave. nw",
+  "city": "atlanta",
+  "phone": "404-352-9009",
+  "type": "mexican",
+  "rClass": " '707'"
+}, {
+  "id": 820,
+  "name": "original pancake house (at)",
+  "addr": "4330 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-237-4116",
+  "type": "american",
+  "rClass": " '708'"
+}, {
+  "id": 821,
+  "name": "palm  the (atlanta)",
+  "addr": "3391 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-814-1955",
+  "type": "steakhouses",
+  "rClass": " '709'"
+}, {
+  "id": 144,
+  "name": "second street grill",
+  "addr": "200 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702-385-6277",
+  "type": "pacific rim",
+  "rClass": " '71'"
+}, {
+  "id": 143,
+  "name": "second street grille",
+  "addr": "200 e. fremont st.",
+  "city": "las vegas",
+  "phone": "702/385-3232",
+  "type": "seafood",
+  "rClass": " '71'"
+}, {
+  "id": 822,
+  "name": "rainbow restaurant",
+  "addr": "2118 n. decatur rd.",
+  "city": "decatur",
+  "phone": "404-633-3538",
+  "type": "vegetarian",
+  "rClass": " '710'"
+}, {
+  "id": 823,
+  "name": "ritz-carlton cafe (atlanta)",
+  "addr": "181 peachtree st.",
+  "city": "atlanta",
+  "phone": "404-659-0400",
+  "type": "american (new)",
+  "rClass": " '711'"
+}, {
+  "id": 824,
+  "name": "riviera",
+  "addr": "519 e. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404-262-7112",
+  "type": "mediterranean",
+  "rClass": " '712'"
+}, {
+  "id": 825,
+  "name": "silver skillet  the",
+  "addr": "200 14th st. nw",
+  "city": "atlanta",
+  "phone": "404-874-1388",
+  "type": "coffee shops",
+  "rClass": " '713'"
+}, {
+  "id": 826,
+  "name": "soto",
+  "addr": "3330 piedmont rd.",
+  "city": "atlanta",
+  "phone": "404-233-2005",
+  "type": "japanese",
+  "rClass": " '714'"
+}, {
+  "id": 827,
+  "name": "thelma's kitchen",
+  "addr": "764 marietta st. nw",
+  "city": "atlanta",
+  "phone": "404-688-5855",
+  "type": "cafeterias",
+  "rClass": " '715'"
+}, {
+  "id": 828,
+  "name": "tortillas",
+  "addr": "774 ponce de leon ave. ne",
+  "city": "atlanta",
+  "phone": "404-892-0193",
+  "type": "tex-mex",
+  "rClass": " '716'"
+}, {
+  "id": 829,
+  "name": "van gogh's restaurant & bar",
+  "addr": "70 w. crossville rd.",
+  "city": "roswell",
+  "phone": "770-993-1156",
+  "type": "american (new)",
+  "rClass": " '717'"
+}, {
+  "id": 830,
+  "name": "veggieland",
+  "addr": "220 sandy springs circle",
+  "city": "atlanta",
+  "phone": "404-231-3111",
+  "type": "vegetarian",
+  "rClass": " '718'"
+}, {
+  "id": 831,
+  "name": "white house restaurant",
+  "addr": "3172 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-237-7601",
+  "type": "diners",
+  "rClass": " '719'"
+}, {
+  "id": 145,
+  "name": "steak house",
+  "addr": "2880 las vegas blvd. s",
+  "city": "las vegas",
+  "phone": "702/734-0410",
+  "type": "steak houses",
+  "rClass": " '72'"
+}, {
+  "id": 146,
+  "name": "steak house  the",
+  "addr": "2880 las vegas blvd. s.",
+  "city": "las vegas",
+  "phone": "702-734-0410",
+  "type": "steakhouses",
+  "rClass": " '72'"
+}, {
+  "id": 832,
+  "name": "zab-e-lee",
+  "addr": "4837 old national hwy.",
+  "city": "college park",
+  "phone": "404-768-2705",
+  "type": "thai",
+  "rClass": " '720'"
+}, {
+  "id": 833,
+  "name": "bill's place",
+  "addr": "2315 clement st.",
+  "city": "san francisco",
+  "phone": "415-221-5262",
+  "type": "hamburgers",
+  "rClass": " '721'"
+}, {
+  "id": 834,
+  "name": "cafe flore",
+  "addr": "2298 market st.",
+  "city": "san francisco",
+  "phone": "415-621-8579",
+  "type": "californian",
+  "rClass": " '722'"
+}, {
+  "id": 835,
+  "name": "caffe greco",
+  "addr": "423 columbus ave.",
+  "city": "san francisco",
+  "phone": "415-397-6261",
+  "type": "continental",
+  "rClass": " '723'"
+}, {
+  "id": 836,
+  "name": "campo santo",
+  "addr": "240 columbus ave.",
+  "city": "san francisco",
+  "phone": "415-433-9623",
+  "type": "mexican",
+  "rClass": " '724'"
+}, {
+  "id": 837,
+  "name": "cha cha cha's",
+  "addr": "1805 haight st.",
+  "city": "san francisco",
+  "phone": "415-386-5758",
+  "type": "caribbean",
+  "rClass": " '725'"
+}, {
+  "id": 838,
+  "name": "doidge's",
+  "addr": "2217 union st.",
+  "city": "san francisco",
+  "phone": "415-921-2149",
+  "type": "american",
+  "rClass": " '726'"
+}, {
+  "id": 839,
+  "name": "dottie's true blue cafe",
+  "addr": "522 jones st.",
+  "city": "san francisco",
+  "phone": "415-885-2767",
+  "type": "diners",
+  "rClass": " '727'"
+}, {
+  "id": 840,
+  "name": "dusit thai",
+  "addr": "3221 mission st.",
+  "city": "san francisco",
+  "phone": "415-826-4639",
+  "type": "thai",
+  "rClass": " '728'"
+}, {
+  "id": 841,
+  "name": "ebisu",
+  "addr": "1283 ninth ave.",
+  "city": "san francisco",
+  "phone": "415-566-1770",
+  "type": "japanese",
+  "rClass": " '729'"
+}, {
+  "id": 147,
+  "name": "tillerman",
+  "addr": "2245 e. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702/731-4036",
+  "type": "seafood",
+  "rClass": " '73'"
+}, {
+  "id": 148,
+  "name": "tillerman  the",
+  "addr": "2245 e. flamingo rd.",
+  "city": "las vegas",
+  "phone": "702-731-4036",
+  "type": "steakhouses",
+  "rClass": " '73'"
+}, {
+  "id": 842,
+  "name": "emerald garden restaurant",
+  "addr": "1550 california st.",
+  "city": "san francisco",
+  "phone": "415-673-1155",
+  "type": "vietnamese",
+  "rClass": " '730'"
+}, {
+  "id": 843,
+  "name": "eric's chinese restaurant",
+  "addr": "1500 church st.",
+  "city": "san francisco",
+  "phone": "415-282-0919",
+  "type": "chinese",
+  "rClass": " '731'"
+}, {
+  "id": 844,
+  "name": "hamburger mary's",
+  "addr": "1582 folsom st.",
+  "city": "san francisco",
+  "phone": "415-626-1985",
+  "type": "hamburgers",
+  "rClass": " '732'"
+}, {
+  "id": 845,
+  "name": "kelly's on trinity",
+  "addr": "333 bush st.",
+  "city": "san francisco",
+  "phone": "415-362-4454",
+  "type": "californian",
+  "rClass": " '733'"
+}, {
+  "id": 846,
+  "name": "la cumbre",
+  "addr": "515 valencia st.",
+  "city": "san francisco",
+  "phone": "415-863-8205",
+  "type": "mexican",
+  "rClass": " '734'"
+}, {
+  "id": 847,
+  "name": "la mediterranee",
+  "addr": "288 noe st.",
+  "city": "san francisco",
+  "phone": "415-431-7210",
+  "type": "mediterranean",
+  "rClass": " '735'"
+}, {
+  "id": 848,
+  "name": "la taqueria",
+  "addr": "2889 mission st.",
+  "city": "san francisco",
+  "phone": "415-285-7117",
+  "type": "mexican",
+  "rClass": " '736'"
+}, {
+  "id": 849,
+  "name": "mario's bohemian cigar store cafe",
+  "addr": "2209 polk st.",
+  "city": "san francisco",
+  "phone": "415-776-8226",
+  "type": "italian",
+  "rClass": " '737'"
+}, {
+  "id": 850,
+  "name": "marnee thai",
+  "addr": "2225 irving st.",
+  "city": "san francisco",
+  "phone": "415-665-9500",
+  "type": "thai",
+  "rClass": " '738'"
+}, {
+  "id": 851,
+  "name": "mel's drive-in",
+  "addr": "3355 geary st.",
+  "city": "san francisco",
+  "phone": "415-387-2244",
+  "type": "hamburgers",
+  "rClass": " '739'"
+}, {
+  "id": 149,
+  "name": "abruzzi",
+  "addr": "2355 peachtree rd.  peachtree battle shopping center",
+  "city": "atlanta",
+  "phone": "404/261-8186",
+  "type": "italian",
+  "rClass": " '74'"
+}, {
+  "id": 150,
+  "name": "abruzzi",
+  "addr": "2355 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-261-8186",
+  "type": "italian",
+  "rClass": " '74'"
+}, {
+  "id": 852,
+  "name": "mo's burgers",
+  "addr": "1322 grant st.",
+  "city": "san francisco",
+  "phone": "415-788-3779",
+  "type": "hamburgers",
+  "rClass": " '740'"
+}, {
+  "id": 853,
+  "name": "phnom penh cambodian restaurant",
+  "addr": "631 larkin st.",
+  "city": "san francisco",
+  "phone": "415-775-5979",
+  "type": "cambodian",
+  "rClass": " '741'"
+}, {
+  "id": 854,
+  "name": "roosevelt tamale parlor",
+  "addr": "2817 24th st.",
+  "city": "san francisco",
+  "phone": "415-550-9213",
+  "type": "mexican",
+  "rClass": " '742'"
+}, {
+  "id": 855,
+  "name": "sally's cafe & bakery",
+  "addr": "300 de haro st.",
+  "city": "san francisco",
+  "phone": "415-626-6006",
+  "type": "american",
+  "rClass": " '743'"
+}, {
+  "id": 856,
+  "name": "san francisco bbq",
+  "addr": "1328 18th st.",
+  "city": "san francisco",
+  "phone": "415-431-8956",
+  "type": "thai",
+  "rClass": " '744'"
+}, {
+  "id": 857,
+  "name": "slanted door",
+  "addr": "584 valencia st.",
+  "city": "san francisco",
+  "phone": "415-861-8032",
+  "type": "vietnamese",
+  "rClass": " '745'"
+}, {
+  "id": 858,
+  "name": "swan oyster depot",
+  "addr": "1517 polk st.",
+  "city": "san francisco",
+  "phone": "415-673-1101",
+  "type": "seafood",
+  "rClass": " '746'"
+}, {
+  "id": 859,
+  "name": "thep phanom",
+  "addr": "400 waller st.",
+  "city": "san francisco",
+  "phone": "415-431-2526",
+  "type": "thai",
+  "rClass": " '747'"
+}, {
+  "id": 860,
+  "name": "ti couz",
+  "addr": "3108 16th st.",
+  "city": "san francisco",
+  "phone": "415-252-7373",
+  "type": "french",
+  "rClass": " '748'"
+}, {
+  "id": 861,
+  "name": "trio cafe",
+  "addr": "1870 fillmore st.",
+  "city": "san francisco",
+  "phone": "415-563-2248",
+  "type": "american",
+  "rClass": " '749'"
+}, {
+  "id": 152,
+  "name": "bacchanalia",
+  "addr": "3125 piedmont rd.",
+  "city": "atlanta",
+  "phone": "404-365-0410",
+  "type": "californian",
+  "rClass": " '75'"
+}, {
+  "id": 151,
+  "name": "bacchanalia",
+  "addr": "3125 piedmont rd.  near peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/365-0410",
+  "type": "international",
+  "rClass": " '75'"
+}, {
+  "id": 862,
+  "name": "tu lan",
+  "addr": "8 sixth st.",
+  "city": "san francisco",
+  "phone": "415-626-0927",
+  "type": "vietnamese",
+  "rClass": " '750'"
+}, {
+  "id": 863,
+  "name": "vicolo pizzeria",
+  "addr": "201 ivy st.",
+  "city": "san francisco",
+  "phone": "415-863-2382",
+  "type": "pizza",
+  "rClass": " '751'"
+}, {
+  "id": 864,
+  "name": "wa-ha-ka oaxaca mexican grill",
+  "addr": "2141 polk st.",
+  "city": "san francisco",
+  "phone": "415-775-1055",
+  "type": "mexican",
+  "rClass": " '752'"
+}, {
+  "id": 153,
+  "name": "bone's",
+  "addr": "3130 piedmont road",
+  "city": "atlanta",
+  "phone": "404/237-2663",
+  "type": "american",
+  "rClass": " '76'"
+}, {
+  "id": 154,
+  "name": "bone's restaurant",
+  "addr": "3130 piedmont rd. ne",
+  "city": "atlanta",
+  "phone": "404-237-2663",
+  "type": "steakhouses",
+  "rClass": " '76'"
+}, {
+  "id": 155,
+  "name": "brasserie le coze",
+  "addr": "3393 peachtree rd.  lenox square mall  near neiman marcus",
+  "city": "atlanta",
+  "phone": "404/266-1440",
+  "type": "french",
+  "rClass": " '77'"
+}, {
+  "id": 156,
+  "name": "brasserie le coze",
+  "addr": "3393 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-266-1440",
+  "type": "french bistro",
+  "rClass": " '77'"
+}, {
+  "id": 157,
+  "name": "buckhead diner",
+  "addr": "3073 piedmont road",
+  "city": "atlanta",
+  "phone": "404/262-3336",
+  "type": "american",
+  "rClass": " '78'"
+}, {
+  "id": 158,
+  "name": "buckhead diner",
+  "addr": "3073 piedmont rd.",
+  "city": "atlanta",
+  "phone": "404-262-3336",
+  "type": "american (new)",
+  "rClass": " '78'"
+}, {
+  "id": 159,
+  "name": "ciboulette",
+  "addr": "1529 piedmont ave.",
+  "city": "atlanta",
+  "phone": "404/874-7600",
+  "type": "french",
+  "rClass": " '79'"
+}, {
+  "id": 160,
+  "name": "ciboulette restaurant",
+  "addr": "1529 piedmont ave.",
+  "city": "atlanta",
+  "phone": "404-874-7600",
+  "type": "french (new)",
+  "rClass": " '79'"
+}, {
+  "id": 17,
+  "name": "granita",
+  "addr": "23725 w. malibu rd.",
+  "city": "malibu",
+  "phone": "310/456-0488",
+  "type": "californian",
+  "rClass": " '8'"
+}, {
+  "id": 18,
+  "name": "granita",
+  "addr": "23725 w. malibu rd.",
+  "city": "malibu",
+  "phone": "310-456-0488",
+  "type": "californian",
+  "rClass": " '8'"
+}, {
+  "id": 161,
+  "name": "delectables",
+  "addr": "1 margaret mitchell sq.",
+  "city": "atlanta",
+  "phone": "404/681-2909",
+  "type": "american",
+  "rClass": " '80'"
+}, {
+  "id": 162,
+  "name": "delectables",
+  "addr": "1 margaret mitchell sq.",
+  "city": "atlanta",
+  "phone": "404-681-2909",
+  "type": "cafeterias",
+  "rClass": " '80'"
+}, {
+  "id": 163,
+  "name": "georgia grille",
+  "addr": "2290 peachtree rd.  peachtree square shopping center",
+  "city": "atlanta",
+  "phone": "404/352-3517",
+  "type": "american",
+  "rClass": " '81'"
+}, {
+  "id": 164,
+  "name": "georgia grille",
+  "addr": "2290 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-352-3517",
+  "type": "southwestern",
+  "rClass": " '81'"
+}, {
+  "id": 166,
+  "name": "hedgerose heights inn  the",
+  "addr": "490 e. paces ferry rd. ne",
+  "city": "atlanta",
+  "phone": "404-233-7673",
+  "type": "continental",
+  "rClass": " '82'"
+}, {
+  "id": 165,
+  "name": "hedgerose heights inn",
+  "addr": "490 e. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404/233-7673",
+  "type": "international",
+  "rClass": " '82'"
+}, {
+  "id": 167,
+  "name": "heera of india",
+  "addr": "595 piedmont ave.  rio shopping mall",
+  "city": "atlanta",
+  "phone": "404/876-4408",
+  "type": "asian",
+  "rClass": " '83'"
+}, {
+  "id": 168,
+  "name": "heera of india",
+  "addr": "595 piedmont ave.",
+  "city": "atlanta",
+  "phone": "404-876-4408",
+  "type": "indian",
+  "rClass": " '83'"
+}, {
+  "id": 169,
+  "name": "indigo coastal grill",
+  "addr": "1397 n. highland ave.",
+  "city": "atlanta",
+  "phone": "404/876-0676",
+  "type": "caribbean",
+  "rClass": " '84'"
+}, {
+  "id": 170,
+  "name": "indigo coastal grill",
+  "addr": "1397 n. highland ave.",
+  "city": "atlanta",
+  "phone": "404-876-0676",
+  "type": "eclectic",
+  "rClass": " '84'"
+}, {
+  "id": 171,
+  "name": "la grotta",
+  "addr": "2637 peachtree rd.  peachtree house condominium",
+  "city": "atlanta",
+  "phone": "404/231-1368",
+  "type": "italian",
+  "rClass": " '85'"
+}, {
+  "id": 172,
+  "name": "la grotta",
+  "addr": "2637 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-231-1368",
+  "type": "italian",
+  "rClass": " '85'"
+}, {
+  "id": 173,
+  "name": "mary mac's tea room",
+  "addr": "224 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404/876-1800",
+  "type": "southern",
+  "rClass": " '86'"
+}, {
+  "id": 174,
+  "name": "mary mac's tea room",
+  "addr": "224 ponce de leon ave.",
+  "city": "atlanta",
+  "phone": "404-876-1800",
+  "type": "southern/soul",
+  "rClass": " '86'"
+}, {
+  "id": 175,
+  "name": "nikolai's roof",
+  "addr": "255 courtland st.  at harris st.",
+  "city": "atlanta",
+  "phone": "404/221-6362",
+  "type": "continental",
+  "rClass": " '87'"
+}, {
+  "id": 176,
+  "name": "nikolai's roof",
+  "addr": "255 courtland st.",
+  "city": "atlanta",
+  "phone": "404-221-6362",
+  "type": "continental",
+  "rClass": " '87'"
+}, {
+  "id": 178,
+  "name": "pano's & paul's",
+  "addr": "1232 w. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404-261-3662",
+  "type": "american (new)",
+  "rClass": " '88'"
+}, {
+  "id": 177,
+  "name": "pano's and paul's",
+  "addr": "1232 w. paces ferry rd.",
+  "city": "atlanta",
+  "phone": "404/261-3662",
+  "type": "international",
+  "rClass": " '88'"
+}, {
+  "id": 180,
+  "name": "ritz-carlton cafe (buckhead)",
+  "addr": "3434 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-237-2700",
+  "type": "american (new)",
+  "rClass": " '89'"
+}, {
+  "id": 179,
+  "name": "cafe  ritz-carlton  buckhead",
+  "addr": "3434 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/237-2700",
+  "type": "ext 6108 international",
+  "rClass": " '89'"
+}, {
+  "id": 19,
+  "name": "grill on the alley",
+  "addr": "9560 dayton way",
+  "city": "los angeles",
+  "phone": "310/276-0615",
+  "type": "american",
+  "rClass": " '9'"
+}, {
+  "id": 20,
+  "name": "grill  the",
+  "addr": "9560 dayton way",
+  "city": "beverly hills",
+  "phone": "310-276-0615",
+  "type": "american (traditional)",
+  "rClass": " '9'"
+}, {
+  "id": 182,
+  "name": "ritz-carlton dining room (buckhead)",
+  "addr": "3434 peachtree rd. ne",
+  "city": "atlanta",
+  "phone": "404-237-2700",
+  "type": "american (new)",
+  "rClass": " '90'"
+}, {
+  "id": 181,
+  "name": "dining room  ritz-carlton  buckhead",
+  "addr": "3434 peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/237-2700",
+  "type": "international",
+  "rClass": " '90'"
+}, {
+  "id": 183,
+  "name": "restaurant  ritz-carlton  atlanta",
+  "addr": "181 peachtree st.",
+  "city": "atlanta",
+  "phone": "404/659-0400",
+  "type": "continental",
+  "rClass": " '91'"
+}, {
+  "id": 184,
+  "name": "ritz-carlton restaurant",
+  "addr": "181 peachtree st.",
+  "city": "atlanta",
+  "phone": "404-659-0400",
+  "type": "french (classic)",
+  "rClass": " '91'"
+}, {
+  "id": 185,
+  "name": "toulouse",
+  "addr": "b peachtree rd.",
+  "city": "atlanta",
+  "phone": "404/351-9533",
+  "type": "french",
+  "rClass": " '92'"
+}, {
+  "id": 186,
+  "name": "toulouse",
+  "addr": "293-b peachtree rd.",
+  "city": "atlanta",
+  "phone": "404-351-9533",
+  "type": "french (new)",
+  "rClass": " '92'"
+}, {
+  "id": 187,
+  "name": "veni vidi vici",
+  "addr": "41 14th st.",
+  "city": "atlanta",
+  "phone": "404/875-8424",
+  "type": "italian",
+  "rClass": " '93'"
+}, {
+  "id": 188,
+  "name": "veni vidi vici",
+  "addr": "41 14th st.",
+  "city": "atlanta",
+  "phone": "404-875-8424",
+  "type": "italian",
+  "rClass": " '93'"
+}, {
+  "id": 189,
+  "name": "alain rondelli",
+  "addr": "126 clement st.",
+  "city": "san francisco",
+  "phone": "415/387-0408",
+  "type": "french",
+  "rClass": " '94'"
+}, {
+  "id": 190,
+  "name": "alain rondelli",
+  "addr": "126 clement st.",
+  "city": "san francisco",
+  "phone": "415-387-0408",
+  "type": "french (new)",
+  "rClass": " '94'"
+}, {
+  "id": 192,
+  "name": "aqua",
+  "addr": "252 california st.",
+  "city": "san francisco",
+  "phone": "415-956-9662",
+  "type": "american (new)",
+  "rClass": " '95'"
+}, {
+  "id": 191,
+  "name": "aqua",
+  "addr": "252 california st.",
+  "city": "san francisco",
+  "phone": "415/956-9662",
+  "type": "seafood",
+  "rClass": " '95'"
+}, {
+  "id": 193,
+  "name": "boulevard",
+  "addr": "1 mission st.",
+  "city": "san francisco",
+  "phone": "415/543-6084",
+  "type": "american",
+  "rClass": " '96'"
+}, {
+  "id": 194,
+  "name": "boulevard",
+  "addr": "1 mission st.",
+  "city": "san francisco",
+  "phone": "415-543-6084",
+  "type": "american (new)",
+  "rClass": " '96'"
+}, {
+  "id": 195,
+  "name": "cafe claude",
+  "addr": "7 claude la.",
+  "city": "san francisco",
+  "phone": "415/392-3505",
+  "type": "french",
+  "rClass": " '97'"
+}, {
+  "id": 196,
+  "name": "cafe claude",
+  "addr": "7 claude ln.",
+  "city": "san francisco",
+  "phone": "415-392-3505",
+  "type": "french bistro",
+  "rClass": " '97'"
+}, {
+  "id": 197,
+  "name": "campton place",
+  "addr": "340 stockton st.",
+  "city": "san francisco",
+  "phone": "415/955-5555",
+  "type": "american",
+  "rClass": " '98'"
+}, {
+  "id": 198,
+  "name": "campton place",
+  "addr": "340 stockton st.",
+  "city": "san francisco",
+  "phone": "415-955-5555",
+  "type": "american (new)",
+  "rClass": " '98'"
+}, {
+  "id": 200,
+  "name": "chez michel",
+  "addr": "804 north point st.",
+  "city": "san francisco",
+  "phone": "415-775-7036",
+  "type": "californian",
+  "rClass": " '99'"
+}, {
+  "id": 199,
+  "name": "chez michel",
+  "addr": "804 northpoint",
+  "city": "san francisco",
+  "phone": "415/775-7036",
+  "type": "french",
+  "rClass": " '99'"
+}]

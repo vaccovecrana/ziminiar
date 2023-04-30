@@ -1,20 +1,14 @@
 package io.vacco.ziminiar;
 
 import com.google.gson.Gson;
-import io.vacco.ziminiar.document.ZnDocument;
-import io.vacco.ziminiar.document.ZnShingle;
-import io.vacco.ziminiar.superminhash.ZnBuffer;
-import io.vacco.ziminiar.superminhash.ZnBuffers;
-import io.vacco.ziminiar.superminhash.ZnPipeline;
+import io.vacco.ziminiar.document.*;
+import io.vacco.ziminiar.superminhash.*;
 import j8spec.annotation.DefinedOrder;
 import j8spec.junit.J8SpecRunner;
 import org.junit.runner.RunWith;
 
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-import java.util.TreeMap;
+import java.util.*;
 import java.util.function.Function;
 
 import static j8spec.J8Spec.*;

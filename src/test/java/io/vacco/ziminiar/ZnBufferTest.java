@@ -1,6 +1,7 @@
 package io.vacco.ziminiar;
 
-import io.vacco.ziminiar.document.*;
+import io.vacco.ziminiar.document.ZShingle;
+import io.vacco.ziminiar.document.ZnShingles;
 import io.vacco.ziminiar.superminhash.ZnBuffer;
 import io.vacco.ziminiar.superminhash.ZnBuffers;
 import j8spec.annotation.DefinedOrder;
@@ -10,7 +11,7 @@ import org.junit.runner.RunWith;
 import java.util.Arrays;
 import java.util.function.Function;
 
-import static j8spec.J8Spec.*;
+import static j8spec.J8Spec.it;
 
 @DefinedOrder
 @RunWith(J8SpecRunner.class)
@@ -47,14 +48,14 @@ public class ZnBufferTest {
 
       var shingleLength = 1;
       for (var p : new ZnTestPair[]{
-          ZnTestPair.from("abc", ""),
-          ZnTestPair.from("", "abc"),
-          ZnTestPair.from("", ""),
-          ZnTestPair.from("abc", "abc"),
-          ZnTestPair.from("abc", "xyz"),
-          ZnTestPair.from("night", "nacht"),
-          ZnTestPair.from("context", "contact"),
-          ZnTestPair.from("ht", "nacht"),
+        ZnTestPair.from("abc", ""),
+        ZnTestPair.from("", "abc"),
+        ZnTestPair.from("", ""),
+        ZnTestPair.from("abc", "abc"),
+        ZnTestPair.from("abc", "xyz"),
+        ZnTestPair.from("night", "nacht"),
+        ZnTestPair.from("context", "contact"),
+        ZnTestPair.from("ht", "nacht"),
       }) {
         System.out.println(p.d0);
         var b0 = ZnShingles.fromDocument(p.d0, shingleLength, sigLength, hashFn, ZnBufferTest::logBuffer);

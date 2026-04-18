@@ -1,10 +1,14 @@
 package io.vacco.ziminiar.document;
 
-import io.vacco.ziminiar.superminhash.*;
+import io.vacco.ziminiar.superminhash.ZnBuffer;
+import io.vacco.ziminiar.superminhash.ZnBuffers;
+
 import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
-import java.util.stream.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 public class ZnShingles {
 
@@ -13,15 +17,15 @@ public class ZnShingles {
       return Stream.empty();
     }
     return IntStream.range(0, in.length() - size + 1)
-        .mapToObj(start -> in.substring(start, start + size));
+      .mapToObj(start -> in.substring(start, start + size));
   }
 
   public static List<ZShingle> apply(String in, int size) {
     return sliding(in, size)
-        .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
-        .entrySet().stream()
-        .map(e -> ZShingle.from(e.getKey(), e.getValue()))
-        .sorted().collect(Collectors.toList());
+      .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
+      .entrySet().stream()
+      .map(e -> ZShingle.from(e.getKey(), e.getValue()))
+      .sorted().collect(Collectors.toList());
   }
 
   public static ZnBuffer fromDocument(String document,

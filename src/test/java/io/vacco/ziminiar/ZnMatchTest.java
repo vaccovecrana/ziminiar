@@ -2,7 +2,9 @@ package io.vacco.ziminiar;
 
 import io.vacco.ziminiar.document.ZShingle;
 import io.vacco.ziminiar.document.ZnShingles;
+import io.vacco.ziminiar.superminhash.ZnBuffer;
 import io.vacco.ziminiar.superminhash.ZnBuffers;
+import io.vacco.ziminiar.superminhash.ZnStream;
 import j8spec.annotation.DefinedOrder;
 import j8spec.junit.J8SpecRunner;
 import org.junit.runner.RunWith;
@@ -10,7 +12,9 @@ import org.junit.runner.RunWith;
 import java.util.*;
 import java.util.function.Function;
 
-import static j8spec.J8Spec.*;
+import static j8spec.J8Spec.it;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertTrue;
 
 @DefinedOrder
 @RunWith(J8SpecRunner.class)
@@ -371,7 +375,7 @@ public class ZnMatchTest {
 
     it("Matches similar headlines", () -> {
       var hashFn = (Function<ZShingle, Long>) sh -> (long) sh.token.hashCode();
-      for (var shLen : new int []{3, 4}) {
+      for (var shLen : new int[]{3, 4}) {
         for (var sigLen : new int[]{128, 256}) {
           System.out.println("-".repeat(32));
           System.out.printf("Shingle length: %d Signature Length: %d%n", shLen, sigLen);
@@ -395,6 +399,35 @@ public class ZnMatchTest {
           }
         }
       }
+    });
+
+    it("Test streaming utilities", () -> {
+      var hashFn = (Function<ZShingle, Long>) sh -> (long) sh.token.hashCode();
+      var shingleLen = 3;
+      var sigLen = 128;
+
+      // 1. Streaming hash
+      var buf1 = new ZnBuffer();
+      buf1.init(sigLen);
+      ZnStream.streamHash("Hello world", shingleLen, hashFn, buf1);
+      ZnStream.streamHash(" this is a test", shingleLen, hashFn, buf1);
+      assertNotNull(buf1.fill());
+
+      // 2. Pipeline hash
+      var preprocessors = List.of((Function<String, String>) String::toLowerCase, s -> s.replaceAll("\\W", " "));
+      var buf2 = ZnStream.pipelineHash("HELLO WORLD!", preprocessors, shingleLen, sigLen, hashFn);
+      assertNotNull(buf2);
+
+      // 3. With callback
+      var updates = new ArrayList<ZnBuffer>();
+      var buf3 = ZnStream.fromDocumentWithCallback("Hello world", shingleLen, sigLen, hashFn, updates::add);
+      assertTrue(updates.size() > 0);
+      assertNotNull(buf3);
+
+      // 4. Append
+      var buf4 = ZnShingles.fromDocument("Hello", shingleLen, sigLen, hashFn);
+      ZnStream.appendToBuffer(buf4, " world", shingleLen, hashFn);
+      assertNotNull(buf4.fill());
     });
 
   }

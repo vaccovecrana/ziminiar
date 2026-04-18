@@ -14,11 +14,13 @@ public class ZShingle implements Comparable<ZShingle> {
     return s;
   }
 
-  @Override public int compareTo(ZShingle o) {
+  @Override
+  public int compareTo(ZShingle o) {
     return this.token.compareTo(o.token);
   }
 
-  @Override public String toString() {
+  @Override
+  public String toString() {
     return String.format("[%s -> %d]", token, weight);
   }
 

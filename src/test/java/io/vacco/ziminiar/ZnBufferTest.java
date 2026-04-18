@@ -24,10 +24,10 @@ public class ZnBufferTest {
     it("Converts tokens into weighted shingles", () -> {
       var sigLength = 128;
 
-      Function<ZShingle, Long> hashFn = sh -> (long) sh.token.hashCode();
-      String d0 = "How are you? I Am fine. ablar ablar xyz blar blar blar blar blar blar blar Thanks.";
-      String d1 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar than";
-      String d2 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar thank";
+      var hashFn = (Function<ZShingle, Long>) sh -> (long) sh.token.hashCode();
+      var d0 = "How are you? I Am fine. ablar ablar xyz blar blar blar blar blar blar blar Thanks.";
+      var d1 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar than";
+      var d2 = "How are you i am fine.ablar ablar xyz blar blar blar blar blar blar blar thank";
 
       for (int i = 1; i < 8; i++) {
         System.out.println(d0);
@@ -46,7 +46,7 @@ public class ZnBufferTest {
       }
 
       var shingleLength = 1;
-      for (ZnTestPair p : new ZnTestPair[]{
+      for (var p : new ZnTestPair[]{
           ZnTestPair.from("abc", ""),
           ZnTestPair.from("", "abc"),
           ZnTestPair.from("", ""),
